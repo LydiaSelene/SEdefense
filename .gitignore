@@ -1,1 +1,11 @@
-Library
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Assets
+!ProjectSettings
+# etc...
+
+# ...even if they are in subdirectories
+#!*/
