@@ -1,0 +1,1839 @@
+fileFormatVersion: 2
+guid: ada80f9844a3ed24eb32d0834b4c2ab0
+timeCreated: 1450110316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Acidus_Yellow_noBG_0
+    21300002: Acidus_Yellow_noBG_1
+    21300004: Acidus_Yellow_noBG_2
+    21300006: Acidus_Yellow_noBG_3
+    21300008: Acidus_Yellow_noBG_4
+    21300010: Acidus_Yellow_noBG_5
+    21300012: Acidus_Yellow_noBG_6
+    21300014: Acidus_Yellow_noBG_7
+    21300016: Acidus_Yellow_noBG_8
+    21300018: Acidus_Yellow_noBG_9
+    21300020: Acidus_Yellow_noBG_10
+    21300022: Acidus_Yellow_noBG_11
+    21300024: Acidus_Yellow_noBG_12
+    21300026: Acidus_Yellow_noBG_13
+    21300028: Acidus_Yellow_noBG_14
+    21300030: Acidus_Yellow_noBG_15
+    21300032: Acidus_Yellow_noBG_16
+    21300034: Acidus_Yellow_noBG_17
+    21300036: Acidus_Yellow_noBG_18
+    21300038: Acidus_Yellow_noBG_19
+    21300040: Acidus_Yellow_noBG_20
+    21300042: Acidus_Yellow_noBG_21
+    21300044: Acidus_Yellow_noBG_22
+    21300046: Acidus_Yellow_noBG_23
+    21300048: Acidus_Yellow_noBG_24
+    21300050: Acidus_Yellow_noBG_25
+    21300052: Acidus_Yellow_noBG_26
+    21300054: Acidus_Yellow_noBG_27
+    21300056: Acidus_Yellow_noBG_28
+    21300058: Acidus_Yellow_noBG_29
+    21300060: Acidus_Yellow_noBG_30
+    21300062: Acidus_Yellow_noBG_31
+    21300064: Acidus_Yellow_noBG_32
+    21300066: Acidus_Yellow_noBG_33
+    21300068: Acidus_Yellow_noBG_34
+    21300070: Acidus_Yellow_noBG_35
+    21300072: Acidus_Yellow_noBG_36
+    21300074: Acidus_Yellow_noBG_37
+    21300076: Acidus_Yellow_noBG_38
+    21300078: Acidus_Yellow_noBG_39
+    21300080: Acidus_Yellow_noBG_40
+    21300082: Acidus_Yellow_noBG_41
+    21300084: Acidus_Yellow_noBG_42
+    21300086: Acidus_Yellow_noBG_43
+    21300088: Acidus_Yellow_noBG_44
+    21300090: Acidus_Yellow_noBG_45
+    21300092: Acidus_Yellow_noBG_46
+    21300094: Acidus_Yellow_noBG_47
+    21300096: Acidus_Yellow_noBG_48
+    21300098: Acidus_Yellow_noBG_49
+    21300100: Acidus_Yellow_noBG_50
+    21300102: Acidus_Yellow_noBG_51
+    21300104: Acidus_Yellow_noBG_52
+    21300106: Acidus_Yellow_noBG_53
+    21300108: Acidus_Yellow_noBG_54
+    21300110: Acidus_Yellow_noBG_55
+    21300112: Acidus_Yellow_noBG_56
+    21300114: Acidus_Yellow_noBG_57
+    21300116: Acidus_Yellow_noBG_58
+    21300118: Acidus_Yellow_noBG_59
+    21300120: Acidus_Yellow_noBG_60
+    21300122: Acidus_Yellow_noBG_61
+    21300124: Acidus_Yellow_noBG_62
+    21300126: Acidus_Yellow_noBG_63
+    21300128: Acidus_Yellow_noBG_64
+    21300130: Acidus_Yellow_noBG_65
+    21300132: Acidus_Yellow_noBG_66
+    21300134: Acidus_Yellow_noBG_67
+    21300136: Acidus_Yellow_noBG_68
+    21300138: Acidus_Yellow_noBG_69
+    21300140: Acidus_Yellow_noBG_70
+    21300142: Acidus_Yellow_noBG_71
+    21300144: Acidus_Yellow_noBG_72
+    21300146: Acidus_Yellow_noBG_73
+    21300148: Acidus_Yellow_noBG_74
+    21300150: Acidus_Yellow_noBG_75
+    21300152: Acidus_Yellow_noBG_76
+    21300154: Acidus_Yellow_noBG_77
+    21300156: Acidus_Yellow_noBG_78
+    21300158: Acidus_Yellow_noBG_79
+    21300160: Acidus_Yellow_noBG_80
+    21300162: Acidus_Yellow_noBG_81
+    21300164: Acidus_Yellow_noBG_82
+    21300166: Acidus_Yellow_noBG_83
+    21300168: Acidus_Yellow_noBG_84
+    21300170: Acidus_Yellow_noBG_85
+    21300172: Acidus_Yellow_noBG_86
+    21300174: Acidus_Yellow_noBG_87
+    21300176: Acidus_Yellow_noBG_88
+    21300178: Acidus_Yellow_noBG_89
+    21300180: Acidus_Yellow_noBG_90
+    21300182: Acidus_Yellow_noBG_91
+    21300184: Acidus_Yellow_noBG_92
+    21300186: Acidus_Yellow_noBG_93
+    21300188: Acidus_Yellow_noBG_94
+    21300190: Acidus_Yellow_noBG_95
+    21300192: Acidus_Yellow_noBG_96
+    21300194: Acidus_Yellow_noBG_97
+    21300196: Acidus_Yellow_noBG_98
+    21300198: Acidus_Yellow_noBG_99
+    21300200: Acidus_Yellow_noBG_100
+    21300202: Acidus_Yellow_noBG_101
+    21300204: Acidus_Yellow_noBG_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Acidus_Yellow_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 620
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 42}
+        - {x: -42, y: 2}
+        - {x: -43, y: -1}
+        - {x: -43, y: -42}
+        - {x: 23, y: -42}
+        - {x: 37, y: -32}
+        - {x: 43, y: -27}
+        - {x: 43, y: 42}
+    - name: Acidus_Yellow_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 623
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 30}
+        - {x: 24, y: 26}
+        - {x: 7, y: 40}
+        - {x: -1, y: 40}
+        - {x: -4, y: 29}
+        - {x: -37, y: 6}
+        - {x: -43, y: -5}
+        - {x: -43, y: -40}
+        - {x: 16, y: -40}
+        - {x: 43, y: -37}
+        - {x: 43, y: 40}
+        - {x: 40, y: 40}
+    - name: Acidus_Yellow_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 628
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 35.5}
+        - {x: -40, y: 14.5}
+        - {x: -49, y: 0.5}
+        - {x: -49, y: -35.5}
+        - {x: 31, y: -35.5}
+        - {x: 47, y: -14.5}
+        - {x: 49, y: 11.5}
+        - {x: 49, y: 35.5}
+    - name: Acidus_Yellow_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 631
+        width: 103
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -10.5}
+        - {x: 13.5, y: -15.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 28.5, y: -13.5}
+        - {x: 31.5, y: -24.5}
+        - {x: 34.5, y: -26.5}
+        - {x: 46.5, y: -17.5}
+        - {x: 51.5, y: -1.5}
+        - {x: 51.5, y: 31.5}
+        - {x: 48.5, y: 32.5}
+        - {x: -37.5, y: 32.5}
+        - {x: -51.5, y: 9.5}
+        - {x: -51.5, y: -32.5}
+        - {x: 15.5, y: -32.5}
+        - {x: 11.5, y: -14.5}
+        - {x: 6.5, y: -13.5}
+        - {x: 4.5, y: -13.5}
+    - name: Acidus_Yellow_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 631
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 17}
+        - {x: 21.5, y: 32}
+        - {x: -28.5, y: 32}
+        - {x: -50.5, y: 13}
+        - {x: -50.5, y: -32}
+        - {x: 50.5, y: -32}
+    - name: Acidus_Yellow_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 631
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -17.5}
+        - {x: 53, y: -20.5}
+        - {x: 53, y: -5.5}
+        - {x: 38, y: 22.5}
+        - {x: 26, y: 32.5}
+        - {x: -23, y: 32.5}
+        - {x: -53, y: 20.5}
+        - {x: -53, y: -32.5}
+        - {x: -17, y: -32.5}
+        - {x: 24, y: -23.5}
+        - {x: 23, y: -12.5}
+        - {x: 22, y: -9.5}
+    - name: Acidus_Yellow_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 634
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -12.5}
+        - {x: 45, y: -19.5}
+        - {x: 50, y: -20.5}
+        - {x: 50, y: 5.5}
+        - {x: 22, y: 31.5}
+        - {x: 19, y: 32.5}
+        - {x: -24, y: 32.5}
+        - {x: -50, y: 6.5}
+        - {x: -50, y: -32.5}
+        - {x: 11, y: -32.5}
+        - {x: 10, y: -24.5}
+        - {x: 8, y: -18.5}
+        - {x: 19, y: -15.5}
+    - name: Acidus_Yellow_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 627
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 39}
+        - {x: -49.5, y: 21}
+        - {x: -49.5, y: -39}
+        - {x: 49.5, y: -39}
+        - {x: 49.5, y: 33}
+        - {x: 40.5, y: 39}
+    - name: Acidus_Yellow_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 643
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 620
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 620
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 620
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 620
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 620
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 617
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 604
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 604
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 601
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 528
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 36.5}
+        - {x: -51, y: 32.5}
+        - {x: -51, y: -6.5}
+        - {x: 4, y: -26.5}
+        - {x: 9, y: -21.5}
+        - {x: 12, y: -17.5}
+        - {x: 12, y: -14.5}
+        - {x: 14, y: -14.5}
+        - {x: 10, y: -22.5}
+        - {x: 0, y: -34.5}
+        - {x: -1, y: -36.5}
+        - {x: 21, y: -36.5}
+        - {x: 51, y: 0.5}
+        - {x: 51, y: 25.5}
+        - {x: 34, y: 36.5}
+    - name: Acidus_Yellow_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 525
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 37.5}
+        - {x: -35, y: 37.5}
+        - {x: -45, y: 20.5}
+        - {x: -45, y: -5.5}
+        - {x: 5, y: -37.5}
+        - {x: 19, y: -37.5}
+        - {x: 34, y: -19.5}
+        - {x: 43, y: 10.5}
+        - {x: 45, y: 19.5}
+    - name: Acidus_Yellow_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 521
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 41}
+        - {x: -48.5, y: 24}
+        - {x: -48.5, y: 2}
+        - {x: -41.5, y: 1}
+        - {x: 3.5, y: -41}
+        - {x: 24.5, y: -41}
+        - {x: 48.5, y: -1}
+        - {x: 48.5, y: 17}
+        - {x: 10.5, y: 41}
+    - name: Acidus_Yellow_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 521
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 41}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: -1}
+        - {x: 28.5, y: -41}
+        - {x: 34.5, y: -41}
+        - {x: 43.5, y: -17}
+        - {x: 43.5, y: 8}
+        - {x: 14.5, y: 41}
+    - name: Acidus_Yellow_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 523
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 39}
+        - {x: -41, y: 26}
+        - {x: -41, y: -4}
+        - {x: 25, y: -39}
+        - {x: 41, y: -39}
+        - {x: 41, y: 11}
+        - {x: 18, y: 39}
+    - name: Acidus_Yellow_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 527
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 35}
+        - {x: -47, y: -17}
+        - {x: -13, y: -35}
+        - {x: 47, y: -35}
+        - {x: 47, y: 21}
+        - {x: 10, y: 35}
+    - name: Acidus_Yellow_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 526
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 36.5}
+        - {x: -44.5, y: 22.5}
+        - {x: -44.5, y: -6.5}
+        - {x: 6.5, y: -26.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 16.5, y: -18.5}
+        - {x: 14.5, y: -23.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 44.5, y: -36.5}
+        - {x: 44.5, y: -17.5}
+        - {x: 40.5, y: 7.5}
+        - {x: 10.5, y: 36.5}
+    - name: Acidus_Yellow_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 520
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 39}
+        - {x: -49, y: 38}
+        - {x: -49, y: -13}
+        - {x: 9, y: -39}
+        - {x: 45, y: -39}
+        - {x: 49, y: -27}
+        - {x: 49, y: 20}
+        - {x: 37, y: 39}
+    - name: Acidus_Yellow_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 556
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 431
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -33.5}
+        - {x: 43, y: 33.5}
+        - {x: -43, y: 33.5}
+        - {x: -43, y: -33.5}
+        - {x: -29, y: -33.5}
+        - {x: -11, y: -22.5}
+        - {x: 11, y: -30.5}
+        - {x: 37, y: -33.5}
+    - name: Acidus_Yellow_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 431
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 33}
+        - {x: -49, y: 9}
+        - {x: -49, y: -33}
+        - {x: 25, y: -33}
+        - {x: 49, y: -21}
+        - {x: 49, y: 20}
+        - {x: 26, y: 33}
+    - name: Acidus_Yellow_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 425
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -19}
+        - {x: 4.5, y: -16}
+        - {x: 13.5, y: -21}
+        - {x: 19.5, y: -22}
+        - {x: 28.5, y: -19}
+        - {x: 31.5, y: -30}
+        - {x: 34.5, y: -34}
+        - {x: 46.5, y: -18}
+        - {x: 49.5, y: -9}
+        - {x: 49.5, y: 35}
+        - {x: 40.5, y: 40}
+        - {x: -17.5, y: 40}
+        - {x: -49.5, y: 18}
+        - {x: -49.5, y: -40}
+        - {x: -17.5, y: -40}
+        - {x: 7.5, y: -33}
+        - {x: 11.5, y: -20}
+        - {x: 6.5, y: -19}
+    - name: Acidus_Yellow_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 427
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 38.5}
+        - {x: -47.5, y: 22.5}
+        - {x: -47.5, y: -38.5}
+        - {x: 47.5, y: -38.5}
+        - {x: 47.5, y: -6.5}
+        - {x: 30.5, y: 38.5}
+    - name: Acidus_Yellow_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 429
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 10}
+        - {x: -52, y: -36}
+        - {x: 52, y: -36}
+        - {x: 52, y: -1}
+        - {x: 36, y: 36}
+        - {x: -18, y: 36}
+        - {x: -31, y: 26}
+    - name: Acidus_Yellow_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 427
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: -26}
+        - {x: 53.5, y: -25}
+        - {x: 53.5, y: 6}
+        - {x: 52.5, y: 31}
+        - {x: 47.5, y: 33}
+        - {x: -20.5, y: 33}
+        - {x: -53.5, y: -1}
+        - {x: -53.5, y: -18}
+        - {x: -47.5, y: -31}
+        - {x: -9.5, y: -23}
+        - {x: -6.5, y: -18}
+        - {x: -7.5, y: -14}
+        - {x: -6.5, y: -17}
+        - {x: -6.5, y: -27}
+        - {x: -0.5, y: -33}
+        - {x: 27.5, y: -33}
+        - {x: 30.5, y: -19}
+        - {x: 29.5, y: -16}
+    - name: Acidus_Yellow_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 429
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -31.5}
+        - {x: 20, y: -31.5}
+        - {x: 56, y: -20.5}
+        - {x: 56, y: 31.5}
+        - {x: -41, y: 31.5}
+        - {x: -56, y: 11.5}
+        - {x: -56, y: -30.5}
+        - {x: -55, y: -31.5}
+        - {x: -31, y: -31.5}
+        - {x: -11, y: -21.5}
+        - {x: -9, y: -17.5}
+        - {x: -9, y: -22.5}
+    - name: Acidus_Yellow_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 427
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 33}
+        - {x: -7.5, y: 33}
+        - {x: -33.5, y: 24}
+        - {x: -51.5, y: 9}
+        - {x: -51.5, y: -33}
+        - {x: 21.5, y: -33}
+        - {x: 46.5, y: -17}
+        - {x: 51.5, y: -6}
+        - {x: 51.5, y: 12}
+    - name: Acidus_Yellow_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 436
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 404
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 404
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 404
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 404
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 404
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 401
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 321
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 37}
+        - {x: -35, y: 37}
+        - {x: -43, y: 26}
+        - {x: -43, y: 0}
+        - {x: -40, y: -8}
+        - {x: 11, y: -29}
+        - {x: 20, y: -17}
+        - {x: 20, y: -14}
+        - {x: 21, y: -19}
+        - {x: 12, y: -37}
+        - {x: 22, y: -37}
+        - {x: 41, y: -31}
+        - {x: 43, y: -25}
+        - {x: 43, y: 21}
+    - name: Acidus_Yellow_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 317
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -1}
+        - {x: 4, y: -22}
+        - {x: 9, y: -21}
+        - {x: 14, y: -14}
+        - {x: 13, y: -11}
+        - {x: 17, y: -11}
+        - {x: 15, y: -22}
+        - {x: 13, y: -41}
+        - {x: 25, y: -41}
+        - {x: 49, y: -13}
+        - {x: 49, y: 19}
+        - {x: 18, y: 41}
+        - {x: -40, y: 41}
+        - {x: -49, y: 23}
+    - name: Acidus_Yellow_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 317
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -41}
+        - {x: 34, y: -41}
+        - {x: 51, y: -19}
+        - {x: 51, y: 33}
+        - {x: 41, y: 41}
+        - {x: -44, y: 41}
+        - {x: -51, y: 38}
+        - {x: -51, y: -2}
+    - name: Acidus_Yellow_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 318
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 39}
+        - {x: -45, y: 24}
+        - {x: -45, y: 0}
+        - {x: 9, y: -32}
+        - {x: 27, y: -39}
+        - {x: 44, y: -39}
+        - {x: 45, y: -24}
+        - {x: 45, y: 39}
+    - name: Acidus_Yellow_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 322
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 35}
+        - {x: -48.5, y: 34}
+        - {x: -48.5, y: -9}
+        - {x: 7.5, y: -35}
+        - {x: 48.5, y: -35}
+        - {x: 48.5, y: 17}
+        - {x: 34.5, y: 35}
+    - name: Acidus_Yellow_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 321
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 36}
+        - {x: -44.5, y: 17}
+        - {x: -44.5, y: -4}
+        - {x: -31.5, y: -2}
+        - {x: -21.5, y: 1}
+        - {x: -16.5, y: -28}
+        - {x: 8.5, y: -36}
+        - {x: 44.5, y: -36}
+        - {x: 44.5, y: 3}
+        - {x: 19.5, y: 36}
+    - name: Acidus_Yellow_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 319
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 38}
+        - {x: -45, y: 25}
+        - {x: -45, y: 3}
+        - {x: -44, y: -2}
+        - {x: 32, y: -38}
+        - {x: 45, y: -38}
+        - {x: 45, y: 9}
+        - {x: 20, y: 38}
+    - name: Acidus_Yellow_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 324
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 35.5}
+        - {x: -42.5, y: 27.5}
+        - {x: -42.5, y: -4.5}
+        - {x: -35.5, y: -9.5}
+        - {x: 13.5, y: -25.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 9.5, y: -34.5}
+        - {x: 9.5, y: -35.5}
+        - {x: 20.5, y: -35.5}
+        - {x: 42.5, y: -18.5}
+        - {x: 42.5, y: 12.5}
+        - {x: 23.5, y: 35.5}
+    - name: Acidus_Yellow_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 348
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 204
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 30}
+        - {x: 24, y: 26}
+        - {x: 7, y: 40}
+        - {x: -1, y: 40}
+        - {x: -4, y: 29}
+        - {x: -37, y: 6}
+        - {x: -43, y: -5}
+        - {x: -43, y: -40}
+        - {x: 16, y: -40}
+        - {x: 43, y: -37}
+        - {x: 43, y: 40}
+        - {x: 40, y: 40}
+    - name: Acidus_Yellow_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 209
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: -17}
+        - {x: 58.5, y: 38}
+        - {x: 51.5, y: 41}
+        - {x: -49.5, y: 41}
+        - {x: -58.5, y: 9}
+        - {x: -58.5, y: -30}
+        - {x: -54.5, y: -41}
+        - {x: -34.5, y: -41}
+        - {x: 5.5, y: -37}
+        - {x: 12.5, y: -41}
+        - {x: 46.5, y: -41}
+    - name: Acidus_Yellow_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 204
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -1}
+        - {x: 4, y: -22}
+        - {x: 9, y: -21}
+        - {x: 14, y: -14}
+        - {x: 13, y: -11}
+        - {x: 17, y: -11}
+        - {x: 15, y: -22}
+        - {x: 13, y: -41}
+        - {x: 25, y: -41}
+        - {x: 49, y: -13}
+        - {x: 49, y: 19}
+        - {x: 18, y: 41}
+        - {x: -40, y: 41}
+        - {x: -49, y: 23}
+    - name: Acidus_Yellow_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 194
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 50}
+        - {x: -58.5, y: 34}
+        - {x: -58.5, y: 15}
+        - {x: -34.5, y: -12}
+        - {x: 26.5, y: -50}
+        - {x: 45.5, y: -50}
+        - {x: 54.5, y: -35}
+        - {x: 58.5, y: -6}
+        - {x: 58.5, y: 50}
+    - name: Acidus_Yellow_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 241
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 237
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 237
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 237
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 237
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 237
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 234
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 237
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 237
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 237
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 237
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 237
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 214
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: 151}
+        - {x: -107, y: -151}
+        - {x: -103, y: -151}
+        - {x: 107, y: -48}
+        - {x: 107, y: 151}
+      - - {x: -42, y: -109}
+        - {x: -43, y: -120}
+        - {x: -38, y: -125}
+        - {x: -26, y: -127}
+        - {x: -28, y: -131}
+        - {x: -32, y: -128}
+        - {x: -45, y: -124}
+        - {x: -85, y: -126}
+        - {x: -101, y: -128}
+        - {x: -101, y: -142}
+        - {x: -2, y: -142}
+        - {x: 4, y: -139}
+        - {x: 4, y: -110}
+        - {x: -3, y: -109}
+      - - {x: -100, y: -109}
+        - {x: -100, y: -126}
+        - {x: -43, y: -126}
+        - {x: -43, y: -109}
+      - - {x: 68, y: -77}
+        - {x: -21, y: -77}
+        - {x: -25, y: -79}
+        - {x: -28, y: -87}
+        - {x: -26, y: -93}
+        - {x: -14, y: -91}
+        - {x: -7, y: -94}
+        - {x: -10, y: -93}
+        - {x: -12, y: -95}
+        - {x: -29, y: -93}
+        - {x: -28, y: -82}
+        - {x: -30, y: -79}
+        - {x: -37, y: -77}
+        - {x: -50, y: -77}
+        - {x: -100, y: -89}
+        - {x: -100, y: -110}
+        - {x: 51, y: -110}
+        - {x: 66, y: -107}
+        - {x: 68, y: -105}
+      - - {x: -95, y: -77}
+        - {x: -98, y: -78}
+        - {x: -100, y: -82}
+        - {x: -100, y: -92}
+        - {x: -98, y: -93}
+        - {x: -73, y: -94}
+        - {x: -46, y: -94}
+        - {x: -46, y: -77}
+      - - {x: -10, y: -61}
+        - {x: -56, y: -61}
+        - {x: -56, y: -78}
+        - {x: -52, y: -78}
+        - {x: -49, y: -76}
+        - {x: -21, y: -78}
+        - {x: -11, y: -78}
+        - {x: -8, y: -73}
+        - {x: -8, y: -66}
+      - - {x: -59, y: -61}
+        - {x: -98, y: -61}
+        - {x: -100, y: -63}
+        - {x: -101, y: -66}
+        - {x: -101, y: -75}
+        - {x: -60, y: -75}
+        - {x: -58, y: -73}
+        - {x: -58, y: -64}
+    - name: Acidus_Yellow_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 193
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 123
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 110
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 25.5}
+        - {x: -23, y: -25.5}
+        - {x: 23, y: -25.5}
+        - {x: 23, y: 25.5}
+    - name: Acidus_Yellow_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24}
+        - {x: -28.5, y: 9}
+        - {x: -28.5, y: -24}
+        - {x: 28.5, y: -24}
+        - {x: 28.5, y: 12}
+        - {x: 24.5, y: 24}
+    - name: Acidus_Yellow_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 110
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 27}
+        - {x: -29, y: 27}
+        - {x: -35, y: 9}
+        - {x: -35, y: -25}
+        - {x: -31, y: -27}
+        - {x: 34, y: -27}
+        - {x: 35, y: -25}
+        - {x: 35, y: 12}
+        - {x: 21, y: 20}
+    - name: Acidus_Yellow_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 105
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 30}
+        - {x: -34, y: 30}
+        - {x: -35, y: 28}
+        - {x: -35, y: -27}
+        - {x: -34, y: -30}
+        - {x: 23, y: -30}
+        - {x: 35, y: -18}
+        - {x: 35, y: 10}
+        - {x: 26, y: 22}
+    - name: Acidus_Yellow_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 104
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 32.5}
+        - {x: -35.5, y: -32.5}
+        - {x: 14.5, y: -32.5}
+        - {x: 32.5, y: -29.5}
+        - {x: 35.5, y: -22.5}
+        - {x: 35.5, y: 16.5}
+        - {x: -4.5, y: 32.5}
+    - name: Acidus_Yellow_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 106
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 21.5}
+        - {x: 8.5, y: 16.5}
+        - {x: 8.5, y: 11.5}
+        - {x: 6.5, y: 20.5}
+        - {x: -1.5, y: 21.5}
+        - {x: -31.5, y: 21.5}
+        - {x: -31.5, y: -18.5}
+        - {x: -28.5, y: -21.5}
+        - {x: 27.5, y: -21.5}
+        - {x: 31.5, y: -13.5}
+        - {x: 31.5, y: 17.5}
+        - {x: 27.5, y: 21.5}
+    - name: Acidus_Yellow_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 139
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 110
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 25}
+        - {x: -31, y: -21}
+        - {x: -28, y: -25}
+        - {x: 24, y: -25}
+        - {x: 31, y: -23}
+        - {x: 31, y: 25}
+    - name: Acidus_Yellow_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 140
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 114
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 146
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 109
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 118
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 110
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 123
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -29}
+        - {x: 23.5, y: -15}
+        - {x: 42.5, y: -1}
+        - {x: 42.5, y: 13}
+        - {x: 34.5, y: 19}
+        - {x: 9.5, y: 36}
+        - {x: -11.5, y: 36}
+        - {x: -20.5, y: 34}
+        - {x: -42.5, y: 9}
+        - {x: -42.5, y: -20}
+        - {x: -32.5, y: -36}
+        - {x: -23.5, y: -36}
+        - {x: -22.5, y: -35}
+        - {x: -18.5, y: -36}
+        - {x: -15.5, y: -36}
+    - name: Acidus_Yellow_noBG_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 36}
+        - {x: -20.5, y: 36}
+        - {x: -42.5, y: 10}
+        - {x: -42.5, y: -23}
+        - {x: -36.5, y: -36}
+        - {x: -11.5, y: -36}
+        - {x: 42.5, y: 2}
+        - {x: 42.5, y: 15}
+        - {x: 39.5, y: 25}
+    - name: Acidus_Yellow_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 19
+        width: 109
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 24.5}
+        - {x: -54.5, y: 14.5}
+        - {x: -54.5, y: -24.5}
+        - {x: 6.5, y: -24.5}
+        - {x: 54.5, y: -14.5}
+        - {x: 54.5, y: 24.5}
+    - name: Acidus_Yellow_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 34.5}
+        - {x: -37, y: 34.5}
+        - {x: -37, y: -17.5}
+        - {x: -35, y: -21.5}
+        - {x: -1, y: -34.5}
+        - {x: 37, y: -34.5}
+        - {x: 37, y: -6.5}
+        - {x: 29, y: 27.5}
+    - name: Acidus_Yellow_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 10
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 29.5}
+        - {x: -36.5, y: -34.5}
+        - {x: 36.5, y: -34.5}
+        - {x: 36.5, y: 9.5}
+        - {x: 30.5, y: 22.5}
+        - {x: 13.5, y: 34.5}
+        - {x: -17.5, y: 34.5}
+        - {x: -35.5, y: 31.5}
+    - name: Acidus_Yellow_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 14
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: -13.5}
+        - {x: 53.5, y: -5.5}
+        - {x: 18.5, y: 30.5}
+        - {x: -38.5, y: 30.5}
+        - {x: -53.5, y: 12.5}
+        - {x: -53.5, y: -4.5}
+        - {x: -52.5, y: -6.5}
+        - {x: -22.5, y: -30.5}
+        - {x: 53.5, y: -30.5}
+        - {x: 53.5, y: -23.5}
+        - {x: 49.5, y: -19.5}
+    - name: Acidus_Yellow_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_97
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_98
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 33
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_99
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_100
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 30
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_101
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Acidus_Yellow_noBG_102
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 30
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

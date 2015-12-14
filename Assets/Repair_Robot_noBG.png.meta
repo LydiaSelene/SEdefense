@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 64cb32792078a224abf921c7c0e05864
+timeCreated: 1450109191
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Repair_Robot_noBG_0
+    21300002: Repair_Robot_noBG_1
+    21300004: Repair_Robot_noBG_2
+    21300006: Repair_Robot_noBG_3
+    21300008: Repair_Robot_noBG_4
+    21300010: Repair_Robot_noBG_5
+    21300012: Repair_Robot_noBG_6
+    21300014: Repair_Robot_noBG_7
+    21300016: Repair_Robot_noBG_8
+    21300018: Repair_Robot_noBG_9
+    21300020: Repair_Robot_noBG_10
+    21300022: Repair_Robot_noBG_11
+    21300024: Repair_Robot_noBG_12
+    21300026: Repair_Robot_noBG_13
+    21300028: Repair_Robot_noBG_14
+    21300030: Repair_Robot_noBG_15
+    21300032: Repair_Robot_noBG_16
+    21300034: Repair_Robot_noBG_17
+    21300036: Repair_Robot_noBG_18
+    21300038: Repair_Robot_noBG_19
+    21300040: Repair_Robot_noBG_20
+    21300042: Repair_Robot_noBG_21
+    21300044: Repair_Robot_noBG_22
+    21300046: Repair_Robot_noBG_23
+    21300048: Repair_Robot_noBG_24
+    21300050: Repair_Robot_noBG_25
+    21300052: Repair_Robot_noBG_26
+    21300054: Repair_Robot_noBG_27
+    21300056: Repair_Robot_noBG_28
+    21300058: Repair_Robot_noBG_29
+    21300060: Repair_Robot_noBG_30
+    21300062: Repair_Robot_noBG_31
+    21300064: Repair_Robot_noBG_32
+    21300066: Repair_Robot_noBG_33
+    21300068: Repair_Robot_noBG_34
+    21300070: Repair_Robot_noBG_35
+    21300072: Repair_Robot_noBG_36
+    21300074: Repair_Robot_noBG_37
+    21300076: Repair_Robot_noBG_38
+    21300078: Repair_Robot_noBG_39
+    21300080: Repair_Robot_noBG_40
+    21300082: Repair_Robot_noBG_41
+    21300084: Repair_Robot_noBG_42
+    21300086: Repair_Robot_noBG_43
+    21300088: Repair_Robot_noBG_44
+    21300090: Repair_Robot_noBG_45
+    21300092: Repair_Robot_noBG_46
+    21300094: Repair_Robot_noBG_47
+    21300096: Repair_Robot_noBG_48
+    21300098: Repair_Robot_noBG_49
+    21300100: Repair_Robot_noBG_50
+    21300102: Repair_Robot_noBG_51
+    21300104: Repair_Robot_noBG_52
+    21300106: Repair_Robot_noBG_53
+    21300108: Repair_Robot_noBG_54
+    21300110: Repair_Robot_noBG_55
+    21300112: Repair_Robot_noBG_56
+    21300114: Repair_Robot_noBG_57
+    21300116: Repair_Robot_noBG_58
+    21300118: Repair_Robot_noBG_59
+    21300120: Repair_Robot_noBG_60
+    21300122: Repair_Robot_noBG_61
+    21300124: Repair_Robot_noBG_62
+    21300126: Repair_Robot_noBG_63
+    21300128: Repair_Robot_noBG_64
+    21300130: Repair_Robot_noBG_65
+    21300132: Repair_Robot_noBG_66
+    21300134: Repair_Robot_noBG_67
+    21300136: Repair_Robot_noBG_68
+    21300138: Repair_Robot_noBG_69
+    21300140: Repair_Robot_noBG_70
+    21300142: Repair_Robot_noBG_71
+    21300144: Repair_Robot_noBG_72
+    21300146: Repair_Robot_noBG_73
+    21300148: Repair_Robot_noBG_74
+    21300150: Repair_Robot_noBG_75
+    21300152: Repair_Robot_noBG_76
+    21300154: Repair_Robot_noBG_77
+    21300156: Repair_Robot_noBG_78
+    21300158: Repair_Robot_noBG_79
+    21300160: Repair_Robot_noBG_80
+    21300162: Repair_Robot_noBG_81
+    21300164: Repair_Robot_noBG_82
+    21300166: Repair_Robot_noBG_83
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Repair_Robot_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1673
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 49}
+        - {x: -51, y: 7}
+        - {x: -51, y: -22}
+        - {x: -50, y: -29}
+        - {x: -9, y: -48}
+        - {x: 39, y: -48}
+        - {x: 50, y: -37}
+        - {x: 50, y: 10}
+        - {x: 28, y: 49}
+    - name: Repair_Robot_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1673
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 33}
+        - {x: 19, y: 49}
+        - {x: -23, y: 49}
+        - {x: -50, y: 26}
+        - {x: -50, y: -32}
+        - {x: -28, y: -49}
+        - {x: 25, y: -49}
+        - {x: 32, y: -45}
+        - {x: 50, y: -21}
+        - {x: 50, y: -8}
+        - {x: 45, y: 14}
+    - name: Repair_Robot_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1673
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 50}
+        - {x: -22, y: 50}
+        - {x: -51, y: 26}
+        - {x: -51, y: -22}
+        - {x: -49, y: -37}
+        - {x: -11, y: -49}
+        - {x: 30, y: -49}
+        - {x: 50, y: -26}
+        - {x: 50, y: 6}
+        - {x: 43, y: 30}
+    - name: Repair_Robot_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1673
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 48}
+        - {x: -52, y: 48}
+        - {x: -52, y: -28}
+        - {x: -39, y: -48}
+        - {x: 26, y: -48}
+        - {x: 52, y: -20}
+        - {x: 52, y: 11}
+        - {x: 50, y: 20}
+    - name: Repair_Robot_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1673
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 20}
+        - {x: 36, y: 21}
+        - {x: 22, y: 47}
+        - {x: 18, y: 50}
+        - {x: -15, y: 50}
+        - {x: -51, y: 21}
+        - {x: -51, y: -38}
+        - {x: -36, y: -49}
+        - {x: 29, y: -49}
+        - {x: 50, y: -23}
+        - {x: 50, y: -2}
+        - {x: 45, y: 15}
+    - name: Repair_Robot_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1673
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 48}
+        - {x: -18, y: 47}
+        - {x: -53, y: 8}
+        - {x: -53, y: -1}
+        - {x: -47, y: -23}
+        - {x: 1, y: -48}
+        - {x: 35, y: -48}
+        - {x: 53, y: -31}
+        - {x: 53, y: 19}
+        - {x: 41, y: 48}
+    - name: Repair_Robot_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1673
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -56}
+        - {x: -26, y: -61}
+        - {x: -26, y: -75}
+        - {x: 42, y: -75}
+        - {x: 42, y: -61}
+        - {x: 40, y: -56}
+      - - {x: -12, y: -9}
+        - {x: -15, y: -12}
+        - {x: -15, y: -15}
+        - {x: -12, y: -18}
+        - {x: -2, y: -37}
+        - {x: 2, y: -38}
+        - {x: 9, y: -38}
+        - {x: 9, y: -12}
+        - {x: 6, y: -9}
+    - name: Repair_Robot_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1523
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 23}
+        - {x: 18, y: 26}
+        - {x: 15, y: 26}
+        - {x: 17, y: 26}
+        - {x: 21, y: 29}
+        - {x: 22, y: 39}
+        - {x: 13, y: 48}
+        - {x: -5, y: 48}
+        - {x: -49, y: 7}
+        - {x: -49, y: -21}
+        - {x: -23, y: -48}
+        - {x: 17, y: -48}
+        - {x: 31, y: -37}
+        - {x: 48, y: -9}
+        - {x: 48, y: 2}
+        - {x: 39, y: 17}
+    - name: Repair_Robot_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1523
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 49}
+        - {x: -6, y: 49}
+        - {x: -47, y: 17}
+        - {x: -47, y: -11}
+        - {x: -39, y: -33}
+        - {x: -14, y: -48}
+        - {x: 27, y: -48}
+        - {x: 41, y: -40}
+        - {x: 47, y: -13}
+        - {x: 47, y: 26}
+    - name: Repair_Robot_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1523
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 22}
+        - {x: 35, y: 23}
+        - {x: 20, y: 27}
+        - {x: 17, y: 27}
+        - {x: 19, y: 27}
+        - {x: 23, y: 30}
+        - {x: 24, y: 40}
+        - {x: 15, y: 49}
+        - {x: -3, y: 49}
+        - {x: -47, y: 8}
+        - {x: -47, y: -7}
+        - {x: -31, y: -19}
+        - {x: -18, y: -16}
+        - {x: -17, y: -44}
+        - {x: -3, y: -49}
+        - {x: 17, y: -49}
+        - {x: 42, y: -42}
+        - {x: 46, y: -15}
+        - {x: 46, y: 20}
+    - name: Repair_Robot_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1523
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 25}
+        - {x: 23, y: 48}
+        - {x: -10, y: 48}
+        - {x: -45, y: 7}
+        - {x: -45, y: -11}
+        - {x: -29, y: -16}
+        - {x: -24, y: -15}
+        - {x: -18, y: -12}
+        - {x: -17, y: -37}
+        - {x: -1, y: -47}
+        - {x: 25, y: -47}
+        - {x: 30, y: -44}
+        - {x: 38, y: -30}
+        - {x: 45, y: -4}
+    - name: Repair_Robot_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1523
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 49}
+        - {x: -47, y: 9}
+        - {x: -47, y: -22}
+        - {x: -15, y: -49}
+        - {x: 35, y: -49}
+        - {x: 46, y: -39}
+        - {x: 46, y: 23}
+        - {x: 23, y: 49}
+    - name: Repair_Robot_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1523
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 26}
+        - {x: 16, y: 26}
+        - {x: 18, y: 26}
+        - {x: 22, y: 29}
+        - {x: 23, y: 39}
+        - {x: 16, y: 48}
+        - {x: -17, y: 48}
+        - {x: -50, y: 7}
+        - {x: -50, y: -10}
+        - {x: -34, y: -16}
+        - {x: -29, y: -15}
+        - {x: -20, y: -36}
+        - {x: -8, y: -47}
+        - {x: 21, y: -47}
+        - {x: 49, y: -25}
+        - {x: 49, y: 16}
+        - {x: 36, y: 30}
+    - name: Repair_Robot_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1523
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17}
+        - {x: 10, y: 17}
+        - {x: 10, y: 46}
+        - {x: 3, y: 46}
+        - {x: 0, y: 45}
+        - {x: -14, y: 26}
+      - - {x: -25, y: 75}
+        - {x: -24, y: 72}
+        - {x: 14, y: 68}
+        - {x: 40, y: 68}
+        - {x: 42, y: 73}
+        - {x: 42, y: 75}
+    - name: Repair_Robot_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1373
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 49}
+        - {x: -51, y: 7}
+        - {x: -51, y: -22}
+        - {x: -50, y: -29}
+        - {x: -9, y: -48}
+        - {x: 39, y: -48}
+        - {x: 50, y: -37}
+        - {x: 50, y: 10}
+        - {x: 28, y: 49}
+    - name: Repair_Robot_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1373
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 47}
+        - {x: 18, y: 50}
+        - {x: -19, y: 50}
+        - {x: -51, y: 29}
+        - {x: -51, y: -41}
+        - {x: -48, y: -49}
+        - {x: 29, y: -49}
+        - {x: 50, y: -31}
+        - {x: 50, y: 5}
+        - {x: 45, y: 15}
+        - {x: 39, y: 20}
+        - {x: 36, y: 21}
+    - name: Repair_Robot_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1373
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 48}
+        - {x: -53, y: 25}
+        - {x: -53, y: -28}
+        - {x: -22, y: -48}
+        - {x: 28, y: -48}
+        - {x: 52, y: -29}
+        - {x: 52, y: 11}
+        - {x: 33, y: 48}
+    - name: Repair_Robot_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1373
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 47}
+        - {x: 18, y: 50}
+        - {x: -16, y: 50}
+        - {x: -51, y: 23}
+        - {x: -51, y: -41}
+        - {x: -49, y: -49}
+        - {x: 50, y: -49}
+        - {x: 50, y: -3}
+        - {x: 47, y: 16}
+        - {x: 39, y: 20}
+        - {x: 36, y: 21}
+    - name: Repair_Robot_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1373
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 48}
+        - {x: -46, y: 23}
+        - {x: -53, y: 11}
+        - {x: -53, y: -32}
+        - {x: -26, y: -48}
+        - {x: 29, y: -48}
+        - {x: 52, y: -26}
+        - {x: 52, y: 25}
+        - {x: 39, y: 48}
+    - name: Repair_Robot_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1373
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 49}
+        - {x: -51, y: 7}
+        - {x: -51, y: -22}
+        - {x: -50, y: -29}
+        - {x: -9, y: -48}
+        - {x: 39, y: -48}
+        - {x: 50, y: -37}
+        - {x: 50, y: 10}
+        - {x: 28, y: 49}
+    - name: Repair_Robot_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1373
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -75}
+        - {x: 6, y: -72}
+        - {x: -5, y: -72}
+        - {x: -6, y: -75}
+      - - {x: 16, y: -75}
+        - {x: 15, y: -72}
+        - {x: 8, y: -72}
+        - {x: 7, y: -75}
+      - - {x: -19, y: -25}
+        - {x: -20, y: -28}
+        - {x: -20, y: -31}
+        - {x: -17, y: -34}
+        - {x: -5, y: -54}
+        - {x: 4, y: -54}
+        - {x: 4, y: -25}
+    - name: Repair_Robot_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1223
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 23}
+        - {x: 18, y: 26}
+        - {x: 15, y: 26}
+        - {x: 17, y: 26}
+        - {x: 21, y: 29}
+        - {x: 22, y: 39}
+        - {x: 13, y: 48}
+        - {x: -5, y: 48}
+        - {x: -49, y: 7}
+        - {x: -49, y: -21}
+        - {x: -23, y: -48}
+        - {x: 17, y: -48}
+        - {x: 31, y: -37}
+        - {x: 48, y: -9}
+        - {x: 48, y: 2}
+        - {x: 39, y: 17}
+    - name: Repair_Robot_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1223
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 24}
+        - {x: 18, y: 27}
+        - {x: 15, y: 27}
+        - {x: 17, y: 27}
+        - {x: 21, y: 30}
+        - {x: 22, y: 40}
+        - {x: 13, y: 49}
+        - {x: -13, y: 49}
+        - {x: -49, y: 9}
+        - {x: -49, y: -28}
+        - {x: -29, y: -48}
+        - {x: 40, y: -48}
+        - {x: 48, y: -32}
+        - {x: 48, y: 11}
+        - {x: 42, y: 20}
+    - name: Repair_Robot_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1223
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 26}
+        - {x: 16, y: 26}
+        - {x: 18, y: 26}
+        - {x: 22, y: 29}
+        - {x: 23, y: 39}
+        - {x: 21, y: 48}
+        - {x: -7, y: 48}
+        - {x: -50, y: 22}
+        - {x: -50, y: -4}
+        - {x: -34, y: -16}
+        - {x: -29, y: -15}
+        - {x: -23, y: -12}
+        - {x: -25, y: -38}
+        - {x: -17, y: -47}
+        - {x: 31, y: -47}
+        - {x: 50, y: -26}
+        - {x: 50, y: 6}
+        - {x: 36, y: 22}
+    - name: Repair_Robot_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1223
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 24}
+        - {x: 18, y: 27}
+        - {x: 15, y: 27}
+        - {x: 17, y: 27}
+        - {x: 21, y: 30}
+        - {x: 22, y: 40}
+        - {x: 13, y: 49}
+        - {x: -18, y: 49}
+        - {x: -49, y: 9}
+        - {x: -49, y: -26}
+        - {x: -22, y: -49}
+        - {x: 29, y: -49}
+        - {x: 48, y: -30}
+        - {x: 48, y: 15}
+        - {x: 42, y: 20}
+    - name: Repair_Robot_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1223
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 26}
+        - {x: 15, y: 26}
+        - {x: 17, y: 26}
+        - {x: 21, y: 29}
+        - {x: 22, y: 39}
+        - {x: 21, y: 48}
+        - {x: -17, y: 48}
+        - {x: -50, y: 30}
+        - {x: -50, y: -13}
+        - {x: -25, y: -40}
+        - {x: -16, y: -47}
+        - {x: 29, y: -47}
+        - {x: 49, y: -26}
+        - {x: 49, y: 7}
+        - {x: 35, y: 22}
+    - name: Repair_Robot_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1223
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 23}
+        - {x: 18, y: 26}
+        - {x: 15, y: 26}
+        - {x: 17, y: 26}
+        - {x: 21, y: 29}
+        - {x: 22, y: 39}
+        - {x: 13, y: 48}
+        - {x: -5, y: 48}
+        - {x: -49, y: 7}
+        - {x: -49, y: -21}
+        - {x: -23, y: -48}
+        - {x: 17, y: -48}
+        - {x: 31, y: -37}
+        - {x: 48, y: -9}
+        - {x: 48, y: 2}
+        - {x: 39, y: 17}
+    - name: Repair_Robot_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1223
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 30}
+        - {x: -19, y: 11}
+        - {x: -19, y: 3}
+        - {x: -18, y: 1}
+        - {x: 2, y: 1}
+        - {x: 5, y: 2}
+        - {x: 5, y: 30}
+      - - {x: -31, y: 75}
+        - {x: -31, y: 62}
+        - {x: -27, y: 52}
+        - {x: 35, y: 52}
+        - {x: 35, y: 73}
+        - {x: 34, y: 75}
+    - name: Repair_Robot_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1073
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 41}
+        - {x: -14, y: 35}
+        - {x: -19, y: 29}
+        - {x: -19, y: 27}
+        - {x: -18, y: 33}
+        - {x: -16, y: 34}
+        - {x: 2, y: 45}
+        - {x: 6, y: 55}
+        - {x: -6, y: 63}
+        - {x: -21, y: 63}
+        - {x: -38, y: 47}
+        - {x: -38, y: -17}
+        - {x: -31, y: -58}
+        - {x: -17, y: -62}
+        - {x: 16, y: -62}
+        - {x: 37, y: -40}
+        - {x: 37, y: -13}
+        - {x: 29, y: 10}
+    - name: Repair_Robot_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1073
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 61}
+        - {x: -20, y: 61}
+        - {x: -39, y: 53}
+        - {x: -42, y: 47}
+        - {x: -42, y: 34}
+        - {x: -40, y: 20}
+        - {x: -24, y: -53}
+        - {x: -8, y: -60}
+        - {x: 24, y: -60}
+        - {x: 41, y: -48}
+        - {x: 41, y: 19}
+        - {x: 28, y: 51}
+    - name: Repair_Robot_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1073
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 52}
+        - {x: -57, y: -22}
+        - {x: -57, y: -50}
+        - {x: -56, y: -52}
+        - {x: 26, y: -52}
+        - {x: 57, y: -36}
+        - {x: 57, y: 28}
+        - {x: 37, y: 52}
+    - name: Repair_Robot_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1073
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 22}
+        - {x: 41, y: 23}
+        - {x: 27, y: 49}
+        - {x: 22, y: 52}
+        - {x: -4, y: 52}
+        - {x: -21, y: 31}
+        - {x: -55, y: -31}
+        - {x: -55, y: -52}
+        - {x: 22, y: -52}
+        - {x: 55, y: -34}
+        - {x: 55, y: 11}
+        - {x: 50, y: 17}
+    - name: Repair_Robot_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1073
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 19}
+        - {x: 19, y: 38}
+        - {x: 5, y: 49}
+        - {x: -26, y: 49}
+        - {x: -38, y: 28}
+        - {x: -38, y: -4}
+        - {x: -31, y: -44}
+        - {x: -14, y: -48}
+        - {x: 13, y: -48}
+        - {x: 37, y: -24}
+        - {x: 37, y: -1}
+        - {x: 32, y: 14}
+    - name: Repair_Robot_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1073
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 19}
+        - {x: 39, y: 29}
+        - {x: 42, y: 31}
+        - {x: 42, y: 41}
+        - {x: 41, y: 46}
+        - {x: 39, y: 49}
+        - {x: -23, y: 49}
+        - {x: -42, y: 32}
+        - {x: -42, y: -17}
+        - {x: -34, y: -45}
+        - {x: -19, y: -49}
+        - {x: 13, y: -49}
+        - {x: 40, y: -20}
+        - {x: 29, y: 13}
+        - {x: 23, y: 18}
+    - name: Repair_Robot_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1073
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -44}
+        - {x: -17, y: -46}
+        - {x: -17, y: -68}
+        - {x: -13, y: -70}
+        - {x: 59, y: -70}
+        - {x: 59, y: -48}
+        - {x: 48, y: -44}
+      - - {x: -4, y: 4}
+        - {x: -7, y: 1}
+        - {x: -7, y: -2}
+        - {x: -4, y: -5}
+        - {x: 6, y: -24}
+        - {x: 10, y: -25}
+        - {x: 17, y: -25}
+        - {x: 17, y: 1}
+        - {x: 14, y: 4}
+    - name: Repair_Robot_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 64}
+        - {x: -50, y: 3}
+        - {x: -50, y: -26}
+        - {x: -34, y: -63}
+        - {x: 32, y: -63}
+        - {x: 50, y: 30}
+        - {x: 50, y: 62}
+        - {x: 48, y: 64}
+    - name: Repair_Robot_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 923
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 66}
+        - {x: -1, y: 51}
+        - {x: -44, y: 4}
+        - {x: -44, y: -39}
+        - {x: -14, y: -66}
+        - {x: 20, y: -66}
+        - {x: 37, y: -56}
+        - {x: 43, y: -40}
+        - {x: 43, y: 60}
+        - {x: 36, y: 66}
+    - name: Repair_Robot_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 923
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 48}
+        - {x: -14, y: 48}
+        - {x: -43, y: 33}
+        - {x: -43, y: -32}
+        - {x: -42, y: -39}
+        - {x: -24, y: -48}
+        - {x: 30, y: -48}
+        - {x: 39, y: -38}
+        - {x: 42, y: -24}
+        - {x: 42, y: 37}
+    - name: Repair_Robot_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 923
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 48}
+        - {x: -43, y: 18}
+        - {x: -43, y: -14}
+        - {x: -34, y: -38}
+        - {x: -6, y: -48}
+        - {x: 21, y: -48}
+        - {x: 42, y: -45}
+        - {x: 42, y: 41}
+        - {x: 26, y: 48}
+    - name: Repair_Robot_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 923
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 48}
+        - {x: -15, y: 45}
+        - {x: -56, y: 7}
+        - {x: -56, y: -27}
+        - {x: -22, y: -48}
+        - {x: 45, y: -48}
+        - {x: 55, y: -46}
+        - {x: 55, y: -8}
+        - {x: 16, y: 48}
+    - name: Repair_Robot_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 923
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 61}
+        - {x: -30, y: 57}
+        - {x: -58, y: -1}
+        - {x: -59, y: -6}
+        - {x: -59, y: -23}
+        - {x: -32, y: -50}
+        - {x: -18, y: -60}
+        - {x: 13, y: -60}
+        - {x: 21, y: -59}
+        - {x: 59, y: 46}
+        - {x: 59, y: 61}
+    - name: Repair_Robot_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 923
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 59}
+        - {x: -6, y: 40}
+        - {x: -6, y: 32}
+        - {x: -5, y: 30}
+        - {x: 15, y: 30}
+        - {x: 18, y: 33}
+        - {x: 18, y: 57}
+        - {x: 16, y: 59}
+    - name: Repair_Robot_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 47}
+        - {x: -52, y: 32}
+        - {x: -52, y: -16}
+        - {x: -16, y: -47}
+        - {x: 43, y: -47}
+        - {x: 52, y: -42}
+        - {x: 52, y: 25}
+        - {x: 17, y: 47}
+    - name: Repair_Robot_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 773
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 47}
+        - {x: -52, y: 32}
+        - {x: -52, y: -16}
+        - {x: -16, y: -47}
+        - {x: 43, y: -47}
+        - {x: 52, y: -42}
+        - {x: 52, y: 25}
+        - {x: 17, y: 47}
+    - name: Repair_Robot_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 773
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 19}
+        - {x: 44, y: 21}
+        - {x: 40, y: 25}
+        - {x: 29, y: 43}
+        - {x: 17, y: 47}
+        - {x: 1, y: 47}
+        - {x: -2, y: 42}
+        - {x: -36, y: 16}
+        - {x: -45, y: 9}
+        - {x: -45, y: -30}
+        - {x: -33, y: -46}
+        - {x: 15, y: -46}
+        - {x: 31, y: -39}
+        - {x: 28, y: -28}
+        - {x: 45, y: -2}
+    - name: Repair_Robot_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 773
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 19}
+        - {x: 44, y: 21}
+        - {x: 40, y: 25}
+        - {x: 29, y: 43}
+        - {x: 17, y: 47}
+        - {x: 1, y: 47}
+        - {x: -2, y: 42}
+        - {x: -36, y: 16}
+        - {x: -45, y: 9}
+        - {x: -45, y: -30}
+        - {x: -33, y: -46}
+        - {x: 15, y: -46}
+        - {x: 31, y: -39}
+        - {x: 28, y: -28}
+        - {x: 45, y: -2}
+    - name: Repair_Robot_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 773
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -33, y: 14}
+        - {x: -33, y: -26}
+        - {x: -14, y: -34}
+        - {x: 15, y: -34}
+        - {x: 33, y: -9}
+        - {x: 33, y: 4}
+        - {x: 7, y: 35}
+    - name: Repair_Robot_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 773
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 35}
+        - {x: -41, y: 29}
+        - {x: -55, y: 1}
+        - {x: -55, y: -15}
+        - {x: -53, y: -24}
+        - {x: -29, y: -34}
+        - {x: -2, y: -34}
+        - {x: 11, y: -18}
+        - {x: 11, y: 9}
+        - {x: -19, y: 35}
+    - name: Repair_Robot_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 773
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 34}
+        - {x: -53, y: -51}
+        - {x: -52, y: -52}
+        - {x: 61, y: -52}
+        - {x: 65, y: -43}
+        - {x: 65, y: 19}
+        - {x: 47, y: 34}
+    - name: Repair_Robot_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: -13}
+        - {x: -65, y: -13}
+      - - {x: -16, y: 33}
+        - {x: -33, y: 24}
+        - {x: -33, y: 3}
+        - {x: -32, y: 0}
+        - {x: -3, y: 0}
+        - {x: -2, y: 3}
+        - {x: -2, y: 33}
+      - - {x: 40, y: 31}
+        - {x: 33, y: 20}
+        - {x: 33, y: 5}
+        - {x: 55, y: 5}
+        - {x: 65, y: 16}
+        - {x: 65, y: 31}
+    - name: Repair_Robot_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 623
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: -13}
+        - {x: -65, y: -13}
+      - - {x: 14, y: 32}
+        - {x: -10, y: 22}
+        - {x: -10, y: 9}
+        - {x: -8, y: 2}
+        - {x: -1, y: 1}
+        - {x: 6, y: 1}
+        - {x: 23, y: 20}
+        - {x: 23, y: 27}
+        - {x: 21, y: 32}
+      - - {x: -65, y: 35}
+        - {x: -65, y: 3}
+        - {x: -61, y: 2}
+        - {x: -43, y: 2}
+        - {x: -37, y: 9}
+        - {x: -37, y: 22}
+        - {x: -52, y: 35}
+      - - {x: 53, y: 25}
+        - {x: 53, y: 14}
+        - {x: 55, y: 13}
+        - {x: 60, y: 12}
+        - {x: 65, y: 12}
+        - {x: 65, y: 24}
+        - {x: 63, y: 25}
+    - name: Repair_Robot_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 623
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: -13}
+        - {x: -65, y: -13}
+      - - {x: 8, y: 12}
+        - {x: 21, y: 5}
+        - {x: 41, y: 5}
+        - {x: 41, y: 29}
+        - {x: 8, y: 29}
+      - - {x: -39, y: 19}
+        - {x: -34, y: 14}
+        - {x: -33, y: 14}
+        - {x: -28, y: 19}
+        - {x: -29, y: 22}
+        - {x: -38, y: 22}
+    - name: Repair_Robot_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 623
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: -13}
+        - {x: -65, y: -13}
+      - - {x: -42, y: 31}
+        - {x: -44, y: 30}
+        - {x: -47, y: 20}
+        - {x: -47, y: 9}
+        - {x: -41, y: 5}
+        - {x: -36, y: 6}
+        - {x: -29, y: 5}
+        - {x: -20, y: 5}
+        - {x: -10, y: 9}
+        - {x: -10, y: 28}
+        - {x: -17, y: 31}
+      - - {x: 22, y: 24}
+        - {x: 21, y: 21}
+        - {x: 23, y: 14}
+        - {x: 25, y: 12}
+        - {x: 32, y: 15}
+        - {x: 34, y: 18}
+        - {x: 34, y: 22}
+        - {x: 33, y: 24}
+    - name: Repair_Robot_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 623
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: -13}
+        - {x: -65, y: -13}
+      - - {x: -35, y: 26}
+        - {x: -36, y: 23}
+        - {x: -36, y: 20}
+        - {x: -33, y: 17}
+        - {x: -28, y: 15}
+        - {x: -23, y: 15}
+        - {x: -18, y: 21}
+        - {x: -18, y: 24}
+        - {x: -19, y: 26}
+      - - {x: 25, y: 31}
+        - {x: 21, y: 31}
+        - {x: 20, y: 30}
+        - {x: 20, y: 15}
+        - {x: 28, y: 15}
+        - {x: 30, y: 16}
+        - {x: 36, y: 24}
+        - {x: 36, y: 28}
+        - {x: 35, y: 30}
+    - name: Repair_Robot_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 623
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: -13}
+        - {x: -65, y: -13}
+      - - {x: -22, y: 52}
+        - {x: -30, y: 51}
+        - {x: -30, y: 15}
+        - {x: -17, y: 10}
+        - {x: 39, y: 10}
+        - {x: 65, y: 14}
+        - {x: 65, y: 48}
+        - {x: 53, y: 52}
+    - name: Repair_Robot_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 623
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: -13}
+        - {x: -65, y: -13}
+      - - {x: -65, y: 48}
+        - {x: -65, y: 14}
+        - {x: -62, y: 10}
+        - {x: -48, y: 10}
+        - {x: -44, y: 11}
+        - {x: -44, y: 43}
+        - {x: -55, y: 48}
+    - name: Repair_Robot_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 473
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 473
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 473
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 473
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 473
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 473
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 323
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 323
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 323
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 323
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 323
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 323
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 173
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 173
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 173
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 173
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 173
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 173
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 23
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 23
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 23
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 23
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 23
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    - name: Repair_Robot_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 23
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 75}
+        - {x: -65, y: -75}
+        - {x: 65, y: -75}
+        - {x: 65, y: 75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
