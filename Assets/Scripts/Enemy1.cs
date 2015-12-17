@@ -14,7 +14,7 @@ public class Enemy1 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		thistransform.Translate (new Vector3 (-0.3f, 0, 0));
+		thistransform.Translate (new Vector3 (-0.15f, 0, 0));
 	}
 
 	public void onDeath(){
