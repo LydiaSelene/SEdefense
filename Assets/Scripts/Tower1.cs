@@ -18,7 +18,7 @@ public class Tower1 : MonoBehaviour {
 		foreach (Collider2D c in coll) {
 			//Debug.Log("feind");
 
-			if(c.name.Equals("enemy")){
+			if(c.tag.Equals("FlyingEnemy")){
 
 				CreateProjectile cp = GetComponent<CreateProjectile> ();
 				cp.create ();

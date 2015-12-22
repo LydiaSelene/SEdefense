@@ -12,9 +12,9 @@ public class CreateProjectile : MonoBehaviour {
 	}
 
 	public void create(){
-		obj = GameObject.Instantiate (Prefab);
-		obj.transform.position = transform.position;
-		obj.transform.rotation = Quaternion.identity;
+//		obj = GameObject.Instantiate (Prefab);
+//		obj.transform.position = transform.position;
+//		obj.transform.rotation = Quaternion.identity;
 	}
 	
 	// Update is called once per frame
