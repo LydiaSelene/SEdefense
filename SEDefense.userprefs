@@ -1,12 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CreateProjectile.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FireAlgo_Straight.cs">
     <Files>
-      <File FileName="Assets\Scripts\Enemy1.cs" Line="28" Column="3" />
-      <File FileName="Assets\Scripts\CreateProjectile.cs" Line="17" Column="50" />
-      <File FileName="Assets\Scripts\Spawner.cs" Line="20" Column="1" />
-      <File FileName="Assets\Scripts\Tower1.cs" Line="15" Column="3" />
-      <File FileName="Assets\Scripts\Despawner.cs" Line="15" Column="36" />
+      <File FileName="Assets\Scripts\Tower_Logic.cs" Line="21" Column="30" />
+      <File FileName="Assets\Scripts\FireAlgo_Straight.cs" Line="15" Column="25" />
+      <File FileName="Assets\Scripts\Projectile.cs" Line="15" Column="48" />
+      <File FileName="Assets\Scripts\Enemy_Dragon.cs" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\Player_Attributes.cs" Line="13" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
