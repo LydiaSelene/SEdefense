@@ -47,7 +47,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CreateProjectile.cs" />
      <Compile Include="Assets\Scripts\Despawner.cs" />
-     <Compile Include="Assets\Scripts\Enemy1.cs" />
+     <Compile Include="Assets\Scripts\Enemy_Dragon.cs" />
+     <Compile Include="Assets\Scripts\Player_Attributes.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
      <Compile Include="Assets\Scripts\Tower1.cs" />
  <Reference Include="UnityEngine.UI">

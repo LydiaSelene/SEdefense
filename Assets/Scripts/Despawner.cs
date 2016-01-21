@@ -12,7 +12,7 @@ public class Despawner : MonoBehaviour {
 		Debug.Log("trigger");
 		if (other.tag.Equals ("FlyingEnemy")) {
 			Debug.Log("despawn");
-			Enemy1 script = other.GetComponent<Enemy1> ();
+			Enemy_Dragon script = other.GetComponent<Enemy_Dragon> ();
 			script.onDespawn ();
 		}
 	}

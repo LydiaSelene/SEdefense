@@ -23,7 +23,7 @@ public class Tower1 : MonoBehaviour {
 				CreateProjectile cp = GetComponent<CreateProjectile> ();
 				cp.create ();
 
-				Enemy1 script = c.GetComponent<Enemy1> ();
+				Enemy_Dragon script = c.GetComponent<Enemy_Dragon> ();
 				if(script != null){
 					script.health -= 1;
 				if(script.health <= 0){
