@@ -45,14 +45,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CreateProjectile.cs" />
      <Compile Include="Assets\Scripts\Despawner.cs" />
-     <Compile Include="Assets\Scripts\Enemy1.cs" />
+     <Compile Include="Assets\Scripts\Enemies\Enemy_Dragon.cs" />
+     <Compile Include="Assets\Scripts\FireAlgo_Straight.cs" />
+     <Compile Include="Assets\Scripts\Player_Attributes.cs" />
+     <Compile Include="Assets\Scripts\Projectiles\TestProjectile_Logic.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\Tower1.cs" />
      <Compile Include="Assets\initiateBowTower.cs" />
      <Compile Include="Assets\initiateSwordTower.cs" />
      <Compile Include="Assets\initiateWandTower.cs" />
+=======
+     <Compile Include="Assets\Scripts\Tower_Logic.cs" />
+>>>>>>> 3281a13430c0345a175485bfb40061a108f8de71
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

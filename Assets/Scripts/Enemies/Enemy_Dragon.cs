@@ -1,22 +1,25 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemy1 : MonoBehaviour {
+public class Enemy_Dragon : MonoBehaviour {
 
 	Transform thistransform;
 	public int health;
 	public float movingSpeed;
+	Vector3 movingDirection;
 
 	// Use this for initialization
 	void Start () {
 		thistransform = transform;
 		health = 10;
-		movingSpeed = 0.15f;
+		movingSpeed = 8.0f;
+
+		movingDirection = new Vector3 (-1, 0, 0);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		thistransform.Translate (new Vector3 (-movingSpeed, 0, 0));
+		thistransform.Translate (movingDirection*movingSpeed*Time.deltaTime, Space.World);
 	}
 
 	public void onDespawn(){
