@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: d8dd5c0cb038ee449a1294299e50f771
+timeCreated: 1453636439
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gold_Uni-horn_Scaraba_noBG_0
+    21300002: Gold_Uni-horn_Scaraba_noBG_1
+    21300004: Gold_Uni-horn_Scaraba_noBG_2
+    21300006: Gold_Uni-horn_Scaraba_noBG_3
+    21300008: Gold_Uni-horn_Scaraba_noBG_4
+    21300010: Gold_Uni-horn_Scaraba_noBG_5
+    21300012: Gold_Uni-horn_Scaraba_noBG_6
+    21300014: Gold_Uni-horn_Scaraba_noBG_7
+    21300016: Gold_Uni-horn_Scaraba_noBG_8
+    21300018: Gold_Uni-horn_Scaraba_noBG_9
+    21300020: Gold_Uni-horn_Scaraba_noBG_10
+    21300022: Gold_Uni-horn_Scaraba_noBG_11
+    21300024: Gold_Uni-horn_Scaraba_noBG_12
+    21300026: Gold_Uni-horn_Scaraba_noBG_13
+    21300028: Gold_Uni-horn_Scaraba_noBG_14
+    21300030: Gold_Uni-horn_Scaraba_noBG_15
+    21300032: Gold_Uni-horn_Scaraba_noBG_16
+    21300034: Gold_Uni-horn_Scaraba_noBG_17
+    21300036: Gold_Uni-horn_Scaraba_noBG_18
+    21300038: Gold_Uni-horn_Scaraba_noBG_19
+    21300040: Gold_Uni-horn_Scaraba_noBG_20
+    21300042: Gold_Uni-horn_Scaraba_noBG_21
+    21300044: Gold_Uni-horn_Scaraba_noBG_22
+    21300046: Gold_Uni-horn_Scaraba_noBG_23
+    21300048: Gold_Uni-horn_Scaraba_noBG_24
+    21300050: Gold_Uni-horn_Scaraba_noBG_25
+    21300052: Gold_Uni-horn_Scaraba_noBG_26
+    21300054: Gold_Uni-horn_Scaraba_noBG_27
+    21300056: Gold_Uni-horn_Scaraba_noBG_28
+    21300058: Gold_Uni-horn_Scaraba_noBG_29
+    21300060: Gold_Uni-horn_Scaraba_noBG_30
+    21300062: Gold_Uni-horn_Scaraba_noBG_31
+    21300064: Gold_Uni-horn_Scaraba_noBG_32
+    21300066: Gold_Uni-horn_Scaraba_noBG_33
+    21300068: Gold_Uni-horn_Scaraba_noBG_34
+    21300070: Gold_Uni-horn_Scaraba_noBG_35
+    21300072: Gold_Uni-horn_Scaraba_noBG_36
+    21300074: Gold_Uni-horn_Scaraba_noBG_37
+    21300076: Gold_Uni-horn_Scaraba_noBG_38
+    21300078: Gold_Uni-horn_Scaraba_noBG_39
+    21300080: Gold_Uni-horn_Scaraba_noBG_40
+    21300082: Gold_Uni-horn_Scaraba_noBG_41
+    21300084: Gold_Uni-horn_Scaraba_noBG_42
+    21300086: Gold_Uni-horn_Scaraba_noBG_43
+    21300088: Gold_Uni-horn_Scaraba_noBG_44
+    21300090: Gold_Uni-horn_Scaraba_noBG_45
+    21300092: Gold_Uni-horn_Scaraba_noBG_46
+    21300094: Gold_Uni-horn_Scaraba_noBG_47
+    21300096: Gold_Uni-horn_Scaraba_noBG_48
+    21300098: Gold_Uni-horn_Scaraba_noBG_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gold_Uni-horn_Scaraba_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 709
+        width: 50
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -7}
+        - {x: 20, y: -3}
+        - {x: 18, y: -1}
+        - {x: 16, y: 0}
+        - {x: -25, y: 0}
+        - {x: -25, y: -55}
+        - {x: -15, y: -70}
+        - {x: 23, y: -70}
+        - {x: 25, y: -63}
+        - {x: 25, y: -33}
+        - {x: 22, y: -27}
+    - name: Gold_Uni-horn_Scaraba_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 710
+        width: 50
+        height: 69
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 0}
+        - {x: -25, y: -52}
+        - {x: -16, y: -63}
+        - {x: -9, y: -69}
+        - {x: 25, y: -69}
+        - {x: 25, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 710
+        width: 47
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 0}
+        - {x: 0.5, y: -1}
+        - {x: -8.5, y: -15}
+        - {x: -11.5, y: -22}
+        - {x: -11.5, y: -12}
+        - {x: -19.5, y: 0}
+        - {x: -23.5, y: 0}
+        - {x: -23.5, y: -31}
+        - {x: -21.5, y: -66}
+        - {x: -11.5, y: -68}
+        - {x: 23.5, y: -68}
+        - {x: 23.5, y: -3}
+        - {x: 17.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 710
+        width: 49
+        height: 69
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 0}
+        - {x: -24.5, y: -69}
+        - {x: 24.5, y: -69}
+        - {x: 24.5, y: -9}
+        - {x: 21.5, y: -2}
+        - {x: 17.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 708
+        width: 40
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 0}
+        - {x: -17, y: -28}
+        - {x: -20, y: -39}
+        - {x: -20, y: -70}
+        - {x: -14, y: -72}
+        - {x: 20, y: -72}
+        - {x: 20, y: -7}
+        - {x: 12, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 709
+        width: 39
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 0}
+        - {x: -19.5, y: -40}
+        - {x: -19.5, y: -62}
+        - {x: -11.5, y: -70}
+        - {x: 19.5, y: -70}
+        - {x: 19.5, y: -5}
+        - {x: 6.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 711
+        width: 38
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 0}
+        - {x: -18, y: -15}
+        - {x: -19, y: -19}
+        - {x: -19, y: -65}
+        - {x: -13, y: -67}
+        - {x: 15, y: -67}
+        - {x: 19, y: -65}
+        - {x: 19, y: -6}
+        - {x: 12, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 710
+        width: 38
+        height: 69
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 0}
+        - {x: -13, y: -18}
+        - {x: -19, y: -36}
+        - {x: -19, y: -69}
+        - {x: 19, y: -69}
+        - {x: 19, y: -11}
+        - {x: 11, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 728
+        width: 64
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 618
+        width: 50
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 0}
+        - {x: -24, y: 0}
+        - {x: -25, y: -2}
+        - {x: -25, y: -52}
+        - {x: -18, y: -62}
+        - {x: -5, y: -72}
+        - {x: 13, y: -72}
+        - {x: 24, y: -70}
+        - {x: 25, y: -67}
+        - {x: 25, y: -26}
+        - {x: 20, y: -7}
+    - name: Gold_Uni-horn_Scaraba_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 619
+        width: 50
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 0}
+        - {x: -11, y: -17}
+        - {x: -12, y: -25}
+        - {x: -13, y: -28}
+        - {x: -12, y: -23}
+        - {x: -13, y: -11}
+        - {x: -19, y: 0}
+        - {x: -24, y: 0}
+        - {x: -25, y: -2}
+        - {x: -25, y: -55}
+        - {x: -11, y: -70}
+        - {x: 22, y: -70}
+        - {x: 25, y: -68}
+        - {x: 25, y: -7}
+        - {x: 16, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 619
+        width: 50
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -2}
+        - {x: 13, y: 0}
+        - {x: 5, y: 0}
+        - {x: 0, y: -3}
+        - {x: -15, y: 0}
+        - {x: -24, y: 0}
+        - {x: -25, y: -2}
+        - {x: -25, y: -53}
+        - {x: -12, y: -68}
+        - {x: -3, y: -70}
+        - {x: 18, y: -70}
+        - {x: 25, y: -66}
+        - {x: 25, y: -23}
+        - {x: 22, y: -9}
+    - name: Gold_Uni-horn_Scaraba_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 620
+        width: 50
+        height: 69
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 0}
+        - {x: -25, y: 0}
+        - {x: -25, y: -69}
+        - {x: 24, y: -69}
+        - {x: 25, y: -68}
+        - {x: 25, y: -19}
+        - {x: 23, y: -2}
+    - name: Gold_Uni-horn_Scaraba_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 620
+        width: 50
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 0}
+        - {x: 6, y: 0}
+        - {x: 0, y: -4}
+        - {x: -9, y: -18}
+        - {x: -12, y: -25}
+        - {x: -13, y: -28}
+        - {x: -12, y: -23}
+        - {x: -13, y: -11}
+        - {x: -19, y: 0}
+        - {x: -25, y: 0}
+        - {x: -25, y: -54}
+        - {x: -21, y: -68}
+        - {x: 25, y: -68}
+        - {x: 25, y: -19}
+        - {x: 21, y: -5}
+    - name: Gold_Uni-horn_Scaraba_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 621
+        width: 50
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 0}
+        - {x: -25, y: -1}
+        - {x: -25, y: -56}
+        - {x: -22, y: -67}
+        - {x: 25, y: -67}
+        - {x: 25, y: -7}
+        - {x: 16, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 639
+        width: 20
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 527
+        width: 39
+        height: 71
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 0}
+        - {x: -19.5, y: -27}
+        - {x: -19.5, y: -71}
+        - {x: 12.5, y: -71}
+        - {x: 19.5, y: -68}
+        - {x: 19.5, y: -4}
+        - {x: 16.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 39
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 0}
+        - {x: -13.5, y: -19}
+        - {x: -19.5, y: -39}
+        - {x: -19.5, y: -68}
+        - {x: 18.5, y: -68}
+        - {x: 19.5, y: -66}
+        - {x: 19.5, y: -16}
+        - {x: 10.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 528
+        width: 41
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 0}
+        - {x: -20.5, y: -34}
+        - {x: -20.5, y: -68}
+        - {x: 20.5, y: -68}
+        - {x: 20.5, y: -25}
+        - {x: 18.5, y: -16}
+        - {x: 9.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 527
+        width: 39
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 0}
+        - {x: -19.5, y: -27}
+        - {x: -19.5, y: -70}
+        - {x: 11.5, y: -70}
+        - {x: 19.5, y: -66}
+        - {x: 19.5, y: -4}
+        - {x: 16.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 527
+        width: 39
+        height: 71
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 0}
+        - {x: 1.5, y: -4}
+        - {x: -19.5, y: -37}
+        - {x: -19.5, y: -66}
+        - {x: -18.5, y: -71}
+        - {x: -15.5, y: -71}
+        - {x: -9.5, y: -68}
+        - {x: -4.5, y: -64}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -69}
+        - {x: -4.5, y: -71}
+        - {x: 19.5, y: -71}
+        - {x: 19.5, y: -5}
+        - {x: 13.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 526
+        width: 39
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 0}
+        - {x: -19.5, y: -37}
+        - {x: -19.5, y: -72}
+        - {x: 15.5, y: -72}
+        - {x: 19.5, y: -62}
+        - {x: 19.5, y: -10}
+        - {x: 14.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 594
+        width: 62
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 544
+        width: 20
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 424
+        width: 50
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 0}
+        - {x: -25, y: -59}
+        - {x: -17, y: -72}
+        - {x: 25, y: -72}
+        - {x: 25, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 426
+        width: 65
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 0}
+        - {x: -32.5, y: -29}
+        - {x: -32.5, y: -41}
+        - {x: -22.5, y: -49}
+        - {x: 1.5, y: -64}
+        - {x: 5.5, y: -64}
+        - {x: 8.5, y: -61}
+        - {x: 13.5, y: -64}
+        - {x: 19.5, y: -68}
+        - {x: 31.5, y: -68}
+        - {x: 32.5, y: -59}
+        - {x: 32.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 427
+        width: 63
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 0}
+        - {x: -0.5, y: -14}
+        - {x: -3.5, y: -32}
+        - {x: -3.5, y: -36}
+        - {x: -2.5, y: -39}
+        - {x: -0.5, y: -38}
+        - {x: -7.5, y: -38}
+        - {x: -15.5, y: -31}
+        - {x: -31.5, y: -35}
+        - {x: -31.5, y: -46}
+        - {x: -3.5, y: -67}
+        - {x: 31.5, y: -67}
+        - {x: 31.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 429
+        width: 89
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 0}
+        - {x: -44.5, y: -44}
+        - {x: -44.5, y: -52}
+        - {x: -32.5, y: -62}
+        - {x: 44.5, y: -62}
+        - {x: 44.5, y: -30}
+        - {x: 38.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 428
+        width: 87
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -53}
+        - {x: -26.5, y: -60}
+        - {x: -20.5, y: -61}
+        - {x: 43.5, y: -61}
+        - {x: 43.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: -43.5, y: -26}
+    - name: Gold_Uni-horn_Scaraba_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 434
+        width: 20
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 387
+        width: 72
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 308
+        width: 40
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 0}
+        - {x: -17, y: -28}
+        - {x: -20, y: -39}
+        - {x: -20, y: -70}
+        - {x: -14, y: -72}
+        - {x: 20, y: -72}
+        - {x: 20, y: -7}
+        - {x: 12, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 316
+        width: 51
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 0}
+        - {x: -25.5, y: -1}
+        - {x: -25.5, y: -53}
+        - {x: -23.5, y: -56}
+        - {x: 21.5, y: -56}
+        - {x: 25.5, y: -49}
+        - {x: 25.5, y: -17}
+        - {x: 21.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 317
+        width: 51
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 0}
+        - {x: -25.5, y: -3}
+        - {x: -25.5, y: -55}
+        - {x: 22.5, y: -55}
+        - {x: 25.5, y: -54}
+        - {x: 25.5, y: -31}
+        - {x: 11.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 314
+        width: 59
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 0}
+        - {x: -29.5, y: -12}
+        - {x: 0.5, y: -60}
+        - {x: 26.5, y: -60}
+        - {x: 29.5, y: -56}
+        - {x: 29.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 315
+        width: 58
+        height: 59
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 0}
+        - {x: -29, y: -8}
+        - {x: 1, y: -59}
+        - {x: 29, y: -59}
+        - {x: 29, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 339
+        width: 20
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 198
+        width: 40
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 0}
+        - {x: -20, y: -65}
+        - {x: -14, y: -72}
+        - {x: 20, y: -72}
+        - {x: 20, y: -4}
+        - {x: 11, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 198
+        width: 40
+        height: 73
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -6}
+        - {x: -8, y: -20}
+        - {x: -11, y: -27}
+        - {x: -11, y: -29}
+        - {x: -10, y: -22}
+        - {x: -6, y: -17}
+        - {x: -11, y: 0}
+        - {x: -17, y: 0}
+        - {x: -20, y: -8}
+        - {x: -20, y: -61}
+        - {x: -17, y: -73}
+        - {x: 20, y: -73}
+        - {x: 20, y: -6}
+        - {x: 10, y: -1}
+    - name: Gold_Uni-horn_Scaraba_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 198
+        width: 51
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 0}
+        - {x: -10.5, y: -2}
+        - {x: -11.5, y: -12}
+        - {x: -14.5, y: -14}
+        - {x: -14.5, y: -16}
+        - {x: -13.5, y: -11}
+        - {x: -19.5, y: 0}
+        - {x: -25.5, y: 0}
+        - {x: -25.5, y: -51}
+        - {x: -15.5, y: -63}
+        - {x: -1.5, y: -67}
+        - {x: 21.5, y: -67}
+        - {x: 25.5, y: -64}
+        - {x: 25.5, y: -22}
+        - {x: 18.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 212
+        width: 80
+        height: 38
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 0}
+        - {x: -40, y: -29}
+        - {x: -3, y: -38}
+        - {x: 40, y: -38}
+        - {x: 40, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 203
+        width: 38
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 0}
+        - {x: -17, y: -28}
+        - {x: -19, y: -33}
+        - {x: -19, y: -68}
+        - {x: -13, y: -72}
+        - {x: 19, y: -72}
+        - {x: 19, y: -7}
+        - {x: 14, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 203
+        width: 37
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 0}
+        - {x: -18.5, y: -31}
+        - {x: -18.5, y: -69}
+        - {x: -17.5, y: -72}
+        - {x: 18.5, y: -72}
+        - {x: 18.5, y: -3}
+        - {x: 14.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 207
+        width: 38
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -67}
+        - {x: 19, y: -67}
+        - {x: 19, y: -19}
+        - {x: 18, y: -10}
+        - {x: 13, y: 0}
+        - {x: 4, y: 0}
+        - {x: -19, y: -12}
+    - name: Gold_Uni-horn_Scaraba_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 219
+        width: 61
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 0}
+        - {x: -30.5, y: -13}
+        - {x: -30.5, y: -42}
+        - {x: 19.5, y: -42}
+        - {x: 30.5, y: -36}
+        - {x: 30.5, y: -22}
+        - {x: -0.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 218
+        width: 55
+        height: 37
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 0}
+        - {x: -27.5, y: -37}
+        - {x: 27.5, y: -37}
+        - {x: 27.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 422
+        height: 163
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -211, y: 0}
+        - {x: -211, y: -163}
+        - {x: 211, y: -163}
+        - {x: 211, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 121
+        width: 136
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gold_Uni-horn_Scaraba_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 64
+        width: 55
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 0}
+        - {x: -27.5, y: -34}
+        - {x: 27.5, y: -34}
+        - {x: 27.5, y: -2}
+        - {x: 23.5, y: 0}
+    - name: Gold_Uni-horn_Scaraba_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 37
+        width: 208
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 0}
+        - {x: -104, y: -2}
+        - {x: -104, y: -70}
+        - {x: 104, y: -70}
+        - {x: 104, y: -9}
+        - {x: 64, y: 0}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

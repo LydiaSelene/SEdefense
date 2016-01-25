@@ -1,12 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FireAlgo_Straight.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\initiateWandTower.cs">
     <Files>
-      <File FileName="Assets\Scripts\Tower_Logic.cs" Line="21" Column="30" />
-      <File FileName="Assets\Scripts\FireAlgo_Straight.cs" Line="15" Column="25" />
-      <File FileName="Assets\Scripts\Projectile.cs" Line="15" Column="48" />
-      <File FileName="Assets\Scripts\Enemy_Dragon.cs" Line="32" Column="1" />
-      <File FileName="Assets\Scripts\Player_Attributes.cs" Line="13" Column="15" />
+      <File FileName="Assets\Scripts\initiateSwordTower.cs" Line="62" Column="1" />
+      <File FileName="Assets\Scripts\initiateBowTower.cs" Line="40" Column="33" />
+      <File FileName="Assets\CurrentMoneyAttributes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\initiateWandTower.cs" Line="34" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

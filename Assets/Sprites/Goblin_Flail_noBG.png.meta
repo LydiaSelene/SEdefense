@@ -1,0 +1,1688 @@
+fileFormatVersion: 2
+guid: d368b98fbede2b04fb23634eb19449df
+timeCreated: 1453636113
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goblin_Flail_noBG_0
+    21300002: Goblin_Flail_noBG_1
+    21300004: Goblin_Flail_noBG_2
+    21300006: Goblin_Flail_noBG_3
+    21300008: Goblin_Flail_noBG_4
+    21300010: Goblin_Flail_noBG_5
+    21300012: Goblin_Flail_noBG_6
+    21300014: Goblin_Flail_noBG_7
+    21300016: Goblin_Flail_noBG_8
+    21300018: Goblin_Flail_noBG_9
+    21300020: Goblin_Flail_noBG_10
+    21300022: Goblin_Flail_noBG_11
+    21300024: Goblin_Flail_noBG_12
+    21300026: Goblin_Flail_noBG_13
+    21300028: Goblin_Flail_noBG_14
+    21300030: Goblin_Flail_noBG_15
+    21300032: Goblin_Flail_noBG_16
+    21300034: Goblin_Flail_noBG_17
+    21300036: Goblin_Flail_noBG_18
+    21300038: Goblin_Flail_noBG_19
+    21300040: Goblin_Flail_noBG_20
+    21300042: Goblin_Flail_noBG_21
+    21300044: Goblin_Flail_noBG_22
+    21300046: Goblin_Flail_noBG_23
+    21300048: Goblin_Flail_noBG_24
+    21300050: Goblin_Flail_noBG_25
+    21300052: Goblin_Flail_noBG_26
+    21300054: Goblin_Flail_noBG_27
+    21300056: Goblin_Flail_noBG_28
+    21300058: Goblin_Flail_noBG_29
+    21300060: Goblin_Flail_noBG_30
+    21300062: Goblin_Flail_noBG_31
+    21300064: Goblin_Flail_noBG_32
+    21300066: Goblin_Flail_noBG_33
+    21300068: Goblin_Flail_noBG_34
+    21300070: Goblin_Flail_noBG_35
+    21300072: Goblin_Flail_noBG_36
+    21300074: Goblin_Flail_noBG_37
+    21300076: Goblin_Flail_noBG_38
+    21300078: Goblin_Flail_noBG_39
+    21300080: Goblin_Flail_noBG_40
+    21300082: Goblin_Flail_noBG_41
+    21300084: Goblin_Flail_noBG_42
+    21300086: Goblin_Flail_noBG_43
+    21300088: Goblin_Flail_noBG_44
+    21300090: Goblin_Flail_noBG_45
+    21300092: Goblin_Flail_noBG_46
+    21300094: Goblin_Flail_noBG_47
+    21300096: Goblin_Flail_noBG_48
+    21300098: Goblin_Flail_noBG_49
+    21300100: Goblin_Flail_noBG_50
+    21300102: Goblin_Flail_noBG_51
+    21300104: Goblin_Flail_noBG_52
+    21300106: Goblin_Flail_noBG_53
+    21300108: Goblin_Flail_noBG_54
+    21300110: Goblin_Flail_noBG_55
+    21300112: Goblin_Flail_noBG_56
+    21300114: Goblin_Flail_noBG_57
+    21300116: Goblin_Flail_noBG_58
+    21300118: Goblin_Flail_noBG_59
+    21300120: Goblin_Flail_noBG_60
+    21300122: Goblin_Flail_noBG_61
+    21300124: Goblin_Flail_noBG_62
+    21300126: Goblin_Flail_noBG_63
+    21300128: Goblin_Flail_noBG_64
+    21300130: Goblin_Flail_noBG_65
+    21300132: Goblin_Flail_noBG_66
+    21300134: Goblin_Flail_noBG_67
+    21300136: Goblin_Flail_noBG_68
+    21300138: Goblin_Flail_noBG_69
+    21300140: Goblin_Flail_noBG_70
+    21300142: Goblin_Flail_noBG_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Goblin_Flail_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 687
+        width: 36
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0}
+        - {x: -16, y: 0}
+        - {x: -18, y: -7}
+        - {x: -18, y: -50}
+        - {x: -17, y: -54}
+        - {x: -9, y: -58}
+        - {x: 9, y: -58}
+        - {x: 18, y: -48}
+        - {x: 18, y: -18}
+        - {x: 14, y: -2}
+    - name: Goblin_Flail_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 686
+        width: 44
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -5}
+        - {x: 2, y: -1}
+        - {x: -1, y: 0}
+        - {x: -15, y: 0}
+        - {x: -22, y: -20}
+        - {x: -22, y: -46}
+        - {x: -19, y: -59}
+        - {x: -13, y: -60}
+        - {x: 9, y: -60}
+        - {x: 21, y: -37}
+        - {x: 22, y: -34}
+        - {x: 22, y: -20}
+    - name: Goblin_Flail_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 689
+        width: 41
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -20.5, y: -7}
+        - {x: -20.5, y: -47}
+        - {x: -10.5, y: -54}
+        - {x: 18.5, y: -54}
+        - {x: 20.5, y: -52}
+        - {x: 20.5, y: -19}
+        - {x: 12.5, y: 0}
+    - name: Goblin_Flail_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 686
+        width: 42
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -1}
+        - {x: 0, y: 0}
+        - {x: -14, y: 0}
+        - {x: -21, y: -18}
+        - {x: -21, y: -48}
+        - {x: -14, y: -60}
+        - {x: 13, y: -60}
+        - {x: 21, y: -39}
+        - {x: 21, y: -17}
+        - {x: 11, y: -5}
+    - name: Goblin_Flail_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 690
+        width: 44
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -1}
+        - {x: -1, y: 0}
+        - {x: -17, y: 0}
+        - {x: -22, y: -6}
+        - {x: -22, y: -52}
+        - {x: 16, y: -52}
+        - {x: 22, y: -46}
+        - {x: 22, y: -20}
+        - {x: 10, y: -5}
+    - name: Goblin_Flail_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 686
+        width: 42
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: -16, y: 0}
+        - {x: -21, y: -13}
+        - {x: -21, y: -38}
+        - {x: -8, y: -60}
+        - {x: 12, y: -60}
+        - {x: 21, y: -41}
+        - {x: 21, y: -18}
+        - {x: 12, y: -4}
+    - name: Goblin_Flail_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 688
+        width: 44
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: -15, y: 0}
+        - {x: -22, y: -16}
+        - {x: -22, y: -41}
+        - {x: -18, y: -56}
+        - {x: 9, y: -56}
+        - {x: 14, y: -49}
+        - {x: 22, y: -33}
+        - {x: 22, y: -18}
+    - name: Goblin_Flail_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 680
+        width: 20
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 496
+        width: 198
+        height: 265
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -260}
+        - {x: 48, y: -261}
+        - {x: 72, y: -261}
+        - {x: 76, y: -255}
+        - {x: 75, y: -249}
+        - {x: 39, y: -246}
+        - {x: -23, y: -251}
+        - {x: -21, y: -255}
+        - {x: -17, y: -261}
+        - {x: -13, y: -262}
+        - {x: -3, y: -262}
+        - {x: 7, y: -261}
+        - {x: 10, y: -260}
+        - {x: 13, y: -262}
+        - {x: -32, y: -262}
+        - {x: -32, y: -188}
+        - {x: 99, y: -188}
+        - {x: 99, y: -183}
+        - {x: -96, y: 0}
+        - {x: -99, y: 0}
+        - {x: -99, y: -189}
+        - {x: -37, y: -265}
+        - {x: 99, y: -265}
+        - {x: 99, y: -262}
+        - {x: 44, y: -262}
+      - - {x: -64, y: -239}
+        - {x: -67, y: -242}
+        - {x: -67, y: -245}
+        - {x: -64, y: -248}
+        - {x: -52, y: -261}
+        - {x: -49, y: -264}
+        - {x: -44, y: -264}
+        - {x: -43, y: -261}
+        - {x: -43, y: -240}
+        - {x: -46, y: -239}
+      - - {x: -27, y: -235}
+        - {x: -27, y: -249}
+        - {x: 22, y: -249}
+        - {x: 22, y: -235}
+      - - {x: 22, y: -235}
+        - {x: 22, y: -249}
+        - {x: 59, y: -249}
+        - {x: 60, y: -246}
+        - {x: 60, y: -235}
+      - - {x: -99, y: -231}
+        - {x: -99, y: -245}
+        - {x: -98, y: -246}
+        - {x: -94, y: -246}
+        - {x: -90, y: -244}
+        - {x: -90, y: -239}
+        - {x: -95, y: -231}
+      - - {x: 25, y: -221}
+        - {x: 25, y: -228}
+        - {x: 25, y: -226}
+        - {x: 23, y: -222}
+        - {x: 17, y: -221}
+        - {x: -3, y: -221}
+        - {x: -21, y: -223}
+        - {x: -21, y: -235}
+        - {x: 74, y: -235}
+        - {x: 92, y: -233}
+        - {x: 92, y: -221}
+      - - {x: -25, y: -207}
+        - {x: -27, y: -209}
+        - {x: -27, y: -219}
+        - {x: -23, y: -221}
+        - {x: 12, y: -221}
+        - {x: 18, y: -219}
+        - {x: 18, y: -207}
+      - - {x: 19, y: -207}
+        - {x: 18, y: -208}
+        - {x: 18, y: -217}
+        - {x: 19, y: -220}
+        - {x: 23, y: -221}
+        - {x: 30, y: -221}
+        - {x: 33, y: -215}
+        - {x: 33, y: -209}
+        - {x: 27, y: -207}
+      - - {x: 33, y: -220}
+        - {x: 37, y: -221}
+        - {x: 65, y: -221}
+        - {x: 80, y: -219}
+        - {x: 80, y: -210}
+        - {x: 79, y: -207}
+        - {x: 37, y: -207}
+        - {x: 33, y: -213}
+      - - {x: 7, y: -193}
+        - {x: 6, y: -196}
+        - {x: 6, y: -206}
+        - {x: 8, y: -207}
+        - {x: 34, y: -207}
+        - {x: 35, y: -205}
+        - {x: 35, y: -194}
+        - {x: 34, y: -193}
+      - - {x: -26, y: -193}
+        - {x: -27, y: -194}
+        - {x: -27, y: -201}
+        - {x: -26, y: -205}
+        - {x: 6, y: -205}
+        - {x: 6, y: -193}
+      - - {x: -62, y: -168}
+        - {x: -62, y: -182}
+        - {x: -33, y: -182}
+        - {x: -32, y: -179}
+        - {x: -32, y: -168}
+      - - {x: 29, y: -170}
+        - {x: 28, y: -172}
+        - {x: 28, y: -182}
+        - {x: 57, y: -182}
+        - {x: 59, y: -178}
+        - {x: 59, y: -172}
+        - {x: 58, y: -170}
+      - - {x: 69, y: -168}
+        - {x: 61, y: -169}
+        - {x: 59, y: -171}
+        - {x: 59, y: -182}
+        - {x: 92, y: -182}
+        - {x: 93, y: -179}
+        - {x: 93, y: -169}
+        - {x: 92, y: -168}
+      - - {x: -93, y: -167}
+        - {x: -93, y: -181}
+        - {x: -70, y: -181}
+        - {x: -67, y: -180}
+        - {x: -67, y: -167}
+      - - {x: -32, y: -168}
+        - {x: -32, y: -180}
+        - {x: -18, y: -180}
+        - {x: -17, y: -179}
+        - {x: -17, y: -172}
+        - {x: -19, y: -168}
+      - - {x: -16, y: -168}
+        - {x: -17, y: -170}
+        - {x: -17, y: -180}
+        - {x: 28, y: -180}
+        - {x: 28, y: -171}
+        - {x: 27, y: -168}
+      - - {x: 83, y: -123}
+        - {x: 76, y: -127}
+        - {x: 76, y: -144}
+        - {x: 77, y: -145}
+        - {x: 84, y: -145}
+        - {x: 92, y: -133}
+        - {x: 92, y: -123}
+      - - {x: -42, y: -116}
+        - {x: -63, y: -116}
+        - {x: -89, y: -128}
+        - {x: -89, y: -142}
+        - {x: -85, y: -144}
+        - {x: -78, y: -144}
+        - {x: -47, y: -129}
+        - {x: -42, y: -122}
+      - - {x: 36, y: -126}
+        - {x: 34, y: -130}
+        - {x: 34, y: -138}
+        - {x: 35, y: -140}
+        - {x: 39, y: -140}
+        - {x: 47, y: -134}
+        - {x: 47, y: -129}
+        - {x: 46, y: -126}
+      - - {x: -11, y: -126}
+        - {x: -15, y: -130}
+        - {x: -15, y: -135}
+        - {x: -12, y: -139}
+        - {x: -6, y: -139}
+        - {x: 5, y: -133}
+        - {x: 5, y: -126}
+      - - {x: 2, y: -65}
+        - {x: -13, y: -65}
+        - {x: -27, y: -87}
+        - {x: -27, y: -93}
+        - {x: -7, y: -93}
+        - {x: 4, y: -90}
+        - {x: 17, y: -81}
+        - {x: 17, y: -68}
+        - {x: 10, y: -67}
+      - - {x: -47, y: -70}
+        - {x: -50, y: -63}
+        - {x: -57, y: -63}
+        - {x: -64, y: -67}
+        - {x: -81, y: -86}
+        - {x: -81, y: -88}
+        - {x: -77, y: -92}
+        - {x: -72, y: -92}
+        - {x: -50, y: -87}
+        - {x: -45, y: -79}
+        - {x: -45, y: -75}
+      - - {x: 55, y: -65}
+        - {x: 39, y: -86}
+        - {x: 39, y: -92}
+        - {x: 49, y: -92}
+        - {x: 79, y: -78}
+        - {x: 84, y: -71}
+        - {x: 84, y: -68}
+        - {x: 81, y: -65}
+      - - {x: -24, y: -13}
+        - {x: -24, y: -36}
+        - {x: -20, y: -39}
+        - {x: 3, y: -39}
+        - {x: 7, y: -37}
+        - {x: 7, y: -16}
+        - {x: -3, y: -13}
+      - - {x: 31, y: -24}
+        - {x: 33, y: -32}
+        - {x: 37, y: -37}
+        - {x: 40, y: -37}
+        - {x: 45, y: -32}
+        - {x: 53, y: -38}
+        - {x: 62, y: -38}
+        - {x: 62, y: -28}
+        - {x: 40, y: -13}
+        - {x: 34, y: -13}
+        - {x: 31, y: -19}
+      - - {x: -68, y: -14}
+        - {x: -72, y: -15}
+        - {x: -81, y: -30}
+        - {x: -81, y: -34}
+        - {x: -76, y: -37}
+        - {x: -57, y: -37}
+        - {x: -49, y: -32}
+        - {x: -49, y: -27}
+        - {x: -63, y: -14}
+    - name: Goblin_Flail_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 663
+        width: 11
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 663
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 663
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 663
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 600
+        width: 35
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 0}
+        - {x: -11.5, y: -6}
+        - {x: -17.5, y: -16}
+        - {x: -17.5, y: -53}
+        - {x: 17.5, y: -53}
+        - {x: 17.5, y: 0}
+    - name: Goblin_Flail_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 599
+        width: 39
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 0}
+        - {x: -19.5, y: -10}
+        - {x: -19.5, y: -55}
+        - {x: 19.5, y: -55}
+        - {x: 19.5, y: 0}
+    - name: Goblin_Flail_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 596
+        width: 41
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 0}
+        - {x: -20.5, y: -15}
+        - {x: -20.5, y: -36}
+        - {x: -19.5, y: -38}
+        - {x: -6.5, y: -60}
+        - {x: 7.5, y: -60}
+        - {x: 20.5, y: -49}
+        - {x: 20.5, y: 0}
+    - name: Goblin_Flail_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 599
+        width: 41
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 0}
+        - {x: -10.5, y: -4}
+        - {x: -20.5, y: -14}
+        - {x: -20.5, y: -55}
+        - {x: 8.5, y: -55}
+        - {x: 20.5, y: -49}
+        - {x: 20.5, y: -5}
+        - {x: 19.5, y: 0}
+    - name: Goblin_Flail_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 600
+        width: 43
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 0}
+        - {x: -11.5, y: -1}
+        - {x: -21.5, y: -20}
+        - {x: -21.5, y: -41}
+        - {x: -11.5, y: -52}
+        - {x: 19.5, y: -52}
+        - {x: 21.5, y: -44}
+        - {x: 21.5, y: 0}
+    - name: Goblin_Flail_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 599
+        width: 41
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 0}
+        - {x: -12.5, y: -2}
+        - {x: -20.5, y: -15}
+        - {x: -20.5, y: -42}
+        - {x: -13.5, y: -55}
+        - {x: 17.5, y: -55}
+        - {x: 20.5, y: -53}
+        - {x: 20.5, y: 0}
+    - name: Goblin_Flail_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 600
+        width: 43
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 0}
+        - {x: -11.5, y: -2}
+        - {x: -21.5, y: -19}
+        - {x: -21.5, y: -40}
+        - {x: -9.5, y: -52}
+        - {x: 20.5, y: -52}
+        - {x: 21.5, y: -47}
+        - {x: 21.5, y: 0}
+    - name: Goblin_Flail_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 633
+        width: 20
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 496
+        width: 41
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 0}
+        - {x: -19.5, y: 0}
+        - {x: -20.5, y: -2}
+        - {x: -20.5, y: -40}
+        - {x: -14.5, y: -54}
+        - {x: 5.5, y: -54}
+        - {x: 20.5, y: -42}
+        - {x: 20.5, y: -20}
+        - {x: 12.5, y: -3}
+    - name: Goblin_Flail_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 499
+        width: 40
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -20, y: -6}
+        - {x: -20, y: -28}
+        - {x: -13, y: -47}
+        - {x: -10, y: -48}
+        - {x: 15, y: -48}
+        - {x: 20, y: -39}
+        - {x: 20, y: -15}
+        - {x: 15, y: 0}
+    - name: Goblin_Flail_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 502
+        width: 37
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -18.5, y: -29}
+        - {x: -14.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: -3}
+        - {x: 10.5, y: 0}
+    - name: Goblin_Flail_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 498
+        width: 33
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 0}
+        - {x: -16.5, y: 0}
+        - {x: -16.5, y: -51}
+        - {x: 3.5, y: -51}
+        - {x: 16.5, y: -43}
+        - {x: 16.5, y: -17}
+        - {x: 13.5, y: -2}
+    - name: Goblin_Flail_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 498
+        width: 34
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 0}
+        - {x: -17, y: 0}
+        - {x: -17, y: -45}
+        - {x: -11, y: -51}
+        - {x: 15, y: -51}
+        - {x: 17, y: -48}
+        - {x: 17, y: -16}
+        - {x: 14, y: -1}
+    - name: Goblin_Flail_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 499
+        width: 38
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 0}
+        - {x: -19, y: -3}
+        - {x: -19, y: -28}
+        - {x: -10, y: -45}
+        - {x: -7, y: -48}
+        - {x: 16, y: -48}
+        - {x: 19, y: -47}
+        - {x: 19, y: -4}
+        - {x: 6, y: 0}
+    - name: Goblin_Flail_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 500
+        width: 40
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 0}
+        - {x: -19, y: 0}
+        - {x: -20, y: -1}
+        - {x: -20, y: -27}
+        - {x: -13, y: -46}
+        - {x: 13, y: -46}
+        - {x: 20, y: -31}
+        - {x: 20, y: -10}
+        - {x: 16, y: -5}
+    - name: Goblin_Flail_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 496
+        width: 42
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 0}
+        - {x: -21, y: -42}
+        - {x: -17, y: -54}
+        - {x: 4, y: -54}
+        - {x: 21, y: -44}
+        - {x: 21, y: -24}
+        - {x: 1, y: 0}
+    - name: Goblin_Flail_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 478
+        width: 13
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 478
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 478
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 406
+        width: 35
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 0}
+        - {x: -17.5, y: -1}
+        - {x: -17.5, y: -54}
+        - {x: -4.5, y: -47}
+        - {x: -1.5, y: -46}
+        - {x: -2.5, y: -46}
+        - {x: -6.5, y: -50}
+        - {x: -7.5, y: -54}
+        - {x: -6.5, y: -55}
+        - {x: 11.5, y: -55}
+        - {x: 17.5, y: -45}
+        - {x: 17.5, y: -14}
+        - {x: 12.5, y: 0}
+    - name: Goblin_Flail_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 409
+        width: 36
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 0}
+        - {x: -18, y: -10}
+        - {x: -18, y: -39}
+        - {x: -2, y: -49}
+        - {x: 17, y: -49}
+        - {x: 18, y: -46}
+        - {x: 18, y: 0}
+    - name: Goblin_Flail_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 409
+        width: 41
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 0}
+        - {x: -20.5, y: -16}
+        - {x: -20.5, y: -36}
+        - {x: -18.5, y: -41}
+        - {x: 6.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 20.5, y: -46}
+        - {x: 20.5, y: 0}
+    - name: Goblin_Flail_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 409
+        width: 39
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 0}
+        - {x: -14.5, y: -4}
+        - {x: -19.5, y: -6}
+        - {x: -19.5, y: -39}
+        - {x: -8.5, y: -48}
+        - {x: 17.5, y: -48}
+        - {x: 19.5, y: -44}
+        - {x: 19.5, y: -24}
+        - {x: 8.5, y: 0}
+    - name: Goblin_Flail_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 408
+        width: 40
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 0}
+        - {x: -2, y: 0}
+        - {x: -14, y: -3}
+        - {x: -20, y: -24}
+        - {x: -20, y: -41}
+        - {x: -2, y: -50}
+        - {x: 18, y: -50}
+        - {x: 20, y: -46}
+        - {x: 20, y: -16}
+    - name: Goblin_Flail_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 411
+        width: 36
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 0}
+        - {x: -13, y: -5}
+        - {x: -16, y: -13}
+        - {x: -18, y: -18}
+        - {x: -18, y: -40}
+        - {x: -3, y: -45}
+        - {x: 18, y: -45}
+        - {x: 18, y: 0}
+    - name: Goblin_Flail_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 411
+        width: 36
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -18, y: -3}
+        - {x: -18, y: -41}
+        - {x: 4, y: -45}
+        - {x: 18, y: -45}
+        - {x: 18, y: 0}
+    - name: Goblin_Flail_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 407
+        width: 38
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 0}
+        - {x: -19, y: -2}
+        - {x: -19, y: -43}
+        - {x: -9, y: -53}
+        - {x: 12, y: -53}
+        - {x: 19, y: -44}
+        - {x: 19, y: -26}
+        - {x: 7, y: 0}
+    - name: Goblin_Flail_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 446
+        width: 20
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 314
+        width: 36
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -18, y: -6}
+        - {x: -18, y: -54}
+        - {x: -12, y: -58}
+        - {x: 18, y: -58}
+        - {x: 18, y: -3}
+        - {x: 17, y: 0}
+    - name: Goblin_Flail_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 317
+        width: 33
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: -16.5, y: -48}
+        - {x: -9.5, y: -53}
+        - {x: 1.5, y: -53}
+        - {x: 16.5, y: -44}
+        - {x: 16.5, y: -6}
+        - {x: 4.5, y: 0}
+    - name: Goblin_Flail_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 322
+        width: 37
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -18.5, y: -29}
+        - {x: -14.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: -3}
+        - {x: 10.5, y: 0}
+    - name: Goblin_Flail_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 322
+        width: 37
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 0}
+        - {x: -18.5, y: -1}
+        - {x: -18.5, y: -38}
+        - {x: -8.5, y: -43}
+        - {x: 18.5, y: -43}
+        - {x: 18.5, y: -10}
+        - {x: 11.5, y: 0}
+    - name: Goblin_Flail_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 317
+        width: 35
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 0}
+        - {x: -11.5, y: -6}
+        - {x: -17.5, y: -16}
+        - {x: -17.5, y: -53}
+        - {x: 17.5, y: -53}
+        - {x: 17.5, y: 0}
+    - name: Goblin_Flail_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 317
+        width: 35
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 0}
+        - {x: -17.5, y: -53}
+        - {x: 11.5, y: -53}
+        - {x: 17.5, y: -52}
+        - {x: 17.5, y: 0}
+    - name: Goblin_Flail_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 319
+        width: 41
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -11}
+        - {x: 20.5, y: 0}
+        - {x: -10.5, y: 0}
+        - {x: -20.5, y: -15}
+        - {x: -20.5, y: -36}
+        - {x: -18.5, y: -41}
+        - {x: 4.5, y: -48}
+        - {x: 20.5, y: -48}
+        - {x: 20.5, y: -22}
+        - {x: 18.5, y: -19}
+    - name: Goblin_Flail_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 319
+        width: 37
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 0}
+        - {x: -18.5, y: -7}
+        - {x: -18.5, y: -41}
+        - {x: -14.5, y: -46}
+        - {x: -8.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 18.5, y: 0}
+    - name: Goblin_Flail_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 338
+        width: 12
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 338
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 338
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 338
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 810
+        height: 106
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156, y: 0}
+        - {x: -405, y: -103}
+        - {x: -405, y: -106}
+        - {x: 405, y: -106}
+        - {x: 405, y: 0}
+      - - {x: -393, y: -28}
+        - {x: -393, y: -70}
+        - {x: -377, y: -82}
+        - {x: -367, y: -82}
+        - {x: -352, y: -69}
+        - {x: -349, y: -64}
+        - {x: -349, y: -54}
+        - {x: -369, y: -28}
+      - - {x: -294, y: -28}
+        - {x: -309, y: -33}
+        - {x: -309, y: -60}
+        - {x: -306, y: -77}
+        - {x: -297, y: -81}
+        - {x: -281, y: -81}
+        - {x: -274, y: -76}
+        - {x: -274, y: -35}
+        - {x: -278, y: -28}
+      - - {x: -149, y: -32}
+        - {x: -160, y: -43}
+        - {x: -160, y: -60}
+        - {x: -159, y: -66}
+        - {x: -139, y: -77}
+        - {x: -112, y: -77}
+        - {x: -103, y: -70}
+        - {x: -103, y: -40}
+        - {x: -124, y: -32}
+      - - {x: -194, y: -34}
+        - {x: -213, y: -34}
+        - {x: -239, y: -41}
+        - {x: -240, y: -43}
+        - {x: -240, y: -61}
+        - {x: -224, y: -76}
+        - {x: -205, y: -76}
+        - {x: -183, y: -59}
+        - {x: -183, y: -47}
+        - {x: -187, y: -41}
+      - - {x: 99, y: -62}
+        - {x: 94, y: -62}
+        - {x: 91, y: -64}
+        - {x: 91, y: -76}
+        - {x: 103, y: -76}
+        - {x: 103, y: -71}
+        - {x: 101, y: -64}
+      - - {x: 104, y: -76}
+        - {x: 137, y: -76}
+        - {x: 137, y: -62}
+        - {x: 104, y: -62}
+      - - {x: 317, y: -34}
+        - {x: 317, y: -28}
+        - {x: 282, y: -28}
+        - {x: 269, y: -32}
+        - {x: 267, y: -40}
+        - {x: 263, y: -59}
+        - {x: 263, y: -65}
+        - {x: 267, y: -69}
+        - {x: 271, y: -69}
+        - {x: 277, y: -67}
+        - {x: 287, y: -63}
+      - - {x: -62, y: -42}
+        - {x: -68, y: -50}
+        - {x: -68, y: -65}
+        - {x: -60, y: -68}
+        - {x: -47, y: -68}
+        - {x: -43, y: -64}
+        - {x: -43, y: -47}
+        - {x: -50, y: -42}
+      - - {x: 220, y: -31}
+        - {x: 210, y: -33}
+        - {x: 207, y: -34}
+        - {x: 207, y: -46}
+        - {x: 199, y: -48}
+        - {x: 196, y: -49}
+        - {x: 192, y: -31}
+        - {x: 191, y: -31}
+        - {x: 183, y: -43}
+        - {x: 183, y: -67}
+        - {x: 210, y: -67}
+        - {x: 219, y: -59}
+        - {x: 237, y: -37}
+        - {x: 237, y: -31}
+      - - {x: 347, y: -53}
+        - {x: 347, y: -67}
+        - {x: 389, y: -67}
+        - {x: 389, y: -55}
+        - {x: 388, y: -53}
+      - - {x: -16, y: -44}
+        - {x: -18, y: -46}
+        - {x: -18, y: -53}
+        - {x: -17, y: -58}
+        - {x: -8, y: -66}
+        - {x: -1, y: -66}
+        - {x: 4, y: -64}
+        - {x: 4, y: -51}
+        - {x: -9, y: -44}
+      - - {x: 41, y: -42}
+        - {x: 35, y: -46}
+        - {x: 35, y: -58}
+        - {x: 39, y: -65}
+        - {x: 53, y: -65}
+        - {x: 59, y: -60}
+        - {x: 59, y: -49}
+        - {x: 56, y: -42}
+      - - {x: 91, y: -46}
+        - {x: 91, y: -63}
+        - {x: 126, y: -63}
+        - {x: 126, y: -46}
+      - - {x: 346, y: -36}
+        - {x: 346, y: -50}
+        - {x: 387, y: -50}
+        - {x: 387, y: -36}
+      - - {x: 91, y: -30}
+        - {x: 91, y: -44}
+        - {x: 116, y: -44}
+        - {x: 117, y: -43}
+        - {x: 117, y: -31}
+        - {x: 113, y: -30}
+      - - {x: 125, y: -30}
+        - {x: 121, y: -30}
+        - {x: 119, y: -31}
+        - {x: 119, y: -44}
+        - {x: 130, y: -44}
+        - {x: 131, y: -43}
+        - {x: 131, y: -38}
+        - {x: 130, y: -31}
+    - name: Goblin_Flail_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107
+        width: 38
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 0}
+        - {x: -19, y: -5}
+        - {x: -19, y: -50}
+        - {x: -8, y: -57}
+        - {x: -2, y: -58}
+        - {x: 17, y: -58}
+        - {x: 19, y: -49}
+        - {x: 19, y: -27}
+        - {x: 9, y: 0}
+    - name: Goblin_Flail_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 107
+        width: 32
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 0}
+        - {x: -12, y: 0}
+        - {x: -16, y: -4}
+        - {x: -16, y: -46}
+        - {x: -15, y: -48}
+        - {x: -10, y: -55}
+        - {x: 1, y: -58}
+        - {x: 14, y: -58}
+        - {x: 16, y: -52}
+        - {x: 16, y: -32}
+        - {x: 13, y: -14}
+    - name: Goblin_Flail_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 107
+        width: 50
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -17}
+        - {x: 6, y: 0}
+        - {x: -15, y: 0}
+        - {x: -25, y: -29}
+        - {x: -25, y: -52}
+        - {x: -13, y: -58}
+        - {x: -1, y: -58}
+        - {x: 3, y: -50}
+        - {x: 19, y: -47}
+        - {x: 25, y: -40}
+    - name: Goblin_Flail_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 107
+        width: 46
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -49}
+        - {x: 23, y: -44}
+        - {x: 23, y: -21}
+        - {x: 18, y: -5}
+        - {x: 3, y: 0}
+        - {x: -13, y: 0}
+        - {x: -23, y: -35}
+        - {x: -23, y: -52}
+        - {x: -15, y: -58}
+        - {x: 3, y: -58}
+        - {x: 7, y: -49}
+        - {x: 7, y: -44}
+        - {x: 9, y: -47}
+    - name: Goblin_Flail_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 110
+        width: 48
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 0}
+        - {x: -24, y: -11}
+        - {x: -24, y: -45}
+        - {x: -18, y: -53}
+        - {x: 24, y: -53}
+        - {x: 24, y: -5}
+        - {x: 21, y: 0}
+    - name: Goblin_Flail_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 110
+        width: 41
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 0}
+        - {x: -20.5, y: -22}
+        - {x: -20.5, y: -41}
+        - {x: -9.5, y: -53}
+        - {x: 15.5, y: -53}
+        - {x: 20.5, y: -51}
+        - {x: 20.5, y: -2}
+        - {x: 11.5, y: 0}
+    - name: Goblin_Flail_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 110
+        width: 48
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 0}
+        - {x: -12, y: 0}
+        - {x: -24, y: -4}
+        - {x: -24, y: -53}
+        - {x: 1, y: -53}
+        - {x: 24, y: -38}
+        - {x: 24, y: -25}
+        - {x: 20, y: -22}
+    - name: Goblin_Flail_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 110
+        width: 41
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 0}
+        - {x: -20.5, y: -53}
+        - {x: 6.5, y: -53}
+        - {x: 20.5, y: -44}
+        - {x: 20.5, y: -10}
+        - {x: 15.5, y: 0}
+    - name: Goblin_Flail_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 92
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 92
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 34
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -47}
+        - {x: 11, y: -46}
+        - {x: 13, y: -44}
+        - {x: 13, y: -41}
+        - {x: 15, y: -7}
+        - {x: 8, y: 0}
+        - {x: -15, y: 0}
+        - {x: -17, y: -7}
+        - {x: -17, y: -47}
+        - {x: -15, y: -57}
+        - {x: 16, y: -57}
+        - {x: 17, y: -56}
+        - {x: 17, y: -50}
+        - {x: 13, y: -46}
+    - name: Goblin_Flail_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 19
+        width: 32
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 0}
+        - {x: -16, y: -11}
+        - {x: -16, y: -51}
+        - {x: -9, y: -55}
+        - {x: 16, y: -55}
+        - {x: 16, y: -11}
+        - {x: 14, y: 0}
+    - name: Goblin_Flail_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 18
+        width: 31
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 20
+        width: 32
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -16, y: -41}
+        - {x: -11, y: -53}
+        - {x: 9, y: -53}
+        - {x: 16, y: -47}
+        - {x: 16, y: 0}
+    - name: Goblin_Flail_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 32
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -16, y: -55}
+        - {x: 12, y: -55}
+        - {x: 16, y: -47}
+        - {x: 16, y: -4}
+        - {x: 15, y: 0}
+    - name: Goblin_Flail_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 20
+        width: 26
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 18
+        width: 29
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Flail_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 20
+        width: 34
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -17, y: -39}
+        - {x: -11, y: -52}
+        - {x: 17, y: -52}
+        - {x: 17, y: -13}
+        - {x: 16, y: 0}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
