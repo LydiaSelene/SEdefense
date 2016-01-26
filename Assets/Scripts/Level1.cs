@@ -17,12 +17,12 @@ public class Level1 : MonoBehaviour{
 	int playingwave = 0;
 	int patternint = 0;
 	void Start(){
-		En_Dragon = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemies/En_Dragon.prefab", typeof(GameObject)) as GameObject;
-		En_FrozenWolf = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemies/En_FrozenWolf.prefab", typeof(GameObject)) as GameObject;
-		En_Goblin1 = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemies/En_Goblin1.prefab", typeof(GameObject)) as GameObject;
-		En_Cookie1 = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemies/En_Cookie1.prefab", typeof(GameObject)) as GameObject;
-		En_Mantis = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemies/En_Mantis.prefab", typeof(GameObject)) as GameObject;
-		En_Santa = AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Enemies/En_Santa.prefab", typeof(GameObject)) as GameObject;
+		En_Dragon = Resources.Load("Prefabs/Enemies/Enemy_Dragon", typeof(GameObject)) as GameObject;
+        En_FrozenWolf = Resources.Load("Prefabs/Enemies/Enemy_FrozenWolf", typeof(GameObject)) as GameObject;
+        En_Goblin1 = Resources.Load("Prefabs/Enemies/Enemy_Goblin1", typeof(GameObject)) as GameObject;
+        En_Cookie1 = Resources.Load("Prefabs/Enemies/Enemy_Cookie1", typeof(GameObject)) as GameObject;
+        En_Mantis = Resources.Load("Prefabs/Enemies/Enemy_Mantis", typeof(GameObject)) as GameObject;
+        En_Santa = Resources.Load("Prefabs/Enemies/Enemy_Santa", typeof(GameObject)) as GameObject;
 	}
 	void Update(){
 	switch(playingwave){
