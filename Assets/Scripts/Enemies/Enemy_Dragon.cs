@@ -4,15 +4,15 @@ using System.Collections;
 public class Enemy_Dragon : MonoBehaviour {
 
 	Transform thistransform;
-	public float health;
-	public float movingSpeed;
+	float health;
+	float movingSpeed;
 	Vector3 movingDirection;
 
 	// Use this for initialization
 	void Start () {
 		thistransform = transform;
 		health = 10;
-		movingSpeed = 8.0f;
+		movingSpeed = 7.0f;
 
 		movingDirection = new Vector3 (-1, 0, 0);
 	}
@@ -39,5 +39,13 @@ public class Enemy_Dragon : MonoBehaviour {
 		thistransform.Translate (movingDirection*movingSpeed*Time.deltaTime, Space.World);
 	}
 
+
+	public float getMovingSpeed(){
+		return movingSpeed;
+	}
+
+	public Vector3 getMovingDirection(){
+		return movingDirection;
+	}
 
 }

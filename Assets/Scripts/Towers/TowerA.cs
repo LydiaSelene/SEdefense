@@ -11,7 +11,6 @@ public class TowerA : MonoBehaviour {
 
 	//der Projektil-Typ, den dieser Turm verwendet, z.B. Kanonenkugel oder Pfeil
 	public GameObject projectilePrefab;
-	TestProjectile projectileScript;
 
 	//Ziel- oder Feuerradius des Turms
 	float radius;
@@ -29,12 +28,11 @@ public class TowerA : MonoBehaviour {
 	void Start () {
 		thistransform = gameObject.transform;
 
-		fireIntervall = 0.5f;
+		fireIntervall = 0.6f;
 		actualIntervallTime = 0.0f;
-		radius = 8f;
+		radius = 18f;
 		//radius = GetComponent<CircleCollider2D>().radius;
 		hasTarget = false;
-		projectileScript = projectilePrefab.GetComponent<TestProjectile>();
 
 	}
 
@@ -63,7 +61,6 @@ public class TowerA : MonoBehaviour {
 			actualIntervallTime = actualIntervallTime - Time.deltaTime;
 		}
 
-
 		//schauen, ob das Ziel noch in Reichweite ist oder gelöscht wurde
 		if(hasTarget){
 			if (targetEnemy == null) {
@@ -76,16 +73,14 @@ public class TowerA : MonoBehaviour {
 				}
 			}
 		}
-
+			
 		//sucht nur Ziele, wenn es kein akutelles Ziel gibt.
 		if (!hasTarget) {
 			searchTarget ();
 		}
-
+			
 		//immer ausführen
-		if (hasTarget) {
-			Vector3 vecToEnemy = targetEnemy.transform.position - thistransform.position;
-
+		if (hasTarget)  {
 			//evtl. vorhalten: bewegungsgeschw. * flugzeit des projektils + position gegner
 
 			//Geschütz etc ausrichten, Vektor: gegner - eigene pos
@@ -96,8 +91,9 @@ public class TowerA : MonoBehaviour {
 
 				//projektil erzeugen
 				GameObject projectileInstance = Instantiate (projectilePrefab);
-				TestProjectile projScript = projectileInstance.GetComponent<TestProjectile> ();
-				projScript.setup (transform.position, vecToEnemy);
+				projectileInstance.transform.position = transform.position;
+				projectileInstance.SendMessage ("setTarget", targetEnemy, SendMessageOptions.RequireReceiver);
+
 
 				//wartezeit (intervall) bis zum nächst möglichen angriff
 				actualIntervallTime = fireIntervall;
