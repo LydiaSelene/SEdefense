@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/SE Gui/settings.png.meta
+guid: 021013b587f615c4ab9652a4edc9318b
+timeCreated: 1453378121
+=======
 guid: 3fb6431b90752e846b66e52cd01fbb6d
 timeCreated: 1453402452
+>>>>>>> 3281a13430c0345a175485bfb40061a108f8de71:Assets/SE Gui/settings.png.meta
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}

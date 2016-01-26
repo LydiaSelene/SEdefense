@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 850290dc47f0e3d4d8e11a4498750fe3
+timeCreated: 1453632878
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goblin_Axe_noBG_0
+    21300002: Goblin_Axe_noBG_1
+    21300004: Goblin_Axe_noBG_2
+    21300006: Goblin_Axe_noBG_3
+    21300008: Goblin_Axe_noBG_4
+    21300010: Goblin_Axe_noBG_5
+    21300012: Goblin_Axe_noBG_6
+    21300014: Goblin_Axe_noBG_7
+    21300016: Goblin_Axe_noBG_8
+    21300018: Goblin_Axe_noBG_9
+    21300020: Goblin_Axe_noBG_10
+    21300022: Goblin_Axe_noBG_11
+    21300024: Goblin_Axe_noBG_12
+    21300026: Goblin_Axe_noBG_13
+    21300028: Goblin_Axe_noBG_14
+    21300030: Goblin_Axe_noBG_15
+    21300032: Goblin_Axe_noBG_16
+    21300034: Goblin_Axe_noBG_17
+    21300036: Goblin_Axe_noBG_18
+    21300038: Goblin_Axe_noBG_19
+    21300040: Goblin_Axe_noBG_20
+    21300042: Goblin_Axe_noBG_21
+    21300044: Goblin_Axe_noBG_22
+    21300046: Goblin_Axe_noBG_23
+    21300048: Goblin_Axe_noBG_24
+    21300050: Goblin_Axe_noBG_25
+    21300052: Goblin_Axe_noBG_26
+    21300054: Goblin_Axe_noBG_27
+    21300056: Goblin_Axe_noBG_28
+    21300058: Goblin_Axe_noBG_29
+    21300060: Goblin_Axe_noBG_30
+    21300062: Goblin_Axe_noBG_31
+    21300064: Goblin_Axe_noBG_32
+    21300066: Goblin_Axe_noBG_33
+    21300068: Goblin_Axe_noBG_34
+    21300070: Goblin_Axe_noBG_35
+    21300072: Goblin_Axe_noBG_36
+    21300074: Goblin_Axe_noBG_37
+    21300076: Goblin_Axe_noBG_38
+    21300078: Goblin_Axe_noBG_39
+    21300080: Goblin_Axe_noBG_40
+    21300082: Goblin_Axe_noBG_41
+    21300084: Goblin_Axe_noBG_42
+    21300086: Goblin_Axe_noBG_43
+    21300088: Goblin_Axe_noBG_44
+    21300090: Goblin_Axe_noBG_45
+    21300092: Goblin_Axe_noBG_46
+    21300094: Goblin_Axe_noBG_47
+    21300096: Goblin_Axe_noBG_48
+    21300098: Goblin_Axe_noBG_49
+    21300100: Goblin_Axe_noBG_50
+    21300102: Goblin_Axe_noBG_51
+    21300104: Goblin_Axe_noBG_52
+    21300106: Goblin_Axe_noBG_53
+    21300108: Goblin_Axe_noBG_54
+    21300110: Goblin_Axe_noBG_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Goblin_Axe_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 577
+        width: 36
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -1}
+        - {x: 0, y: 0}
+        - {x: -14, y: 0}
+        - {x: -18, y: -16}
+        - {x: -18, y: -24}
+        - {x: -17, y: -29}
+        - {x: -18, y: -31}
+        - {x: -18, y: -53}
+        - {x: -14, y: -58}
+        - {x: 9, y: -58}
+        - {x: 18, y: -49}
+        - {x: 18, y: -20}
+        - {x: 13, y: -3}
+    - name: Goblin_Axe_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 576
+        width: 44
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -5}
+        - {x: 2, y: -1}
+        - {x: -1, y: 0}
+        - {x: -15, y: 0}
+        - {x: -22, y: -20}
+        - {x: -22, y: -46}
+        - {x: -19, y: -59}
+        - {x: -13, y: -60}
+        - {x: 9, y: -60}
+        - {x: 21, y: -37}
+        - {x: 22, y: -34}
+        - {x: 22, y: -20}
+    - name: Goblin_Axe_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 579
+        width: 41
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -20.5, y: -7}
+        - {x: -20.5, y: -47}
+        - {x: -10.5, y: -54}
+        - {x: 18.5, y: -54}
+        - {x: 20.5, y: -52}
+        - {x: 20.5, y: -19}
+        - {x: 12.5, y: 0}
+    - name: Goblin_Axe_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 576
+        width: 42
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -1}
+        - {x: 0, y: 0}
+        - {x: -14, y: 0}
+        - {x: -21, y: -18}
+        - {x: -21, y: -48}
+        - {x: -14, y: -60}
+        - {x: 13, y: -60}
+        - {x: 21, y: -39}
+        - {x: 21, y: -17}
+        - {x: 11, y: -5}
+    - name: Goblin_Axe_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 580
+        width: 44
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -1}
+        - {x: -1, y: 0}
+        - {x: -17, y: 0}
+        - {x: -22, y: -6}
+        - {x: -22, y: -52}
+        - {x: 16, y: -52}
+        - {x: 22, y: -46}
+        - {x: 22, y: -20}
+        - {x: 10, y: -5}
+    - name: Goblin_Axe_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 576
+        width: 42
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: -16, y: 0}
+        - {x: -21, y: -14}
+        - {x: -21, y: -36}
+        - {x: -7, y: -60}
+        - {x: 13, y: -60}
+        - {x: 21, y: -41}
+        - {x: 21, y: -18}
+        - {x: 12, y: -3}
+    - name: Goblin_Axe_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 578
+        width: 44
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: -15, y: 0}
+        - {x: -22, y: -16}
+        - {x: -22, y: -41}
+        - {x: -18, y: -56}
+        - {x: 9, y: -56}
+        - {x: 14, y: -49}
+        - {x: 22, y: -33}
+        - {x: 22, y: -18}
+    - name: Goblin_Axe_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 581
+        width: 20
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 564
+        width: 11
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 564
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 564
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 564
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 564
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 561
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 490
+        width: 35
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 0}
+        - {x: -11.5, y: -6}
+        - {x: -17.5, y: -16}
+        - {x: -17.5, y: -53}
+        - {x: 17.5, y: -53}
+        - {x: 17.5, y: 0}
+    - name: Goblin_Axe_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 489
+        width: 39
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 0}
+        - {x: -19.5, y: -10}
+        - {x: -19.5, y: -55}
+        - {x: 19.5, y: -55}
+        - {x: 19.5, y: 0}
+    - name: Goblin_Axe_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 486
+        width: 41
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 0}
+        - {x: -20.5, y: -15}
+        - {x: -20.5, y: -36}
+        - {x: -19.5, y: -38}
+        - {x: -6.5, y: -60}
+        - {x: 7.5, y: -60}
+        - {x: 20.5, y: -49}
+        - {x: 20.5, y: 0}
+    - name: Goblin_Axe_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 489
+        width: 41
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 0}
+        - {x: -10.5, y: -4}
+        - {x: -20.5, y: -14}
+        - {x: -20.5, y: -55}
+        - {x: 8.5, y: -55}
+        - {x: 20.5, y: -49}
+        - {x: 20.5, y: -5}
+        - {x: 19.5, y: 0}
+    - name: Goblin_Axe_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 490
+        width: 43
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 0}
+        - {x: -11.5, y: -1}
+        - {x: -21.5, y: -20}
+        - {x: -21.5, y: -41}
+        - {x: -11.5, y: -52}
+        - {x: 19.5, y: -52}
+        - {x: 21.5, y: -44}
+        - {x: 21.5, y: 0}
+    - name: Goblin_Axe_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 489
+        width: 41
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 0}
+        - {x: -12.5, y: -2}
+        - {x: -20.5, y: -15}
+        - {x: -20.5, y: -42}
+        - {x: -13.5, y: -55}
+        - {x: 17.5, y: -55}
+        - {x: 20.5, y: -53}
+        - {x: 20.5, y: 0}
+    - name: Goblin_Axe_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 490
+        width: 43
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 0}
+        - {x: -11.5, y: -2}
+        - {x: -21.5, y: -19}
+        - {x: -21.5, y: -40}
+        - {x: -9.5, y: -52}
+        - {x: 20.5, y: -52}
+        - {x: 21.5, y: -47}
+        - {x: 21.5, y: 0}
+    - name: Goblin_Axe_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 534
+        width: 20
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 387
+        width: 41
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 0}
+        - {x: -19.5, y: 0}
+        - {x: -20.5, y: -2}
+        - {x: -20.5, y: -40}
+        - {x: -14.5, y: -54}
+        - {x: 5.5, y: -54}
+        - {x: 20.5, y: -42}
+        - {x: 20.5, y: -20}
+        - {x: 12.5, y: -3}
+    - name: Goblin_Axe_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 390
+        width: 40
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -20, y: -6}
+        - {x: -20, y: -28}
+        - {x: -13, y: -47}
+        - {x: -10, y: -48}
+        - {x: 15, y: -48}
+        - {x: 20, y: -39}
+        - {x: 20, y: -15}
+        - {x: 15, y: 0}
+    - name: Goblin_Axe_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 393
+        width: 37
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -18.5, y: -29}
+        - {x: -14.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: -3}
+        - {x: 10.5, y: 0}
+    - name: Goblin_Axe_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 389
+        width: 33
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 0}
+        - {x: -16.5, y: 0}
+        - {x: -16.5, y: -51}
+        - {x: 3.5, y: -51}
+        - {x: 16.5, y: -43}
+        - {x: 16.5, y: -17}
+        - {x: 13.5, y: -2}
+    - name: Goblin_Axe_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 389
+        width: 34
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 0}
+        - {x: -17, y: 0}
+        - {x: -17, y: -45}
+        - {x: -11, y: -51}
+        - {x: 15, y: -51}
+        - {x: 17, y: -48}
+        - {x: 17, y: -16}
+        - {x: 14, y: -1}
+    - name: Goblin_Axe_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 390
+        width: 38
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 0}
+        - {x: -19, y: -3}
+        - {x: -19, y: -28}
+        - {x: -10, y: -45}
+        - {x: -7, y: -48}
+        - {x: 16, y: -48}
+        - {x: 19, y: -47}
+        - {x: 19, y: -4}
+        - {x: 6, y: 0}
+    - name: Goblin_Axe_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 391
+        width: 40
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 0}
+        - {x: -19, y: 0}
+        - {x: -20, y: -1}
+        - {x: -20, y: -27}
+        - {x: -13, y: -46}
+        - {x: 13, y: -46}
+        - {x: 20, y: -31}
+        - {x: 20, y: -10}
+        - {x: 16, y: -5}
+    - name: Goblin_Axe_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 387
+        width: 42
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 0}
+        - {x: -21, y: -42}
+        - {x: -17, y: -54}
+        - {x: 4, y: -54}
+        - {x: 21, y: -44}
+        - {x: 21, y: -24}
+        - {x: 1, y: 0}
+    - name: Goblin_Axe_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 388
+        width: 20
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 364
+        width: 13
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 364
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 364
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 297
+        width: 35
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 0}
+        - {x: -17.5, y: -1}
+        - {x: -17.5, y: -54}
+        - {x: -4.5, y: -47}
+        - {x: -1.5, y: -46}
+        - {x: -2.5, y: -46}
+        - {x: -6.5, y: -50}
+        - {x: -7.5, y: -54}
+        - {x: -6.5, y: -55}
+        - {x: 11.5, y: -55}
+        - {x: 17.5, y: -45}
+        - {x: 17.5, y: -14}
+        - {x: 12.5, y: 0}
+    - name: Goblin_Axe_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 300
+        width: 36
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 0}
+        - {x: -18, y: -10}
+        - {x: -18, y: -39}
+        - {x: -2, y: -49}
+        - {x: 17, y: -49}
+        - {x: 18, y: -46}
+        - {x: 18, y: 0}
+    - name: Goblin_Axe_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 300
+        width: 41
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 0}
+        - {x: -20.5, y: -16}
+        - {x: -20.5, y: -36}
+        - {x: -18.5, y: -41}
+        - {x: 6.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 20.5, y: -46}
+        - {x: 20.5, y: 0}
+    - name: Goblin_Axe_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 300
+        width: 39
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 0}
+        - {x: -14.5, y: -4}
+        - {x: -19.5, y: -6}
+        - {x: -19.5, y: -39}
+        - {x: -8.5, y: -48}
+        - {x: 17.5, y: -48}
+        - {x: 19.5, y: -44}
+        - {x: 19.5, y: -24}
+        - {x: 8.5, y: 0}
+    - name: Goblin_Axe_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 299
+        width: 40
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 0}
+        - {x: -2, y: 0}
+        - {x: -14, y: -3}
+        - {x: -20, y: -24}
+        - {x: -20, y: -41}
+        - {x: -2, y: -50}
+        - {x: 18, y: -50}
+        - {x: 20, y: -46}
+        - {x: 20, y: -16}
+    - name: Goblin_Axe_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 302
+        width: 36
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 0}
+        - {x: -13, y: -5}
+        - {x: -16, y: -13}
+        - {x: -18, y: -18}
+        - {x: -18, y: -40}
+        - {x: -3, y: -45}
+        - {x: 18, y: -45}
+        - {x: 18, y: 0}
+    - name: Goblin_Axe_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 302
+        width: 36
+        height: 45
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -18, y: -3}
+        - {x: -18, y: -41}
+        - {x: 4, y: -45}
+        - {x: 18, y: -45}
+        - {x: 18, y: 0}
+    - name: Goblin_Axe_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 299
+        width: 38
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 0}
+        - {x: -19, y: -2}
+        - {x: -19, y: -43}
+        - {x: -9, y: -53}
+        - {x: 12, y: -53}
+        - {x: 19, y: -44}
+        - {x: 19, y: -26}
+        - {x: 7, y: 0}
+    - name: Goblin_Axe_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 329
+        width: 20
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 36
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -18, y: -6}
+        - {x: -18, y: -54}
+        - {x: -12, y: -58}
+        - {x: 18, y: -58}
+        - {x: 18, y: -3}
+        - {x: 17, y: 0}
+    - name: Goblin_Axe_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194
+        width: 33
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 0}
+        - {x: -16.5, y: 0}
+        - {x: -16.5, y: -38}
+        - {x: -13.5, y: -52}
+        - {x: -11.5, y: -53}
+        - {x: 3.5, y: -53}
+        - {x: 16.5, y: -44}
+        - {x: 16.5, y: -15}
+        - {x: 15.5, y: -9}
+    - name: Goblin_Axe_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 199
+        width: 37
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -18.5, y: -29}
+        - {x: -14.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: -3}
+        - {x: 10.5, y: 0}
+    - name: Goblin_Axe_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 199
+        width: 37
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 0}
+        - {x: -18.5, y: -1}
+        - {x: -18.5, y: -38}
+        - {x: -8.5, y: -43}
+        - {x: 18.5, y: -43}
+        - {x: 18.5, y: -10}
+        - {x: 11.5, y: 0}
+    - name: Goblin_Axe_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 194
+        width: 35
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 0}
+        - {x: -11.5, y: -6}
+        - {x: -17.5, y: -16}
+        - {x: -17.5, y: -53}
+        - {x: 17.5, y: -53}
+        - {x: 17.5, y: 0}
+    - name: Goblin_Axe_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 194
+        width: 35
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 0}
+        - {x: -17.5, y: -53}
+        - {x: 11.5, y: -53}
+        - {x: 17.5, y: -52}
+        - {x: 17.5, y: 0}
+    - name: Goblin_Axe_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 196
+        width: 41
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -11}
+        - {x: 20.5, y: 0}
+        - {x: -10.5, y: 0}
+        - {x: -20.5, y: -15}
+        - {x: -20.5, y: -36}
+        - {x: -18.5, y: -41}
+        - {x: 4.5, y: -48}
+        - {x: 20.5, y: -48}
+        - {x: 20.5, y: -22}
+        - {x: 18.5, y: -19}
+    - name: Goblin_Axe_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 196
+        width: 37
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 0}
+        - {x: -18.5, y: -7}
+        - {x: -18.5, y: -41}
+        - {x: -14.5, y: -46}
+        - {x: -8.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 18.5, y: 0}
+    - name: Goblin_Axe_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 217
+        width: 12
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 217
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 217
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 217
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Goblin_Axe_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 693
+        height: 168
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 217.5, y: 0}
+        - {x: -346.5, y: -94}
+        - {x: -346.5, y: -99}
+        - {x: 137.5, y: -168}
+        - {x: 149.5, y: -168}
+        - {x: 346.5, y: -99}
+        - {x: 346.5, y: 0}
+      - - {x: 224.5, y: -111}
+        - {x: 217.5, y: -111}
+        - {x: 214.5, y: -115}
+        - {x: 214.5, y: -146}
+        - {x: 218.5, y: -161}
+        - {x: 237.5, y: -161}
+        - {x: 241.5, y: -156}
+        - {x: 241.5, y: -142}
+        - {x: 237.5, y: -120}
+      - - {x: 177.5, y: -109}
+        - {x: 170.5, y: -109}
+        - {x: 167.5, y: -113}
+        - {x: 167.5, y: -144}
+        - {x: 171.5, y: -159}
+        - {x: 190.5, y: -159}
+        - {x: 194.5, y: -154}
+        - {x: 194.5, y: -140}
+        - {x: 190.5, y: -118}
+      - - {x: 36.5, y: -144}
+        - {x: 36.5, y: -156}
+        - {x: 67.5, y: -156}
+        - {x: 67.5, y: -145}
+        - {x: 65.5, y: -144}
+      - - {x: 77.5, y: -142}
+        - {x: 69.5, y: -143}
+        - {x: 67.5, y: -145}
+        - {x: 67.5, y: -156}
+        - {x: 101.5, y: -156}
+        - {x: 101.5, y: -146}
+        - {x: 100.5, y: -142}
+      - - {x: -328.5, y: -113}
+        - {x: -330.5, y: -114}
+        - {x: -336.5, y: -121}
+        - {x: -336.5, y: -134}
+        - {x: -328.5, y: -140}
+        - {x: -324.5, y: -140}
+        - {x: -322.5, y: -138}
+        - {x: -322.5, y: -136}
+        - {x: -322.5, y: -140}
+        - {x: -326.5, y: -141}
+        - {x: -323.5, y: -152}
+        - {x: -314.5, y: -152}
+        - {x: -314.5, y: -118}
+        - {x: -321.5, y: -113}
+      - - {x: -285.5, y: -115}
+        - {x: -286.5, y: -119}
+        - {x: -286.5, y: -140}
+        - {x: -271.5, y: -150}
+        - {x: -258.5, y: -150}
+        - {x: -258.5, y: -142}
+        - {x: -264.5, y: -120}
+        - {x: -272.5, y: -115}
+      - - {x: -98.5, y: -120}
+        - {x: -105.5, y: -134}
+        - {x: -105.5, y: -147}
+        - {x: -103.5, y: -148}
+        - {x: -90.5, y: -148}
+        - {x: -80.5, y: -145}
+        - {x: -79.5, y: -142}
+        - {x: -79.5, y: -120}
+      - - {x: -175.5, y: -121}
+        - {x: -179.5, y: -127}
+        - {x: -179.5, y: -139}
+        - {x: -177.5, y: -145}
+        - {x: -171.5, y: -145}
+        - {x: -167.5, y: -142}
+        - {x: -167.5, y: -125}
+        - {x: -168.5, y: -121}
+      - - {x: -236.5, y: -116}
+        - {x: -237.5, y: -120}
+        - {x: -237.5, y: -135}
+        - {x: -234.5, y: -138}
+        - {x: -221.5, y: -144}
+        - {x: -214.5, y: -144}
+        - {x: -211.5, y: -143}
+        - {x: -211.5, y: -134}
+        - {x: -214.5, y: -120}
+        - {x: -223.5, y: -116}
+      - - {x: -134.5, y: -121}
+        - {x: -138.5, y: -121}
+        - {x: -141.5, y: -123}
+        - {x: -145.5, y: -129}
+        - {x: -145.5, y: -141}
+        - {x: -143.5, y: -144}
+        - {x: -137.5, y: -144}
+        - {x: -132.5, y: -143}
+        - {x: -128.5, y: -138}
+        - {x: -128.5, y: -125}
+      - - {x: 282.5, y: -129}
+        - {x: 282.5, y: -143}
+        - {x: 324.5, y: -143}
+        - {x: 324.5, y: -131}
+        - {x: 323.5, y: -129}
+      - - {x: 43.5, y: -128}
+        - {x: 39.5, y: -130}
+        - {x: 36.5, y: -133}
+        - {x: 36.5, y: -137}
+        - {x: 38.5, y: -140}
+        - {x: 81.5, y: -140}
+        - {x: 81.5, y: -128}
+      - - {x: 4.5, y: -123}
+        - {x: -17.5, y: -123}
+        - {x: -20.5, y: -127}
+        - {x: -20.5, y: -137}
+        - {x: 12.5, y: -137}
+        - {x: 12.5, y: -126}
+        - {x: 10.5, y: -125}
+      - - {x: 36.5, y: -114}
+        - {x: 36.5, y: -125}
+        - {x: 38.5, y: -128}
+        - {x: 65.5, y: -128}
+        - {x: 66.5, y: -125}
+        - {x: 66.5, y: -114}
+      - - {x: 281.5, y: -114}
+        - {x: 281.5, y: -128}
+        - {x: 322.5, y: -128}
+        - {x: 322.5, y: -114}
+      - - {x: 66.5, y: -114}
+        - {x: 66.5, y: -126}
+        - {x: 80.5, y: -126}
+        - {x: 81.5, y: -125}
+        - {x: 81.5, y: -118}
+        - {x: 79.5, y: -114}
+      - - {x: -327.5, y: -24}
+        - {x: -327.5, y: -67}
+        - {x: -312.5, y: -78}
+        - {x: -300.5, y: -78}
+        - {x: -286.5, y: -65}
+        - {x: -283.5, y: -60}
+        - {x: -283.5, y: -50}
+        - {x: -303.5, y: -24}
+      - - {x: -231.5, y: -21}
+        - {x: -249.5, y: -28}
+        - {x: -249.5, y: -44}
+        - {x: -246.5, y: -70}
+        - {x: -237.5, y: -74}
+        - {x: -221.5, y: -74}
+        - {x: -214.5, y: -69}
+        - {x: -214.5, y: -31}
+        - {x: -219.5, y: -21}
+      - - {x: -102.5, y: -58}
+        - {x: -85.5, y: -74}
+        - {x: -45.5, y: -74}
+        - {x: -45.5, y: -45}
+        - {x: -58.5, y: -29}
+        - {x: -82.5, y: -29}
+        - {x: -102.5, y: -45}
+      - - {x: -138.5, y: -31}
+        - {x: -147.5, y: -31}
+        - {x: -180.5, y: -39}
+        - {x: -182.5, y: -47}
+        - {x: -182.5, y: -54}
+        - {x: -175.5, y: -68}
+        - {x: -160.5, y: -73}
+        - {x: -146.5, y: -73}
+        - {x: -125.5, y: -56}
+        - {x: -125.5, y: -44}
+        - {x: -129.5, y: -38}
+      - - {x: 264.5, y: -60}
+        - {x: 237.5, y: -62}
+        - {x: 237.5, y: -73}
+        - {x: 314.5, y: -73}
+        - {x: 316.5, y: -67}
+        - {x: 316.5, y: -63}
+        - {x: 311.5, y: -60}
+      - - {x: 177.5, y: -54}
+        - {x: 173.5, y: -54}
+        - {x: 171.5, y: -55}
+        - {x: 171.5, y: -68}
+        - {x: 182.5, y: -68}
+        - {x: 183.5, y: -67}
+        - {x: 183.5, y: -62}
+        - {x: 182.5, y: -55}
+      - - {x: 184.5, y: -54}
+        - {x: 184.5, y: -68}
+        - {x: 217.5, y: -68}
+        - {x: 217.5, y: -54}
+      - - {x: 238.5, y: -48}
+        - {x: 238.5, y: -57}
+        - {x: 239.5, y: -61}
+        - {x: 280.5, y: -61}
+        - {x: 281.5, y: -60}
+        - {x: 281.5, y: -48}
+      - - {x: 341.5, y: -46}
+        - {x: 341.5, y: -41}
+        - {x: 340.5, y: -35}
+        - {x: 284.5, y: -24}
+        - {x: 271.5, y: -24}
+        - {x: 243.5, y: -37}
+        - {x: 243.5, y: -45}
+        - {x: 245.5, y: -47}
+        - {x: 257.5, y: -50}
+        - {x: 289.5, y: -47}
+        - {x: 297.5, y: -49}
+        - {x: 299.5, y: -49}
+        - {x: 290.5, y: -50}
+        - {x: 288.5, y: -48}
+        - {x: 285.5, y: -48}
+        - {x: 282.5, y: -51}
+        - {x: 282.5, y: -56}
+        - {x: 285.5, y: -59}
+        - {x: 297.5, y: -59}
+        - {x: 305.5, y: -61}
+        - {x: 312.5, y: -61}
+        - {x: 315.5, y: -59}
+        - {x: 316.5, y: -52}
+        - {x: 314.5, y: -50}
+        - {x: 338.5, y: -48}
+      - - {x: 10.5, y: -33}
+        - {x: 0.5, y: -33}
+        - {x: -7.5, y: -35}
+        - {x: -7.5, y: -52}
+        - {x: -0.5, y: -59}
+        - {x: 6.5, y: -59}
+        - {x: 15.5, y: -54}
+        - {x: 15.5, y: -39}
+      - - {x: 115.5, y: -35}
+        - {x: 111.5, y: -41}
+        - {x: 111.5, y: -55}
+        - {x: 115.5, y: -58}
+        - {x: 130.5, y: -58}
+        - {x: 135.5, y: -54}
+        - {x: 135.5, y: -42}
+        - {x: 132.5, y: -35}
+      - - {x: 56.5, y: -35}
+        - {x: 54.5, y: -37}
+        - {x: 54.5, y: -44}
+        - {x: 55.5, y: -49}
+        - {x: 64.5, y: -57}
+        - {x: 71.5, y: -57}
+        - {x: 76.5, y: -55}
+        - {x: 76.5, y: -42}
+        - {x: 63.5, y: -35}
+      - - {x: 172.5, y: -37}
+        - {x: 172.5, y: -51}
+        - {x: 178.5, y: -54}
+        - {x: 207.5, y: -54}
+        - {x: 207.5, y: -39}
+        - {x: 203.5, y: -37}
+      - - {x: 237.5, y: -24}
+        - {x: 237.5, y: -34}
+        - {x: 240.5, y: -35}
+        - {x: 249.5, y: -35}
+        - {x: 255.5, y: -37}
+        - {x: 276.5, y: -37}
+        - {x: 277.5, y: -34}
+        - {x: 277.5, y: -24}
+      - - {x: 331.5, y: -24}
+        - {x: 291.5, y: -24}
+        - {x: 291.5, y: -36}
+        - {x: 294.5, y: -37}
+        - {x: 323.5, y: -37}
+        - {x: 329.5, y: -35}
+        - {x: 331.5, y: -33}
+      - - {x: 172.5, y: -21}
+        - {x: 172.5, y: -35}
+        - {x: 196.5, y: -35}
+        - {x: 198.5, y: -34}
+        - {x: 198.5, y: -25}
+        - {x: 197.5, y: -21}
+      - - {x: 206.5, y: -21}
+        - {x: 202.5, y: -21}
+        - {x: 200.5, y: -22}
+        - {x: 200.5, y: -35}
+        - {x: 211.5, y: -35}
+        - {x: 212.5, y: -34}
+        - {x: 212.5, y: -29}
+        - {x: 211.5, y: -22}
+      - - {x: 291.5, y: -14}
+        - {x: 288.5, y: -12}
+        - {x: 269.5, y: -12}
+        - {x: 266.5, y: -16}
+        - {x: 266.5, y: -23}
+        - {x: 270.5, y: -25}
+        - {x: 287.5, y: -25}
+        - {x: 291.5, y: -21}
+      - - {x: 261.5, y: -12}
+        - {x: 241.5, y: -12}
+        - {x: 238.5, y: -13}
+        - {x: 238.5, y: -20}
+        - {x: 239.5, y: -23}
+        - {x: 264.5, y: -23}
+        - {x: 266.5, y: -22}
+        - {x: 266.5, y: -16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

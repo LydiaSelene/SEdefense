@@ -1,0 +1,1618 @@
+fileFormatVersion: 2
+guid: f1d7af680057da54da885f09fb49047e
+timeCreated: 1453637764
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Archer_Skeleton_noBG_0
+    21300002: Archer_Skeleton_noBG_1
+    21300004: Archer_Skeleton_noBG_2
+    21300006: Archer_Skeleton_noBG_3
+    21300008: Archer_Skeleton_noBG_4
+    21300010: Archer_Skeleton_noBG_5
+    21300012: Archer_Skeleton_noBG_6
+    21300014: Archer_Skeleton_noBG_7
+    21300016: Archer_Skeleton_noBG_8
+    21300018: Archer_Skeleton_noBG_9
+    21300020: Archer_Skeleton_noBG_10
+    21300022: Archer_Skeleton_noBG_11
+    21300024: Archer_Skeleton_noBG_12
+    21300026: Archer_Skeleton_noBG_13
+    21300028: Archer_Skeleton_noBG_14
+    21300030: Archer_Skeleton_noBG_15
+    21300032: Archer_Skeleton_noBG_16
+    21300034: Archer_Skeleton_noBG_17
+    21300036: Archer_Skeleton_noBG_18
+    21300038: Archer_Skeleton_noBG_19
+    21300040: Archer_Skeleton_noBG_20
+    21300042: Archer_Skeleton_noBG_21
+    21300044: Archer_Skeleton_noBG_22
+    21300046: Archer_Skeleton_noBG_23
+    21300048: Archer_Skeleton_noBG_24
+    21300050: Archer_Skeleton_noBG_25
+    21300052: Archer_Skeleton_noBG_26
+    21300054: Archer_Skeleton_noBG_27
+    21300056: Archer_Skeleton_noBG_28
+    21300058: Archer_Skeleton_noBG_29
+    21300060: Archer_Skeleton_noBG_30
+    21300062: Archer_Skeleton_noBG_31
+    21300064: Archer_Skeleton_noBG_32
+    21300066: Archer_Skeleton_noBG_33
+    21300068: Archer_Skeleton_noBG_34
+    21300070: Archer_Skeleton_noBG_35
+    21300072: Archer_Skeleton_noBG_36
+    21300074: Archer_Skeleton_noBG_37
+    21300076: Archer_Skeleton_noBG_38
+    21300078: Archer_Skeleton_noBG_39
+    21300080: Archer_Skeleton_noBG_40
+    21300082: Archer_Skeleton_noBG_41
+    21300084: Archer_Skeleton_noBG_42
+    21300086: Archer_Skeleton_noBG_43
+    21300088: Archer_Skeleton_noBG_44
+    21300090: Archer_Skeleton_noBG_45
+    21300092: Archer_Skeleton_noBG_46
+    21300094: Archer_Skeleton_noBG_47
+    21300096: Archer_Skeleton_noBG_48
+    21300098: Archer_Skeleton_noBG_49
+    21300100: Archer_Skeleton_noBG_50
+    21300102: Archer_Skeleton_noBG_51
+    21300104: Archer_Skeleton_noBG_52
+    21300106: Archer_Skeleton_noBG_53
+    21300108: Archer_Skeleton_noBG_54
+    21300110: Archer_Skeleton_noBG_55
+    21300112: Archer_Skeleton_noBG_56
+    21300114: Archer_Skeleton_noBG_57
+    21300116: Archer_Skeleton_noBG_58
+    21300118: Archer_Skeleton_noBG_59
+    21300120: Archer_Skeleton_noBG_60
+    21300122: Archer_Skeleton_noBG_61
+    21300124: Archer_Skeleton_noBG_62
+    21300126: Archer_Skeleton_noBG_63
+    21300128: Archer_Skeleton_noBG_64
+    21300130: Archer_Skeleton_noBG_65
+    21300132: Archer_Skeleton_noBG_66
+    21300134: Archer_Skeleton_noBG_67
+    21300136: Archer_Skeleton_noBG_68
+    21300138: Archer_Skeleton_noBG_69
+    21300140: Archer_Skeleton_noBG_70
+    21300142: Archer_Skeleton_noBG_71
+    21300144: Archer_Skeleton_noBG_72
+    21300146: Archer_Skeleton_noBG_73
+    21300148: Archer_Skeleton_noBG_74
+    21300150: Archer_Skeleton_noBG_75
+    21300152: Archer_Skeleton_noBG_76
+    21300154: Archer_Skeleton_noBG_77
+    21300156: Archer_Skeleton_noBG_78
+    21300158: Archer_Skeleton_noBG_79
+    21300160: Archer_Skeleton_noBG_80
+    21300162: Archer_Skeleton_noBG_81
+    21300164: Archer_Skeleton_noBG_82
+    21300166: Archer_Skeleton_noBG_83
+    21300168: Archer_Skeleton_noBG_84
+    21300170: Archer_Skeleton_noBG_85
+    21300172: Archer_Skeleton_noBG_86
+    21300174: Archer_Skeleton_noBG_87
+    21300176: Archer_Skeleton_noBG_88
+    21300178: Archer_Skeleton_noBG_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Archer_Skeleton_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 748
+        width: 57
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 0}
+        - {x: -28.5, y: -9}
+        - {x: -28.5, y: -64}
+        - {x: -24.5, y: -86}
+        - {x: 14.5, y: -86}
+        - {x: 28.5, y: -71}
+        - {x: 28.5, y: -12}
+        - {x: 20.5, y: 0}
+    - name: Archer_Skeleton_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 748
+        width: 57
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 0}
+        - {x: -27.5, y: -1}
+        - {x: -28.5, y: -8}
+        - {x: -28.5, y: -74}
+        - {x: -20.5, y: -86}
+        - {x: 14.5, y: -86}
+        - {x: 28.5, y: -73}
+        - {x: 28.5, y: -17}
+        - {x: 18.5, y: 0}
+    - name: Archer_Skeleton_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 748
+        width: 56
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 0}
+        - {x: -28, y: -86}
+        - {x: 28, y: -86}
+        - {x: 28, y: -5}
+        - {x: 17, y: 0}
+    - name: Archer_Skeleton_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 748
+        width: 57
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 0}
+        - {x: -28.5, y: -86}
+        - {x: 28.5, y: -86}
+        - {x: 28.5, y: -17}
+        - {x: 18.5, y: 0}
+    - name: Archer_Skeleton_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 748
+        width: 57
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 0}
+        - {x: -28.5, y: -8}
+        - {x: -28.5, y: -70}
+        - {x: -21.5, y: -86}
+        - {x: 14.5, y: -86}
+        - {x: 28.5, y: -71}
+        - {x: 28.5, y: -13}
+        - {x: 19.5, y: 0}
+    - name: Archer_Skeleton_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 748
+        width: 57
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 0}
+        - {x: -28.5, y: -9}
+        - {x: -28.5, y: -64}
+        - {x: -24.5, y: -86}
+        - {x: 14.5, y: -86}
+        - {x: 28.5, y: -71}
+        - {x: 28.5, y: -12}
+        - {x: 20.5, y: 0}
+    - name: Archer_Skeleton_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 744
+        width: 18
+        height: 35
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 730
+        width: 246
+        height: 95
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 0}
+        - {x: -123, y: -95}
+        - {x: 123, y: -95}
+        - {x: 123, y: 0}
+      - - {x: -119, y: -4}
+        - {x: 119, y: -4}
+        - {x: 119, y: -91}
+        - {x: -119, y: -91}
+      - - {x: -106, y: -62}
+        - {x: -106, y: -75}
+        - {x: -105, y: -79}
+        - {x: -49, y: -79}
+        - {x: -49, y: -62}
+      - - {x: -47, y: -62}
+        - {x: -47, y: -77}
+        - {x: -41, y: -79}
+        - {x: -7, y: -79}
+        - {x: -6, y: -77}
+        - {x: -5, y: -69}
+        - {x: -5, y: -62}
+      - - {x: 67, y: -76}
+        - {x: 68, y: -76}
+        - {x: 79, y: -77}
+        - {x: 98, y: -78}
+        - {x: 101, y: -73}
+        - {x: 101, y: -62}
+        - {x: -4, y: -62}
+        - {x: -4, y: -78}
+        - {x: 2, y: -79}
+        - {x: 63, y: -79}
+        - {x: 65, y: -76}
+        - {x: 65, y: -73}
+      - - {x: 12, y: -30}
+        - {x: -27, y: -30}
+        - {x: -31, y: -32}
+        - {x: -34, y: -40}
+        - {x: -32, y: -46}
+        - {x: -20, y: -44}
+        - {x: -13, y: -47}
+        - {x: -16, y: -46}
+        - {x: -18, y: -48}
+        - {x: -35, y: -46}
+        - {x: -34, y: -35}
+        - {x: -36, y: -32}
+        - {x: -46, y: -30}
+        - {x: -55, y: -30}
+        - {x: -96, y: -42}
+        - {x: -106, y: -45}
+        - {x: -106, y: -63}
+        - {x: 53, y: -63}
+        - {x: 62, y: -60}
+        - {x: 62, y: -44}
+      - - {x: -94, y: -30}
+        - {x: -106, y: -33}
+        - {x: -106, y: -47}
+        - {x: -52, y: -47}
+        - {x: -52, y: -30}
+      - - {x: -106, y: -14}
+        - {x: -106, y: -28}
+        - {x: -53, y: -28}
+        - {x: -53, y: -14}
+      - - {x: -52, y: -14}
+        - {x: -52, y: -27}
+        - {x: -51, y: -28}
+        - {x: -13, y: -28}
+        - {x: -10, y: -22}
+        - {x: -10, y: -14}
+    - name: Archer_Skeleton_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 721
+        width: 11
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 721
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 721
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 721
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 721
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 718
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 618
+        width: 63
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 0}
+        - {x: -24.5, y: 0}
+        - {x: -31.5, y: -26}
+        - {x: -31.5, y: -86}
+        - {x: 5.5, y: -86}
+        - {x: 12.5, y: -83}
+        - {x: 31.5, y: -47}
+        - {x: 31.5, y: -24}
+    - name: Archer_Skeleton_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 618
+        width: 64
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -21}
+        - {x: 21, y: 0}
+        - {x: -24, y: 0}
+        - {x: -32, y: -35}
+        - {x: -32, y: -86}
+        - {x: -11, y: -86}
+        - {x: -10, y: -84}
+        - {x: 14, y: -83}
+        - {x: 32, y: -53}
+    - name: Archer_Skeleton_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 619
+        width: 65
+        height: 85
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: -42}
+        - {x: 32.5, y: 0}
+        - {x: -23.5, y: 0}
+        - {x: -25.5, y: -6}
+        - {x: -32.5, y: -46}
+        - {x: -32.5, y: -84}
+        - {x: -30.5, y: -85}
+        - {x: -10.5, y: -85}
+        - {x: -9.5, y: -83}
+        - {x: 13.5, y: -80}
+        - {x: 20.5, y: -70}
+    - name: Archer_Skeleton_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 618
+        width: 64
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 0}
+        - {x: -32, y: -46}
+        - {x: -32, y: -86}
+        - {x: 15, y: -86}
+        - {x: 32, y: -61}
+        - {x: 32, y: -8}
+        - {x: 24, y: 0}
+    - name: Archer_Skeleton_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 618
+        width: 63
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -25}
+        - {x: 20.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 9.5, y: -3}
+        - {x: 8.5, y: -23}
+        - {x: 7.5, y: 0}
+        - {x: -19.5, y: 0}
+        - {x: -24.5, y: -6}
+        - {x: -31.5, y: -46}
+        - {x: -31.5, y: -85}
+        - {x: -29.5, y: -86}
+        - {x: -10.5, y: -86}
+        - {x: -9.5, y: -84}
+        - {x: 12.5, y: -83}
+        - {x: 31.5, y: -47}
+    - name: Archer_Skeleton_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 618
+        width: 63
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 0}
+        - {x: -24.5, y: 0}
+        - {x: -31.5, y: -26}
+        - {x: -31.5, y: -86}
+        - {x: 5.5, y: -86}
+        - {x: 12.5, y: -83}
+        - {x: 31.5, y: -47}
+        - {x: 31.5, y: -24}
+    - name: Archer_Skeleton_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 673
+        width: 18
+        height: 35
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 575
+        width: 38
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -13}
+        - {x: -3, y: -27}
+        - {x: -3, y: -73}
+        - {x: 1, y: -76}
+        - {x: 7, y: -76}
+        - {x: 7, y: -14}
+        - {x: 5, y: -13}
+    - name: Archer_Skeleton_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 500
+        width: 41
+        height: 84
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 0}
+        - {x: -20.5, y: 0}
+        - {x: -20.5, y: -82}
+        - {x: -19.5, y: -84}
+        - {x: 16.5, y: -84}
+        - {x: 20.5, y: -62}
+        - {x: 20.5, y: -3}
+    - name: Archer_Skeleton_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 500
+        width: 40
+        height: 83
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 0}
+        - {x: -20, y: -42}
+        - {x: -8, y: -83}
+        - {x: 16, y: -83}
+        - {x: 20, y: -82}
+        - {x: 20, y: -18}
+        - {x: 11, y: 0}
+    - name: Archer_Skeleton_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 502
+        width: 42
+        height: 79
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -79}
+        - {x: 21, y: -79}
+        - {x: 21, y: -6}
+        - {x: 12, y: 0}
+        - {x: -21, y: 0}
+        - {x: -21, y: -79}
+        - {x: -2, y: -79}
+        - {x: 0, y: -77}
+        - {x: 0, y: -64}
+        - {x: 1, y: -73}
+    - name: Archer_Skeleton_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 504
+        width: 39
+        height: 75
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -47}
+        - {x: -15.5, y: -75}
+        - {x: 16.5, y: -75}
+        - {x: 19.5, y: -74}
+        - {x: 19.5, y: -29}
+        - {x: 14.5, y: -8}
+        - {x: 10.5, y: 0}
+        - {x: -17.5, y: 0}
+        - {x: -19.5, y: -1}
+    - name: Archer_Skeleton_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 503
+        width: 36
+        height: 78
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -75}
+        - {x: 18, y: -72}
+        - {x: 18, y: -23}
+        - {x: 17, y: -11}
+        - {x: 10, y: 0}
+        - {x: -13, y: 0}
+        - {x: -18, y: -6}
+        - {x: -18, y: -78}
+        - {x: 3, y: -78}
+        - {x: 3, y: -72}
+        - {x: 2, y: -72}
+        - {x: 7, y: -75}
+    - name: Archer_Skeleton_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 500
+        width: 35
+        height: 84
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 0}
+        - {x: -16.5, y: 0}
+        - {x: -17.5, y: -4}
+        - {x: -17.5, y: -65}
+        - {x: -9.5, y: -84}
+        - {x: 14.5, y: -84}
+        - {x: 17.5, y: -78}
+        - {x: 17.5, y: -15}
+        - {x: 14.5, y: -6}
+    - name: Archer_Skeleton_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 499
+        width: 45
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 0}
+        - {x: -22.5, y: -86}
+        - {x: 22.5, y: -86}
+        - {x: 22.5, y: -16}
+        - {x: 9.5, y: 0}
+    - name: Archer_Skeleton_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 500
+        width: 37
+        height: 84
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 0}
+        - {x: -14.5, y: 0}
+        - {x: -18.5, y: -4}
+        - {x: -18.5, y: -84}
+        - {x: 14.5, y: -84}
+        - {x: 18.5, y: -70}
+        - {x: 18.5, y: -14}
+    - name: Archer_Skeleton_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 534
+        width: 13
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 534
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 534
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 534
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 531
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 357
+        width: 57
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 0}
+        - {x: -28.5, y: -77}
+        - {x: -21.5, y: -86}
+        - {x: 17.5, y: -86}
+        - {x: 28.5, y: -82}
+        - {x: 28.5, y: -12}
+        - {x: 25.5, y: 0}
+    - name: Archer_Skeleton_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 358
+        width: 59
+        height: 85
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 0}
+        - {x: -29.5, y: -7}
+        - {x: -29.5, y: -75}
+        - {x: -23.5, y: -85}
+        - {x: 15.5, y: -85}
+        - {x: 29.5, y: -78}
+        - {x: 29.5, y: -2}
+        - {x: 21.5, y: 0}
+    - name: Archer_Skeleton_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 351
+        width: 63
+        height: 99
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 0}
+        - {x: -10.5, y: 0}
+        - {x: -13.5, y: -1}
+        - {x: -26.5, y: -13}
+        - {x: -31.5, y: -25}
+        - {x: -31.5, y: -68}
+        - {x: -15.5, y: -99}
+        - {x: 15.5, y: -99}
+        - {x: 31.5, y: -89}
+        - {x: 31.5, y: -22}
+        - {x: 17.5, y: -5}
+    - name: Archer_Skeleton_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 344
+        width: 75
+        height: 113
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 0}
+        - {x: -37.5, y: -11}
+        - {x: -26.5, y: -80}
+        - {x: -8.5, y: -113}
+        - {x: 21.5, y: -113}
+        - {x: 37.5, y: -105}
+        - {x: 37.5, y: -24}
+        - {x: 18.5, y: 0}
+    - name: Archer_Skeleton_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 347
+        width: 69
+        height: 107
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 0}
+        - {x: -34.5, y: -7}
+        - {x: -34.5, y: -26}
+        - {x: -21.5, y: -71}
+        - {x: -13.5, y: -73}
+        - {x: -10.5, y: -68}
+        - {x: -8.5, y: -63}
+        - {x: -7.5, y: -60}
+        - {x: -14.5, y: -95}
+        - {x: -13.5, y: -107}
+        - {x: 23.5, y: -107}
+        - {x: 34.5, y: -97}
+        - {x: 34.5, y: -34}
+        - {x: 31.5, y: 0}
+    - name: Archer_Skeleton_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 353
+        width: 69
+        height: 94
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: -34.5, y: -26}
+        - {x: -34.5, y: -56}
+        - {x: -12.5, y: -94}
+        - {x: 20.5, y: -94}
+        - {x: 34.5, y: -90}
+        - {x: 34.5, y: 0}
+    - name: Archer_Skeleton_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 353
+        width: 69
+        height: 94
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: -34.5, y: -26}
+        - {x: -34.5, y: -56}
+        - {x: -12.5, y: -94}
+        - {x: 20.5, y: -94}
+        - {x: 34.5, y: -90}
+        - {x: 34.5, y: 0}
+    - name: Archer_Skeleton_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 355
+        width: 66
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 0}
+        - {x: 13, y: 0}
+        - {x: -33, y: -13}
+        - {x: -33, y: -63}
+        - {x: -15, y: -90}
+        - {x: 16, y: -90}
+        - {x: 24, y: -84}
+        - {x: 33, y: -76}
+    - name: Archer_Skeleton_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 369
+        width: 18
+        height: 35
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 332
+        width: 12
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 332
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 332
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 332
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 226
+        width: 63
+        height: 88
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -24}
+        - {x: 21.5, y: 0}
+        - {x: -25.5, y: 0}
+        - {x: -31.5, y: -44}
+        - {x: -31.5, y: -87}
+        - {x: -29.5, y: -88}
+        - {x: -10.5, y: -88}
+        - {x: -9.5, y: -86}
+        - {x: 12.5, y: -84}
+        - {x: 31.5, y: -51}
+    - name: Archer_Skeleton_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 223
+        width: 66
+        height: 94
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 0}
+        - {x: -33, y: -9}
+        - {x: -33, y: -92}
+        - {x: -32, y: -94}
+        - {x: 5, y: -94}
+        - {x: 12, y: -92}
+        - {x: 33, y: -49}
+        - {x: 33, y: -6}
+        - {x: 31, y: 0}
+    - name: Archer_Skeleton_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 218
+        width: 56
+        height: 105
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -61}
+        - {x: 28, y: -24}
+        - {x: 23, y: -12}
+        - {x: 17, y: 0}
+        - {x: 11, y: 0}
+        - {x: 9, y: -2}
+        - {x: 9, y: -12}
+        - {x: 10, y: -27}
+        - {x: 10, y: -26}
+        - {x: 9, y: -20}
+        - {x: -13, y: 0}
+        - {x: -25, y: 0}
+        - {x: -28, y: -25}
+        - {x: -28, y: -105}
+        - {x: -7, y: -105}
+        - {x: -6, y: -103}
+        - {x: 16, y: -102}
+        - {x: 26, y: -83}
+    - name: Archer_Skeleton_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 214
+        width: 72
+        height: 112
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -107}
+        - {x: 15, y: -98}
+        - {x: 13, y: -84}
+        - {x: 7, y: -82}
+        - {x: 6, y: -73}
+        - {x: 4, y: -70}
+        - {x: 2, y: -63}
+        - {x: 5, y: -71}
+        - {x: 6, y: -72}
+        - {x: 6, y: -74}
+        - {x: 9, y: -79}
+        - {x: 18, y: -78}
+        - {x: 36, y: -27}
+        - {x: 36, y: 0}
+        - {x: -15, y: 0}
+        - {x: -28, y: -2}
+        - {x: -36, y: -51}
+        - {x: -36, y: -112}
+        - {x: -15, y: -112}
+        - {x: -14, y: -110}
+        - {x: -15, y: -95}
+        - {x: -8, y: -104}
+    - name: Archer_Skeleton_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 217
+        width: 63
+        height: 106
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -63}
+        - {x: 13.5, y: -68}
+        - {x: 19.5, y: -85}
+        - {x: 31.5, y: -41}
+        - {x: 31.5, y: 0}
+        - {x: -26.5, y: 0}
+        - {x: -31.5, y: -21}
+        - {x: -31.5, y: -106}
+        - {x: 20.5, y: -106}
+        - {x: 18.5, y: -85}
+        - {x: 16.5, y: -79}
+        - {x: 11.5, y: -67}
+    - name: Archer_Skeleton_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 218
+        width: 57
+        height: 104
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 0}
+        - {x: -28.5, y: -17}
+        - {x: -28.5, y: -104}
+        - {x: 13.5, y: -104}
+        - {x: 28.5, y: -94}
+        - {x: 28.5, y: -8}
+        - {x: 24.5, y: 0}
+    - name: Archer_Skeleton_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 218
+        width: 57
+        height: 104
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 0}
+        - {x: -28.5, y: -17}
+        - {x: -28.5, y: -104}
+        - {x: 13.5, y: -104}
+        - {x: 28.5, y: -94}
+        - {x: 28.5, y: -8}
+        - {x: 24.5, y: 0}
+    - name: Archer_Skeleton_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 227
+        width: 64
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -80}
+        - {x: 32, y: -69}
+        - {x: 32, y: -2}
+        - {x: 28, y: 0}
+        - {x: -27, y: 0}
+        - {x: -32, y: -2}
+        - {x: -32, y: -82}
+        - {x: -25, y: -87}
+        - {x: -11, y: -87}
+        - {x: -7, y: -85}
+        - {x: -8, y: -70}
+        - {x: 8, y: -78}
+    - name: Archer_Skeleton_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 278
+        width: 18
+        height: 35
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 57
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 0}
+        - {x: -28.5, y: -9}
+        - {x: -28.5, y: -64}
+        - {x: -24.5, y: -86}
+        - {x: 14.5, y: -86}
+        - {x: 28.5, y: -71}
+        - {x: 28.5, y: -12}
+        - {x: 20.5, y: 0}
+    - name: Archer_Skeleton_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 50
+        height: 98
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 0}
+        - {x: -25, y: -98}
+        - {x: 4, y: -98}
+        - {x: 25, y: -86}
+        - {x: 25, y: -22}
+        - {x: 3, y: 0}
+    - name: Archer_Skeleton_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 102
+        width: 105
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 0}
+        - {x: -52.5, y: -2}
+        - {x: -52.5, y: -45}
+        - {x: -39.5, y: -59}
+        - {x: -20.5, y: -63}
+        - {x: 29.5, y: -63}
+        - {x: 52.5, y: -29}
+        - {x: 52.5, y: 0}
+    - name: Archer_Skeleton_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 90
+        width: 65
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 0}
+        - {x: -31.5, y: 0}
+        - {x: -32.5, y: -8}
+        - {x: -32.5, y: -87}
+        - {x: 19.5, y: -87}
+        - {x: 32.5, y: -58}
+        - {x: 32.5, y: -10}
+    - name: Archer_Skeleton_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 88
+        width: 53
+        height: 90
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 0}
+        - {x: -26.5, y: -6}
+        - {x: -26.5, y: -90}
+        - {x: 26.5, y: -90}
+        - {x: 26.5, y: -34}
+        - {x: 18.5, y: 0}
+    - name: Archer_Skeleton_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 101
+        width: 91
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -36}
+        - {x: 20.5, y: -36}
+        - {x: 24.5, y: -39}
+        - {x: 31.5, y: -41}
+        - {x: 38.5, y: -42}
+        - {x: 45.5, y: -32}
+        - {x: 45.5, y: -11}
+        - {x: 33.5, y: -11}
+        - {x: 30.5, y: -17}
+        - {x: 34.5, y: -19}
+        - {x: 36.5, y: -19}
+        - {x: 33.5, y: -21}
+        - {x: 29.5, y: -19}
+        - {x: 28.5, y: -16}
+        - {x: 35.5, y: -8}
+        - {x: 32.5, y: -1}
+        - {x: 31.5, y: 0}
+        - {x: -32.5, y: 0}
+        - {x: -39.5, y: -2}
+        - {x: -42.5, y: -31}
+        - {x: -40.5, y: -34}
+        - {x: -34.5, y: -40}
+        - {x: -37.5, y: -39}
+        - {x: -45.5, y: -36}
+        - {x: -45.5, y: -56}
+        - {x: -15.5, y: -64}
+        - {x: 13.5, y: -64}
+        - {x: 23.5, y: -55}
+        - {x: 20.5, y: -47}
+        - {x: 17.5, y: -44}
+      - - {x: -25.5, y: -18}
+        - {x: -31.5, y: -19}
+        - {x: -35.5, y: -25}
+        - {x: -35.5, y: -29}
+        - {x: -28.5, y: -29}
+        - {x: -24.5, y: -26}
+        - {x: -20.5, y: -21}
+        - {x: -21.5, y: -18}
+    - name: Archer_Skeleton_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 148
+        width: 14
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 138
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 138
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 138
+        width: 6
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 138
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 122
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 119
+        width: 8
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 122
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 119
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 13
+        width: 26
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 21
+        width: 10
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 15
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 20
+        width: 13
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 17
+        width: 22
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 14
+        width: 29
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 17
+        width: 22
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 14
+        width: 65
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 19
+        width: 34
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 17
+        width: 20
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 23
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 20
+        width: 8
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 23
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 20
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 23
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 23
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 23
+        width: 6
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Archer_Skeleton_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 23
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

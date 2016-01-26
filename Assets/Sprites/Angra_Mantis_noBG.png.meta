@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: 99eb41fa11d65ee449ccc98a4fa22a9b
+timeCreated: 1453636768
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Angra_Mantis_noBG_0
+    21300002: Angra_Mantis_noBG_1
+    21300004: Angra_Mantis_noBG_2
+    21300006: Angra_Mantis_noBG_3
+    21300008: Angra_Mantis_noBG_4
+    21300010: Angra_Mantis_noBG_5
+    21300012: Angra_Mantis_noBG_6
+    21300014: Angra_Mantis_noBG_7
+    21300016: Angra_Mantis_noBG_8
+    21300018: Angra_Mantis_noBG_9
+    21300020: Angra_Mantis_noBG_10
+    21300022: Angra_Mantis_noBG_11
+    21300024: Angra_Mantis_noBG_12
+    21300026: Angra_Mantis_noBG_13
+    21300028: Angra_Mantis_noBG_14
+    21300030: Angra_Mantis_noBG_15
+    21300032: Angra_Mantis_noBG_16
+    21300034: Angra_Mantis_noBG_17
+    21300036: Angra_Mantis_noBG_18
+    21300038: Angra_Mantis_noBG_19
+    21300040: Angra_Mantis_noBG_20
+    21300042: Angra_Mantis_noBG_21
+    21300044: Angra_Mantis_noBG_22
+    21300046: Angra_Mantis_noBG_23
+    21300048: Angra_Mantis_noBG_24
+    21300050: Angra_Mantis_noBG_25
+    21300052: Angra_Mantis_noBG_26
+    21300054: Angra_Mantis_noBG_27
+    21300056: Angra_Mantis_noBG_28
+    21300058: Angra_Mantis_noBG_29
+    21300060: Angra_Mantis_noBG_30
+    21300062: Angra_Mantis_noBG_31
+    21300064: Angra_Mantis_noBG_32
+    21300066: Angra_Mantis_noBG_33
+    21300068: Angra_Mantis_noBG_34
+    21300070: Angra_Mantis_noBG_35
+    21300072: Angra_Mantis_noBG_36
+    21300074: Angra_Mantis_noBG_37
+    21300076: Angra_Mantis_noBG_38
+    21300078: Angra_Mantis_noBG_39
+    21300080: Angra_Mantis_noBG_40
+    21300082: Angra_Mantis_noBG_41
+    21300084: Angra_Mantis_noBG_42
+    21300086: Angra_Mantis_noBG_43
+    21300088: Angra_Mantis_noBG_44
+    21300090: Angra_Mantis_noBG_45
+    21300092: Angra_Mantis_noBG_46
+    21300094: Angra_Mantis_noBG_47
+    21300096: Angra_Mantis_noBG_48
+    21300098: Angra_Mantis_noBG_49
+    21300100: Angra_Mantis_noBG_50
+    21300102: Angra_Mantis_noBG_51
+    21300104: Angra_Mantis_noBG_52
+    21300106: Angra_Mantis_noBG_53
+    21300108: Angra_Mantis_noBG_54
+    21300110: Angra_Mantis_noBG_55
+    21300112: Angra_Mantis_noBG_56
+    21300114: Angra_Mantis_noBG_57
+    21300116: Angra_Mantis_noBG_58
+    21300118: Angra_Mantis_noBG_59
+    21300120: Angra_Mantis_noBG_60
+    21300122: Angra_Mantis_noBG_61
+    21300124: Angra_Mantis_noBG_62
+    21300126: Angra_Mantis_noBG_63
+    21300128: Angra_Mantis_noBG_64
+    21300130: Angra_Mantis_noBG_65
+    21300132: Angra_Mantis_noBG_66
+    21300134: Angra_Mantis_noBG_67
+    21300136: Angra_Mantis_noBG_68
+    21300138: Angra_Mantis_noBG_69
+    21300140: Angra_Mantis_noBG_70
+    21300142: Angra_Mantis_noBG_71
+    21300144: Angra_Mantis_noBG_72
+    21300146: Angra_Mantis_noBG_73
+    21300148: Angra_Mantis_noBG_74
+    21300150: Angra_Mantis_noBG_75
+    21300152: Angra_Mantis_noBG_76
+    21300154: Angra_Mantis_noBG_77
+    21300156: Angra_Mantis_noBG_78
+    21300158: Angra_Mantis_noBG_79
+    21300160: Angra_Mantis_noBG_80
+    21300162: Angra_Mantis_noBG_81
+    21300164: Angra_Mantis_noBG_82
+    21300166: Angra_Mantis_noBG_83
+    21300168: Angra_Mantis_noBG_84
+    21300170: Angra_Mantis_noBG_85
+    21300172: Angra_Mantis_noBG_86
+    21300174: Angra_Mantis_noBG_87
+    21300176: Angra_Mantis_noBG_88
+    21300178: Angra_Mantis_noBG_89
+    21300180: Angra_Mantis_noBG_90
+    21300182: Angra_Mantis_noBG_91
+    21300184: Angra_Mantis_noBG_92
+    21300186: Angra_Mantis_noBG_93
+    21300188: Angra_Mantis_noBG_94
+    21300190: Angra_Mantis_noBG_95
+    21300192: Angra_Mantis_noBG_96
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Angra_Mantis_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 726
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 0}
+        - {x: -23.5, y: 0}
+        - {x: -23.5, y: -37}
+        - {x: -7.5, y: -62}
+        - {x: 18.5, y: -62}
+        - {x: 23.5, y: -50}
+        - {x: 23.5, y: -10}
+        - {x: 11.5, y: -1}
+    - name: Angra_Mantis_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 727
+        width: 47
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 0}
+        - {x: -23.5, y: -32}
+        - {x: -5.5, y: -60}
+        - {x: -0.5, y: -57}
+        - {x: 3.5, y: -53}
+        - {x: 3.5, y: -46}
+        - {x: 3.5, y: -48}
+        - {x: 4.5, y: -61}
+        - {x: 22.5, y: -61}
+        - {x: 23.5, y: -56}
+        - {x: 23.5, y: -5}
+        - {x: 13.5, y: 0}
+    - name: Angra_Mantis_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 727
+        width: 47
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 0}
+        - {x: -23.5, y: -10}
+        - {x: -21.5, y: -29}
+        - {x: -7.5, y: -56}
+        - {x: -5.5, y: -58}
+        - {x: -0.5, y: -57}
+        - {x: 3.5, y: -53}
+        - {x: 4.5, y: -61}
+        - {x: 17.5, y: -61}
+        - {x: 23.5, y: -49}
+        - {x: 23.5, y: -4}
+        - {x: 22.5, y: 0}
+    - name: Angra_Mantis_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 727
+        width: 47
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -4}
+        - {x: 7.5, y: -10}
+        - {x: 3.5, y: -2}
+        - {x: 1.5, y: 0}
+        - {x: -23.5, y: 0}
+        - {x: -23.5, y: -9}
+        - {x: -20.5, y: -29}
+        - {x: -16.5, y: -35}
+        - {x: -13.5, y: -34}
+        - {x: -7.5, y: -56}
+        - {x: -5.5, y: -58}
+        - {x: -0.5, y: -57}
+        - {x: 3.5, y: -53}
+        - {x: 3.5, y: -46}
+        - {x: 3.5, y: -48}
+        - {x: 4.5, y: -61}
+        - {x: 17.5, y: -61}
+        - {x: 23.5, y: -49}
+        - {x: 23.5, y: -12}
+        - {x: 18.5, y: -6}
+    - name: Angra_Mantis_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 726
+        width: 46
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 0}
+        - {x: -23, y: -42}
+        - {x: -4, y: -63}
+        - {x: 22, y: -63}
+        - {x: 23, y: -55}
+        - {x: 23, y: -8}
+        - {x: 14, y: 0}
+    - name: Angra_Mantis_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 725
+        width: 46
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -64}
+        - {x: 18, y: -64}
+        - {x: 23, y: -60}
+        - {x: 23, y: 0}
+        - {x: -23, y: 0}
+        - {x: -23, y: -51}
+    - name: Angra_Mantis_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 725
+        width: 45
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 0}
+        - {x: -22.5, y: -64}
+        - {x: 18.5, y: -64}
+        - {x: 22.5, y: -52}
+        - {x: 22.5, y: -9}
+        - {x: 17.5, y: 0}
+    - name: Angra_Mantis_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 726
+        width: 47
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 0}
+        - {x: -23.5, y: -34}
+        - {x: -17.5, y: -63}
+        - {x: -7.5, y: -63}
+        - {x: -5.5, y: -62}
+        - {x: 5.5, y: -56}
+        - {x: 4.5, y: -61}
+        - {x: 4.5, y: -63}
+        - {x: 14.5, y: -63}
+        - {x: 17.5, y: -61}
+        - {x: 23.5, y: -48}
+        - {x: 23.5, y: 0}
+    - name: Angra_Mantis_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 721
+        width: 20
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 702
+        width: 11
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 702
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 702
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 702
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 625
+        width: 39
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -60}
+        - {x: 17.5, y: -59}
+        - {x: 19.5, y: -47}
+        - {x: 19.5, y: -15}
+        - {x: 13.5, y: -10}
+        - {x: 10.5, y: -11}
+        - {x: 5.5, y: -14}
+        - {x: 0.5, y: -2}
+        - {x: -0.5, y: 0}
+        - {x: -19.5, y: 0}
+        - {x: -19.5, y: -64}
+        - {x: -0.5, y: -64}
+        - {x: 1.5, y: -62}
+        - {x: 1.5, y: -54}
+        - {x: 2.5, y: -56}
+    - name: Angra_Mantis_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 626
+        width: 38
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 0}
+        - {x: -19, y: 0}
+        - {x: -19, y: -49}
+        - {x: -11, y: -63}
+        - {x: 2, y: -63}
+        - {x: 17, y: -59}
+        - {x: 19, y: -53}
+        - {x: 19, y: -6}
+    - name: Angra_Mantis_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 626
+        width: 38
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -12}
+        - {x: 10, y: -13}
+        - {x: 5, y: -16}
+        - {x: 0, y: -4}
+        - {x: -2, y: 0}
+        - {x: -19, y: 0}
+        - {x: -19, y: -53}
+        - {x: -11, y: -63}
+        - {x: 2, y: -63}
+        - {x: 17, y: -59}
+        - {x: 19, y: -48}
+        - {x: 19, y: -17}
+    - name: Angra_Mantis_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 626
+        width: 38
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 0}
+        - {x: -19, y: -1}
+        - {x: -19, y: -43}
+        - {x: -13, y: -63}
+        - {x: 14, y: -63}
+        - {x: 19, y: -55}
+        - {x: 19, y: -1}
+        - {x: 18, y: 0}
+    - name: Angra_Mantis_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 625
+        width: 37
+        height: 65
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -62}
+        - {x: 18.5, y: -64}
+        - {x: 18.5, y: 0}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -58}
+        - {x: -14.5, y: -65}
+        - {x: -0.5, y: -65}
+        - {x: 1.5, y: -63}
+        - {x: 1.5, y: -55}
+        - {x: 2.5, y: -57}
+    - name: Angra_Mantis_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 624
+        width: 37
+        height: 66
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -63}
+        - {x: 14.5, y: -59}
+        - {x: 18.5, y: -48}
+        - {x: 18.5, y: -15}
+        - {x: 14.5, y: 0}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -55}
+        - {x: -16.5, y: -66}
+        - {x: -0.5, y: -66}
+        - {x: 1.5, y: -64}
+        - {x: 1.5, y: -53}
+        - {x: 2.5, y: -58}
+    - name: Angra_Mantis_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 624
+        width: 36
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -64}
+        - {x: 14, y: -60}
+        - {x: 18, y: -52}
+        - {x: 18, y: -10}
+        - {x: 14, y: 0}
+        - {x: -18, y: 0}
+        - {x: -18, y: -39}
+        - {x: -16, y: -41}
+        - {x: -11, y: -67}
+        - {x: -1, y: -67}
+        - {x: 1, y: -65}
+        - {x: 1, y: -53}
+        - {x: 2, y: -59}
+    - name: Angra_Mantis_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 625
+        width: 38
+        height: 65
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -62}
+        - {x: 14, y: -58}
+        - {x: 19, y: -47}
+        - {x: 19, y: -7}
+        - {x: 18, y: 0}
+        - {x: -17, y: 0}
+        - {x: -19, y: -2}
+        - {x: -19, y: -40}
+        - {x: -18, y: -41}
+        - {x: -15, y: -40}
+        - {x: -13, y: -65}
+        - {x: -1, y: -65}
+        - {x: 1, y: -63}
+        - {x: 1, y: -53}
+        - {x: 2, y: -57}
+    - name: Angra_Mantis_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 659
+        width: 20
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 526
+        width: 45
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 0}
+        - {x: -22.5, y: 0}
+        - {x: -22.5, y: -39}
+        - {x: -10.5, y: -61}
+        - {x: -5.5, y: -63}
+        - {x: 17.5, y: -63}
+        - {x: 22.5, y: -52}
+        - {x: 22.5, y: -10}
+        - {x: 12.5, y: -3}
+    - name: Angra_Mantis_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 527
+        width: 45
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 0}
+        - {x: -22.5, y: -34}
+        - {x: -13.5, y: -38}
+        - {x: -12.5, y: -38}
+        - {x: -7.5, y: -56}
+        - {x: -5.5, y: -58}
+        - {x: -0.5, y: -57}
+        - {x: 3.5, y: -53}
+        - {x: 3.5, y: -47}
+        - {x: 4.5, y: -61}
+        - {x: 16.5, y: -61}
+        - {x: 22.5, y: -50}
+        - {x: 22.5, y: -5}
+        - {x: 17.5, y: 0}
+    - name: Angra_Mantis_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 527
+        width: 45
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 0}
+        - {x: -22.5, y: -30}
+        - {x: -14.5, y: -61}
+        - {x: -7.5, y: -61}
+        - {x: -0.5, y: -57}
+        - {x: 3.5, y: -53}
+        - {x: 4.5, y: -61}
+        - {x: 16.5, y: -61}
+        - {x: 22.5, y: -51}
+        - {x: 22.5, y: -4}
+        - {x: 17.5, y: 0}
+    - name: Angra_Mantis_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 525
+        width: 47
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 0}
+        - {x: -23.5, y: -55}
+        - {x: -19.5, y: -64}
+        - {x: 21.5, y: -64}
+        - {x: 23.5, y: -57}
+        - {x: 23.5, y: -4}
+        - {x: 17.5, y: 0}
+    - name: Angra_Mantis_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 525
+        width: 46
+        height: 65
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 0}
+        - {x: -23, y: 0}
+        - {x: -23, y: -34}
+        - {x: -20, y: -46}
+        - {x: -14, y: -38}
+        - {x: -13, y: -44}
+        - {x: -10, y: -48}
+        - {x: -7, y: -47}
+        - {x: 1, y: -58}
+        - {x: 4, y: -62}
+        - {x: 5, y: -62}
+        - {x: 9, y: -57}
+        - {x: 9, y: -53}
+        - {x: 11, y: -63}
+        - {x: 12, y: -65}
+        - {x: 19, y: -65}
+        - {x: 22, y: -51}
+        - {x: 23, y: -41}
+        - {x: 23, y: -7}
+    - name: Angra_Mantis_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 525
+        width: 47
+        height: 65
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 0}
+        - {x: -23.5, y: -39}
+        - {x: -4.5, y: -65}
+        - {x: 19.5, y: -65}
+        - {x: 23.5, y: -43}
+        - {x: 23.5, y: 0}
+    - name: Angra_Mantis_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 524
+        width: 20
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 505
+        width: 13
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 505
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 505
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 505
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 502
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 432
+        width: 37
+        height: 65
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: -18.5, y: -1}
+        - {x: -18.5, y: -11}
+        - {x: -16.5, y: -24}
+        - {x: -12.5, y: -26}
+        - {x: -10.5, y: -26}
+        - {x: -15.5, y: -26}
+        - {x: -18.5, y: -27}
+        - {x: -18.5, y: -54}
+        - {x: -14.5, y: -65}
+        - {x: 13.5, y: -65}
+        - {x: 18.5, y: -58}
+        - {x: 18.5, y: -5}
+        - {x: 16.5, y: 0}
+    - name: Angra_Mantis_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 433
+        width: 37
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -56}
+        - {x: 18.5, y: -49}
+        - {x: 18.5, y: -17}
+        - {x: 13.5, y: -3}
+        - {x: 1.5, y: 0}
+        - {x: -17.5, y: 0}
+        - {x: -18.5, y: -1}
+        - {x: -18.5, y: -44}
+        - {x: -10.5, y: -63}
+        - {x: -0.5, y: -63}
+        - {x: 1.5, y: -61}
+        - {x: 1.5, y: -56}
+        - {x: 6.5, y: -60}
+    - name: Angra_Mantis_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 431
+        width: 37
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 0}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -55}
+        - {x: -17.5, y: -63}
+        - {x: 13.5, y: -63}
+        - {x: 18.5, y: -60}
+        - {x: 18.5, y: -17}
+        - {x: 14.5, y: -1}
+    - name: Angra_Mantis_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 428
+        width: 38
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 0}
+        - {x: -19, y: -1}
+        - {x: -19, y: -61}
+        - {x: -15, y: -68}
+        - {x: 7, y: -68}
+        - {x: 19, y: -56}
+        - {x: 19, y: -5}
+        - {x: 7, y: 0}
+    - name: Angra_Mantis_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 429
+        width: 38
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -13}
+        - {x: 3, y: 0}
+        - {x: -19, y: 0}
+        - {x: -19, y: -55}
+        - {x: -4, y: -67}
+        - {x: 2, y: -67}
+        - {x: 6, y: -63}
+        - {x: 8, y: -63}
+        - {x: 19, y: -58}
+    - name: Angra_Mantis_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 429
+        width: 38
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -67}
+        - {x: 10, y: -67}
+        - {x: 19, y: -52}
+        - {x: 19, y: -7}
+        - {x: 17, y: 0}
+        - {x: -19, y: 0}
+        - {x: -19, y: -57}
+        - {x: -10, y: -67}
+        - {x: -1, y: -67}
+        - {x: 4, y: -64}
+        - {x: 3, y: -55}
+        - {x: 4, y: -61}
+    - name: Angra_Mantis_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 466
+        width: 20
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 417
+        width: 157
+        height: 80
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 0}
+        - {x: -78.5, y: -80}
+        - {x: 78.5, y: -80}
+        - {x: 78.5, y: 0}
+      - - {x: -56.5, y: -61}
+        - {x: -71.5, y: -63}
+        - {x: -71.5, y: -75}
+        - {x: 24.5, y: -75}
+        - {x: 24.5, y: -61}
+      - - {x: -22.5, y: -57}
+        - {x: -22.5, y: -49}
+        - {x: -24.5, y: -47}
+        - {x: -69.5, y: -47}
+        - {x: -71.5, y: -48}
+        - {x: -71.5, y: -56}
+        - {x: -69.5, y: -61}
+        - {x: -23.5, y: -61}
+      - - {x: -22.5, y: -47}
+        - {x: -22.5, y: -60}
+        - {x: -20.5, y: -61}
+        - {x: 13.5, y: -61}
+        - {x: 15.5, y: -57}
+        - {x: 15.5, y: -47}
+      - - {x: 64.5, y: -33}
+        - {x: 2.5, y: -33}
+        - {x: 1.5, y: -35}
+        - {x: 1.5, y: -40}
+        - {x: 1.5, y: -38}
+        - {x: -0.5, y: -34}
+        - {x: -9.5, y: -33}
+        - {x: -71.5, y: -33}
+        - {x: -71.5, y: -45}
+        - {x: -64.5, y: -47}
+        - {x: 46.5, y: -47}
+        - {x: 68.5, y: -45}
+        - {x: 68.5, y: -34}
+      - - {x: -71.5, y: -19}
+        - {x: -71.5, y: -28}
+        - {x: -70.5, y: -33}
+        - {x: -36.5, y: -33}
+        - {x: -26.5, y: -31}
+        - {x: -26.5, y: -19}
+      - - {x: -26.5, y: -19}
+        - {x: -26.5, y: -29}
+        - {x: -25.5, y: -32}
+        - {x: -24.5, y: -33}
+        - {x: -16.5, y: -33}
+        - {x: -12.5, y: -31}
+        - {x: -11.5, y: -27}
+        - {x: -11.5, y: -21}
+        - {x: -17.5, y: -19}
+      - - {x: 17.5, y: -19}
+        - {x: -7.5, y: -19}
+        - {x: -11.5, y: -25}
+        - {x: -11.5, y: -31}
+        - {x: -5.5, y: -33}
+        - {x: 19.5, y: -33}
+        - {x: 34.5, y: -32}
+        - {x: 35.5, y: -29}
+        - {x: 35.5, y: -24}
+        - {x: 33.5, y: -20}
+      - - {x: -68.5, y: -5}
+        - {x: -71.5, y: -11}
+        - {x: -71.5, y: -17}
+        - {x: -61.5, y: -19}
+        - {x: -39.5, y: -19}
+        - {x: -38.5, y: -17}
+        - {x: -38.5, y: -7}
+        - {x: -46.5, y: -5}
+      - - {x: -38.5, y: -5}
+        - {x: -38.5, y: -15}
+        - {x: -36.5, y: -17}
+        - {x: -4.5, y: -17}
+        - {x: -4.5, y: -8}
+        - {x: -6.5, y: -5}
+    - name: Angra_Mantis_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 331
+        width: 45
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 0}
+        - {x: -22.5, y: 0}
+        - {x: -22.5, y: -39}
+        - {x: -10.5, y: -61}
+        - {x: -5.5, y: -63}
+        - {x: 17.5, y: -63}
+        - {x: 22.5, y: -52}
+        - {x: 22.5, y: -10}
+        - {x: 12.5, y: -3}
+    - name: Angra_Mantis_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 329
+        width: 43
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 0}
+        - {x: -21.5, y: -42}
+        - {x: -15.5, y: -67}
+        - {x: 16.5, y: -67}
+        - {x: 21.5, y: -63}
+        - {x: 21.5, y: 0}
+    - name: Angra_Mantis_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 323
+        width: 41
+        height: 79
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 0}
+        - {x: 1.5, y: -1}
+        - {x: 1.5, y: -4}
+        - {x: -9.5, y: 0}
+        - {x: -20.5, y: 0}
+        - {x: -20.5, y: -19}
+        - {x: -11.5, y: -79}
+        - {x: -4.5, y: -75}
+        - {x: -0.5, y: -71}
+        - {x: -0.5, y: -79}
+        - {x: 10.5, y: -79}
+        - {x: 20.5, y: -60}
+        - {x: 20.5, y: -26}
+        - {x: 11.5, y: -5}
+    - name: Angra_Mantis_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 328
+        width: 43
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 0}
+        - {x: -21.5, y: -68}
+        - {x: 16.5, y: -68}
+        - {x: 21.5, y: -59}
+        - {x: 21.5, y: -12}
+        - {x: 7.5, y: 0}
+    - name: Angra_Mantis_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 331
+        width: 43
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -1}
+        - {x: 11.5, y: 0}
+        - {x: -12.5, y: 0}
+        - {x: -11.5, y: -4}
+        - {x: -6.5, y: -9}
+        - {x: -12.5, y: -3}
+        - {x: -17.5, y: 0}
+        - {x: -21.5, y: 0}
+        - {x: -21.5, y: -64}
+        - {x: 15.5, y: -64}
+        - {x: 21.5, y: -53}
+        - {x: 21.5, y: -14}
+    - name: Angra_Mantis_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 333
+        width: 45
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 0}
+        - {x: -22.5, y: -34}
+        - {x: -20.5, y: -55}
+        - {x: -13.5, y: -61}
+        - {x: 22.5, y: -61}
+        - {x: 22.5, y: -3}
+        - {x: 17.5, y: 0}
+    - name: Angra_Mantis_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 333
+        width: 45
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 0}
+        - {x: -22.5, y: -5}
+        - {x: -12.5, y: -23}
+        - {x: -9.5, y: -26}
+        - {x: -12.5, y: -24}
+        - {x: -15.5, y: -24}
+        - {x: -18.5, y: -26}
+        - {x: -20.5, y: -31}
+        - {x: -20.5, y: -37}
+        - {x: -17.5, y: -44}
+        - {x: -15.5, y: -44}
+        - {x: -12.5, y: -40}
+        - {x: -11.5, y: -46}
+        - {x: -9.5, y: -54}
+        - {x: -5.5, y: -58}
+        - {x: -0.5, y: -57}
+        - {x: 3.5, y: -53}
+        - {x: 3.5, y: -47}
+        - {x: 4.5, y: -61}
+        - {x: 16.5, y: -61}
+        - {x: 22.5, y: -50}
+        - {x: 22.5, y: -5}
+        - {x: 17.5, y: 0}
+    - name: Angra_Mantis_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 327
+        width: 20
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 305
+        width: 12
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 305
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 305
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 305
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 305
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 302
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 230
+        width: 37
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -18.5, y: -17}
+        - {x: -16.5, y: -23}
+        - {x: -12.5, y: -25}
+        - {x: -10.5, y: -25}
+        - {x: -15.5, y: -25}
+        - {x: -18.5, y: -26}
+        - {x: -18.5, y: -53}
+        - {x: -14.5, y: -64}
+        - {x: 18.5, y: -64}
+        - {x: 18.5, y: 0}
+    - name: Angra_Mantis_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 225
+        width: 37
+        height: 68
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -62}
+        - {x: 9.5, y: -64}
+        - {x: 11.5, y: -60}
+        - {x: 18.5, y: -48}
+        - {x: 18.5, y: -16}
+        - {x: 15.5, y: -8}
+        - {x: 9.5, y: -14}
+        - {x: 6.5, y: -15}
+        - {x: 7.5, y: -15}
+        - {x: 6.5, y: -11}
+        - {x: 5.5, y: -1}
+        - {x: 4.5, y: 0}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -61}
+        - {x: -17.5, y: -68}
+        - {x: -1.5, y: -68}
+        - {x: 0.5, y: -66}
+        - {x: 0.5, y: -55}
+        - {x: 0.5, y: -59}
+    - name: Angra_Mantis_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 221
+        width: 36
+        height: 77
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -71}
+        - {x: 9, y: -75}
+        - {x: 18, y: -69}
+        - {x: 18, y: 0}
+        - {x: -18, y: 0}
+        - {x: -18, y: -68}
+        - {x: -15, y: -77}
+        - {x: -3, y: -77}
+        - {x: -1, y: -75}
+        - {x: -1, y: -64}
+        - {x: -1, y: -68}
+    - name: Angra_Mantis_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 227
+        width: 43
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: -16.5, y: -7}
+        - {x: -12.5, y: -26}
+        - {x: -21.5, y: -44}
+        - {x: -21.5, y: -62}
+        - {x: -17.5, y: -64}
+        - {x: 12.5, y: -64}
+        - {x: 21.5, y: -52}
+        - {x: 21.5, y: -4}
+        - {x: 19.5, y: 0}
+    - name: Angra_Mantis_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 229
+        width: 39
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 0}
+        - {x: -19.5, y: -61}
+        - {x: 17.5, y: -61}
+        - {x: 19.5, y: -59}
+        - {x: 19.5, y: -11}
+        - {x: 0.5, y: 0}
+    - name: Angra_Mantis_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 229
+        width: 37
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 0}
+        - {x: -18.5, y: -60}
+        - {x: 9.5, y: -60}
+        - {x: 18.5, y: -46}
+        - {x: 18.5, y: -8}
+        - {x: 15.5, y: 0}
+    - name: Angra_Mantis_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 229
+        width: 37
+        height: 61
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -54}
+        - {x: 18.5, y: -44}
+        - {x: 18.5, y: -8}
+        - {x: 17.5, y: 0}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -46}
+        - {x: -16.5, y: -47}
+        - {x: -13.5, y: -46}
+        - {x: -11.5, y: -49}
+        - {x: -10.5, y: -61}
+        - {x: -0.5, y: -61}
+        - {x: 1.5, y: -59}
+        - {x: 1.5, y: -54}
+        - {x: 6.5, y: -58}
+    - name: Angra_Mantis_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 20
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 125
+        width: 16
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 119
+        width: 17
+        height: 71
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 133
+        width: 26
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 146
+        width: 103
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 118
+        width: 16
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 121
+        width: 13
+        height: 59
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 133
+        width: 18
+        height: 37
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 136
+        width: 13
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 146
+        width: 19
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 149
+        width: 16
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 148
+        width: 82
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 148
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 148
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 148
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 130
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 130
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 130
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 130
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 130
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 50
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 0}
+        - {x: -25, y: -18}
+        - {x: -18, y: -45}
+        - {x: -7, y: -52}
+        - {x: 2, y: -57}
+        - {x: 13, y: -57}
+        - {x: 25, y: -38}
+        - {x: 25, y: 0}
+    - name: Angra_Mantis_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 47
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 0}
+        - {x: -23.5, y: -5}
+        - {x: -22.5, y: -7}
+        - {x: -21.5, y: -20}
+        - {x: -17.5, y: -55}
+        - {x: -8.5, y: -57}
+        - {x: 9.5, y: -57}
+        - {x: 23.5, y: -35}
+        - {x: 23.5, y: -6}
+        - {x: 18.5, y: 0}
+    - name: Angra_Mantis_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 31
+        width: 53
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 0}
+        - {x: -26.5, y: -9}
+        - {x: -26.5, y: -34}
+        - {x: 8.5, y: -34}
+        - {x: 26.5, y: -13}
+        - {x: 26.5, y: 0}
+    - name: Angra_Mantis_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 18
+        width: 42
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -8}
+        - {x: 7, y: -14}
+        - {x: -2, y: 0}
+        - {x: -21, y: 0}
+        - {x: -21, y: -60}
+        - {x: 6, y: -60}
+        - {x: 21, y: -52}
+        - {x: 21, y: -13}
+        - {x: 16, y: -8}
+    - name: Angra_Mantis_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 17
+        width: 42
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 0}
+        - {x: -21, y: -60}
+        - {x: -20, y: -62}
+        - {x: 4, y: -62}
+        - {x: 21, y: -55}
+        - {x: 21, y: -7}
+        - {x: 16, y: 0}
+    - name: Angra_Mantis_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 29
+        width: 47
+        height: 38
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 0}
+        - {x: -19.5, y: 0}
+        - {x: -23.5, y: -1}
+        - {x: -21.5, y: -9}
+        - {x: -16.5, y: -15}
+        - {x: -20.5, y: -11}
+        - {x: -23.5, y: -11}
+        - {x: -23.5, y: -27}
+        - {x: -17.5, y: -38}
+        - {x: 23.5, y: -38}
+        - {x: 23.5, y: -26}
+        - {x: 1.5, y: -2}
+    - name: Angra_Mantis_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 48
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 48
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 48
+        width: 6
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 48
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 32
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 29
+        width: 8
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 32
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Angra_Mantis_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 29
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: b3ff9d9174da0d949848a034fe97c40c
+timeCreated: 1453637241
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cookie_Green_noBG_0
+    21300002: Cookie_Green_noBG_1
+    21300004: Cookie_Green_noBG_2
+    21300006: Cookie_Green_noBG_3
+    21300008: Cookie_Green_noBG_4
+    21300010: Cookie_Green_noBG_5
+    21300012: Cookie_Green_noBG_6
+    21300014: Cookie_Green_noBG_7
+    21300016: Cookie_Green_noBG_8
+    21300018: Cookie_Green_noBG_9
+    21300020: Cookie_Green_noBG_10
+    21300022: Cookie_Green_noBG_11
+    21300024: Cookie_Green_noBG_12
+    21300026: Cookie_Green_noBG_13
+    21300028: Cookie_Green_noBG_14
+    21300030: Cookie_Green_noBG_15
+    21300032: Cookie_Green_noBG_16
+    21300034: Cookie_Green_noBG_17
+    21300036: Cookie_Green_noBG_18
+    21300038: Cookie_Green_noBG_19
+    21300040: Cookie_Green_noBG_20
+    21300042: Cookie_Green_noBG_21
+    21300044: Cookie_Green_noBG_22
+    21300046: Cookie_Green_noBG_23
+    21300048: Cookie_Green_noBG_24
+    21300050: Cookie_Green_noBG_25
+    21300052: Cookie_Green_noBG_26
+    21300054: Cookie_Green_noBG_27
+    21300056: Cookie_Green_noBG_28
+    21300058: Cookie_Green_noBG_29
+    21300060: Cookie_Green_noBG_30
+    21300062: Cookie_Green_noBG_31
+    21300064: Cookie_Green_noBG_32
+    21300066: Cookie_Green_noBG_33
+    21300068: Cookie_Green_noBG_34
+    21300070: Cookie_Green_noBG_35
+    21300072: Cookie_Green_noBG_36
+    21300074: Cookie_Green_noBG_37
+    21300076: Cookie_Green_noBG_38
+    21300078: Cookie_Green_noBG_39
+    21300080: Cookie_Green_noBG_40
+    21300082: Cookie_Green_noBG_41
+    21300084: Cookie_Green_noBG_42
+    21300086: Cookie_Green_noBG_43
+    21300088: Cookie_Green_noBG_44
+    21300090: Cookie_Green_noBG_45
+    21300092: Cookie_Green_noBG_46
+    21300094: Cookie_Green_noBG_47
+    21300096: Cookie_Green_noBG_48
+    21300098: Cookie_Green_noBG_49
+    21300100: Cookie_Green_noBG_50
+    21300102: Cookie_Green_noBG_51
+    21300104: Cookie_Green_noBG_52
+    21300106: Cookie_Green_noBG_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cookie_Green_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 233
+        width: 27
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 232
+        width: 30
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 232
+        width: 28
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 232
+        width: 29
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 231
+        width: 32
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -16, y: -49}
+        - {x: -9, y: -54}
+        - {x: 14, y: -54}
+        - {x: 16, y: -51}
+        - {x: 16, y: -1}
+        - {x: 15, y: 0}
+    - name: Cookie_Green_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 231
+        width: 31
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 255
+        width: 11
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 255
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 255
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 255
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 255
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 252
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 242
+        width: 264
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132, y: 0}
+        - {x: -132, y: -57}
+        - {x: 132, y: -57}
+        - {x: 132, y: -54}
+        - {x: -126, y: 0}
+      - - {x: -8, y: -11}
+        - {x: -8, y: -30}
+        - {x: -7, y: -35}
+        - {x: 6, y: -45}
+        - {x: 14, y: -45}
+        - {x: 25, y: -42}
+        - {x: 32, y: -38}
+        - {x: 32, y: -11}
+      - - {x: 78, y: -29}
+        - {x: 78, y: -43}
+        - {x: 119, y: -43}
+        - {x: 120, y: -42}
+        - {x: 120, y: -31}
+        - {x: 115, y: -29}
+      - - {x: -58, y: -14}
+        - {x: -58, y: -33}
+        - {x: -48, y: -41}
+        - {x: -43, y: -41}
+        - {x: -27, y: -33}
+        - {x: -27, y: -28}
+        - {x: -29, y: -21}
+        - {x: -32, y: -14}
+      - - {x: -95, y: -17}
+        - {x: -109, y: -23}
+        - {x: -109, y: -30}
+        - {x: -106, y: -39}
+        - {x: -102, y: -39}
+        - {x: -85, y: -38}
+        - {x: -84, y: -36}
+        - {x: -84, y: -33}
+        - {x: -91, y: -17}
+      - - {x: 33, y: -27}
+        - {x: 33, y: -34}
+        - {x: 38, y: -34}
+        - {x: 39, y: -31}
+        - {x: 39, y: -28}
+        - {x: 37, y: -27}
+      - - {x: 116, y: -13}
+        - {x: 77, y: -13}
+        - {x: 77, y: -25}
+        - {x: 78, y: -27}
+        - {x: 115, y: -27}
+        - {x: 118, y: -25}
+        - {x: 118, y: -16}
+    - name: Cookie_Green_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 37
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 0}
+        - {x: -18.5, y: -19}
+        - {x: -18.5, y: -50}
+        - {x: 16.5, y: -50}
+        - {x: 18.5, y: -48}
+        - {x: 18.5, y: -5}
+        - {x: 14.5, y: 0}
+    - name: Cookie_Green_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 159
+        width: 38
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 0}
+        - {x: -15, y: -8}
+        - {x: -19, y: -23}
+        - {x: -19, y: -47}
+        - {x: -15, y: -50}
+        - {x: 18, y: -50}
+        - {x: 19, y: -48}
+        - {x: 19, y: -3}
+        - {x: 18, y: 0}
+    - name: Cookie_Green_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 44
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -33}
+        - {x: 9, y: -32}
+        - {x: 13, y: -35}
+        - {x: 18, y: -35}
+        - {x: 22, y: -33}
+        - {x: 22, y: -18}
+        - {x: 7, y: 0}
+        - {x: -16, y: 0}
+        - {x: -22, y: -4}
+        - {x: -22, y: -50}
+        - {x: 8, y: -50}
+        - {x: 13, y: -42}
+        - {x: 11, y: -35}
+        - {x: 9, y: -33}
+    - name: Cookie_Green_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 159
+        width: 44
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -33}
+        - {x: 9, y: -32}
+        - {x: 13, y: -35}
+        - {x: 18, y: -35}
+        - {x: 22, y: -33}
+        - {x: 22, y: -21}
+        - {x: 10, y: 0}
+        - {x: -15, y: 0}
+        - {x: -22, y: -13}
+        - {x: -22, y: -39}
+        - {x: -19, y: -50}
+        - {x: 8, y: -50}
+        - {x: 13, y: -42}
+        - {x: 11, y: -35}
+        - {x: 9, y: -33}
+    - name: Cookie_Green_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 157
+        width: 38
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -19, y: -1}
+        - {x: -19, y: -48}
+        - {x: -16, y: -53}
+        - {x: 0, y: -53}
+        - {x: 11, y: -50}
+        - {x: 19, y: -40}
+        - {x: 19, y: -16}
+        - {x: 11, y: 0}
+    - name: Cookie_Green_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 157
+        width: 38
+        height: 53
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 0}
+        - {x: -17, y: 0}
+        - {x: -19, y: -8}
+        - {x: -19, y: -53}
+        - {x: 14, y: -53}
+        - {x: 19, y: -39}
+        - {x: 19, y: -18}
+        - {x: 14, y: -11}
+    - name: Cookie_Green_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 158
+        width: 34
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 0}
+        - {x: -12, y: 0}
+        - {x: -15, y: -5}
+        - {x: -17, y: -12}
+        - {x: -17, y: -49}
+        - {x: -16, y: -51}
+        - {x: -4, y: -51}
+        - {x: 17, y: -42}
+        - {x: 17, y: -2}
+    - name: Cookie_Green_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 158
+        width: 35
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 0}
+        - {x: -17.5, y: -11}
+        - {x: -17.5, y: -49}
+        - {x: -16.5, y: -51}
+        - {x: -0.5, y: -51}
+        - {x: 1.5, y: -50}
+        - {x: 17.5, y: -43}
+        - {x: 17.5, y: 0}
+    - name: Cookie_Green_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 179
+        width: 13
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 179
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 179
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 179
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 176
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 86
+        width: 44
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -22, y: -10}
+        - {x: -22, y: -42}
+        - {x: -17, y: -47}
+        - {x: 22, y: -47}
+        - {x: 22, y: 0}
+    - name: Cookie_Green_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 87
+        width: 42
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -21, y: -8}
+        - {x: -21, y: -35}
+        - {x: -17, y: -47}
+        - {x: 21, y: -47}
+        - {x: 21, y: 0}
+    - name: Cookie_Green_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 44
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -22, y: -2}
+        - {x: -22, y: -47}
+        - {x: 22, y: -47}
+        - {x: 22, y: -11}
+        - {x: 17, y: 0}
+    - name: Cookie_Green_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 87
+        width: 43
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 0}
+        - {x: -21.5, y: -47}
+        - {x: 21.5, y: -47}
+        - {x: 21.5, y: -5}
+        - {x: 13.5, y: 0}
+    - name: Cookie_Green_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 87
+        width: 44
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 0}
+        - {x: -22, y: -4}
+        - {x: -22, y: -47}
+        - {x: 22, y: -47}
+        - {x: 22, y: -26}
+        - {x: 13, y: 0}
+    - name: Cookie_Green_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 88
+        width: 50
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -10}
+        - {x: 14, y: 0}
+        - {x: -13, y: 0}
+        - {x: -25, y: -3}
+        - {x: -25, y: -49}
+        - {x: 25, y: -49}
+    - name: Cookie_Green_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 88
+        width: 48
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 0}
+        - {x: -24, y: -3}
+        - {x: -24, y: -49}
+        - {x: 13, y: -49}
+        - {x: 24, y: -46}
+        - {x: 24, y: -5}
+        - {x: 9, y: 0}
+    - name: Cookie_Green_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 88
+        width: 44
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 0}
+        - {x: -22, y: -5}
+        - {x: -22, y: -49}
+        - {x: 18, y: -49}
+        - {x: 22, y: -40}
+        - {x: 22, y: -5}
+        - {x: 9, y: 0}
+    - name: Cookie_Green_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 88
+        width: 44
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -22, y: -10}
+        - {x: -22, y: -49}
+        - {x: 19, y: -49}
+        - {x: 22, y: -43}
+        - {x: 22, y: -5}
+        - {x: 7, y: 0}
+    - name: Cookie_Green_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 88
+        width: 45
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 0}
+        - {x: -22.5, y: -14}
+        - {x: -22.5, y: -49}
+        - {x: 15.5, y: -49}
+        - {x: 22.5, y: -35}
+        - {x: 22.5, y: -9}
+        - {x: 6.5, y: 0}
+    - name: Cookie_Green_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 108
+        width: 12
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 108
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 108
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 108
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 29
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11
+        width: 50
+        height: 38
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 0}
+        - {x: -16, y: -2}
+        - {x: -25, y: -10}
+        - {x: -25, y: -33}
+        - {x: -23, y: -38}
+        - {x: 15, y: -38}
+        - {x: 25, y: -32}
+        - {x: 25, y: -12}
+        - {x: 19, y: 0}
+    - name: Cookie_Green_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 29
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 14
+        width: 53
+        height: 33
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 0}
+        - {x: 13.5, y: -5}
+        - {x: 13.5, y: -10}
+        - {x: 13.5, y: -8}
+        - {x: 12.5, y: -2}
+        - {x: 10.5, y: 0}
+        - {x: -0.5, y: 0}
+        - {x: -26.5, y: -8}
+        - {x: -26.5, y: -27}
+        - {x: -21.5, y: -33}
+        - {x: 23.5, y: -33}
+        - {x: 26.5, y: -22}
+        - {x: 26.5, y: -1}
+        - {x: 23.5, y: 0}
+    - name: Cookie_Green_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 23
+        width: 37
+        height: 17
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 36
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 36
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 36
+        width: 6
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 36
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 219
+        height: 69
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.5, y: 0}
+        - {x: -109.5, y: -69}
+        - {x: -104.5, y: -69}
+        - {x: 109.5, y: -3}
+        - {x: 109.5, y: 0}
+      - - {x: -101.5, y: -51}
+        - {x: -101.5, y: -68}
+        - {x: -44.5, y: -68}
+        - {x: -44.5, y: -51}
+      - - {x: -42.5, y: -51}
+        - {x: -42.5, y: -66}
+        - {x: -36.5, y: -68}
+        - {x: -2.5, y: -68}
+        - {x: -1.5, y: -66}
+        - {x: -0.5, y: -58}
+        - {x: -0.5, y: -51}
+      - - {x: 105.5, y: -51}
+        - {x: 0.5, y: -51}
+        - {x: 0.5, y: -67}
+        - {x: 7.5, y: -68}
+        - {x: 104.5, y: -68}
+        - {x: 105.5, y: -65}
+      - - {x: 55.5, y: -36}
+        - {x: 33.5, y: -37}
+        - {x: 29.5, y: -33}
+        - {x: 10.5, y: -34}
+        - {x: 18.5, y: -34}
+        - {x: 21.5, y: -33}
+        - {x: 23.5, y: -31}
+        - {x: 23.5, y: -25}
+        - {x: 20.5, y: -22}
+        - {x: -8.5, y: -22}
+        - {x: -17.5, y: -19}
+        - {x: -22.5, y: -19}
+        - {x: -26.5, y: -21}
+        - {x: -29.5, y: -29}
+        - {x: -27.5, y: -35}
+        - {x: -19.5, y: -34}
+        - {x: -19.5, y: -43}
+        - {x: -20.5, y: -40}
+        - {x: -22.5, y: -36}
+        - {x: -34.5, y: -36}
+        - {x: -31.5, y: -33}
+        - {x: -30.5, y: -29}
+        - {x: -29.5, y: -24}
+        - {x: -31.5, y: -21}
+        - {x: -41.5, y: -19}
+        - {x: -44.5, y: -19}
+        - {x: -45.5, y: -21}
+        - {x: -45.5, y: -31}
+        - {x: -43.5, y: -33}
+        - {x: -39.5, y: -33}
+        - {x: -47.5, y: -36}
+        - {x: -45.5, y: -20}
+        - {x: -46.5, y: -19}
+        - {x: -100.5, y: -19}
+        - {x: -101.5, y: -25}
+        - {x: -101.5, y: -31}
+        - {x: -99.5, y: -33}
+        - {x: -83.5, y: -34}
+        - {x: -92.5, y: -34}
+        - {x: -98.5, y: -35}
+        - {x: -101.5, y: -38}
+        - {x: -101.5, y: -50}
+        - {x: 56.5, y: -50}
+        - {x: 57.5, y: -46}
+        - {x: 57.5, y: -38}
+      - - {x: -100.5, y: -3}
+        - {x: -101.5, y: -4}
+        - {x: -101.5, y: -14}
+        - {x: -100.5, y: -17}
+        - {x: -60.5, y: -17}
+        - {x: -59.5, y: -14}
+        - {x: -59.5, y: -6}
+        - {x: -63.5, y: -3}
+    - name: Cookie_Green_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 20
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 17
+        width: 8
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 20
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cookie_Green_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 17
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
