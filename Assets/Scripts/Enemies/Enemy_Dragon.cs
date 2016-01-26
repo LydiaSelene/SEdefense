@@ -16,7 +16,7 @@ public class Enemy_Dragon : MonoBehaviour {
 
 		movingDirection = new Vector3 (-1, 0, 0);
 	}
-	
+		
 	// Update is called once per frame
 	void Update () {
 		thistransform.Translate (movingDirection*movingSpeed*Time.deltaTime, Space.World);
