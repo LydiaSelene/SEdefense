@@ -69,6 +69,44 @@ public class Bombscript : MonoBehaviour {
             Enemy_Dragon es = target.gameObject.GetComponent<Enemy_Dragon>();
             targetSpeed = es.getMovingSpeed();
             targetDirection = es.getMovingDirection();
+        }else if(target.name.Contains("Enemy_BugSoldier")){
+            Enemy_BugSoldier es = target.gameObject.GetComponent<Enemy_BugSoldier>();
+            targetSpeed = es.getMovingSpeed();
+            targetDirection = es.getMovingDirection();
+        }else if(target.name.Contains("Enemy_FrozenWolf")){
+            Enemy_FrozenWolf es = target.gameObject.GetComponent<Enemy_FrozenWolf>();
+            targetSpeed = es.getMovingSpeed();
+            targetDirection = es.getMovingDirection();
+        }
+        else if (target.name.Contains("Enemy_Santa"))
+        {
+            Enemy_Santa es = target.gameObject.GetComponent<Enemy_Santa>();
+            targetSpeed = es.getMovingSpeed();
+            targetDirection = es.getMovingDirection();
+        }
+        else if (target.name.Contains("Enemy_Mantis"))
+        {
+            Enemy_Mantis es = target.gameObject.GetComponent<Enemy_Mantis>();
+            targetSpeed = es.getMovingSpeed();
+            targetDirection = es.getMovingDirection();
+        }
+        else if (target.name.Contains("Enemy_Cookie1"))
+        {
+            Enemy_Cookie1 es = target.gameObject.GetComponent<Enemy_Cookie1>();
+            targetSpeed = es.getMovingSpeed();
+            targetDirection = es.getMovingDirection();
+        }
+        else if (target.name.Contains("Enemy_Goblin1"))
+        {
+            Enemy_Goblin1 es = target.gameObject.GetComponent<Enemy_Goblin1>();
+            targetSpeed = es.getMovingSpeed();
+            targetDirection = es.getMovingDirection();
+        }
+        else if (target.name.Contains("Enemy_Goblin2"))
+        {
+            Enemy_Goblin2 es = target.gameObject.GetComponent<Enemy_Goblin2>();
+            targetSpeed = es.getMovingSpeed();
+            targetDirection = es.getMovingDirection();
         }
 
         calculatedTargetPoint = targetDirection.normalized * (targetSpeed * (direction.magnitude / speed));
