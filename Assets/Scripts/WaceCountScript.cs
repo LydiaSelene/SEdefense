@@ -42,8 +42,8 @@ public class WaceCountScript : MonoBehaviour {
 		} else {
 			if ((GameObject.FindWithTag ("FlyingEnemy") == null) && (GameObject.FindWithTag ("GroundEnemy") == null)) {
 				Debug.Log ("you won");
-				win = GameObject.FindWithTag ("Win");
-				//Instantiate (win);
+				win =  Resources.Load ("Prefabs/Win", typeof(GameObject)) as GameObject;
+				Instantiate (win, Camera.main.ScreenToViewportPoint(new Vector3(0,0,0)), Quaternion.identity);
 			}
 		}
 	

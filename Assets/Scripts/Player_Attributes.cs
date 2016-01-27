@@ -22,7 +22,8 @@ public class Player_Attributes : MonoBehaviour {
 		if(health <= 0){
 			//TODO
 			Debug.Log("You Loose!");
-			lose = GameObject.FindGameObjectWithTag ("Lose");
+			lose =  Resources.Load ("Prefabs/Lose", typeof(GameObject)) as GameObject;
+			Instantiate (lose, Camera.main.ScreenToViewportPoint(new Vector3(0,0,0)), Quaternion.identity);
 		}
 	}
 
