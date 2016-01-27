@@ -17,6 +17,7 @@ public class WaceCountScript : MonoBehaviour {
 	private int checkWave;
 	Text currentWaveString;
 	private GameObject win;
+	private bool winBool;
 	
 	//initialisiere die komponenten der wave-anzeige
 	//dabei werden instanzen der objete erstellt, die auf das level-script verweisen
@@ -28,6 +29,7 @@ public class WaceCountScript : MonoBehaviour {
 		maxWave = waveScript.getWavesAmount();
 		currentWaveString = currentWaveText.GetComponent<Text>();
 		currentWaveString.text = "" + currentWave + "/" + maxWave;
+		winBool = false;
 	}
 	
 	// es wird geprüft, ob die momentane anzeige mit der anzahl der 
@@ -40,10 +42,12 @@ public class WaceCountScript : MonoBehaviour {
 				currentWaveString.text = "" + currentWave + "/" + maxWave;
 			}
 		} else {
-			if ((GameObject.FindWithTag ("FlyingEnemy") == null) && (GameObject.FindWithTag ("GroundEnemy") == null)) {
+			if (!winBool && (GameObject.FindWithTag ("FlyingEnemy") == null) && (GameObject.FindWithTag ("GroundEnemy") == null)) {
 				Debug.Log ("you won");
 				win =  Resources.Load ("Prefabs/Win", typeof(GameObject)) as GameObject;
-				Instantiate (win, Camera.main.ScreenToViewportPoint(new Vector3(0,0,0)), Quaternion.identity);
+				Instantiate (win, Camera.main.ScreenToViewportPoint(new Vector3(0,0,5)), Quaternion.identity);
+				Time.timeScale = 0.0f;
+				winBool = true;
 			}
 		}
 	
