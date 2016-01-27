@@ -46,7 +46,8 @@ public class initiateBowTower : MonoBehaviour {
 				currentMoney -= cost; 
 				currentMoneyString.text = " " + currentMoney; 
 				hold = false;
-				moneyScript.SetCurrentMoney(currentMoney);
+				//moneyScript.setCurrentMoney(currentMoney);
+				GameObject.Find ("PlayerHome").SendMessage("setMoney", currentMoney, SendMessageOptions.RequireReceiver);
 			}
 			//der spieler kann sich den turm nicht leisten, somit wird er nicht gesetzt
 			else if(currentMoney < cost){

@@ -46,7 +46,7 @@ public class MeleeScript : MonoBehaviour {
             //Gegner unter den Collidern suchen
             foreach (Collider2D c in colliders)
             {
-                if (c.tag.Equals("FlyingEnemy"))
+                if (c.tag.Equals("FlyingEnemy") || c.tag.Equals("GroundEnemy"))
                 {
                     atkAnim.Play();
                     c.gameObject.SendMessage("dealDamage", dmg, SendMessageOptions.RequireReceiver);

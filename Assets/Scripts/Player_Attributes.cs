@@ -12,6 +12,7 @@ public class Player_Attributes : MonoBehaviour {
 		health = 20f;
 		GameObject.Find ("GUICanvas/Healthbar/HealthbarImage").SendMessage("initializeMaxHealth", health, SendMessageOptions.RequireReceiver);
 		money = 500f;
+		GameObject.Find ("GUICanvas/Juwels/CurrentMoneyText").SendMessage("initializeMoney", money, SendMessageOptions.RequireReceiver);
 	}
 
 	//Soll aufgerufen werden, wenn ein Fein den Zielort erreicht.
@@ -23,6 +24,16 @@ public class Player_Attributes : MonoBehaviour {
 			Debug.Log("You Loose!");
 			lose = GameObject.FindGameObjectWithTag ("Lose");
 		}
+	}
+
+	public void giveMoneyFromKilledEnemy(float amount){
+		money += amount;
+		GameObject.Find ("GUICanvas/Juwels/CurrentMoneyText").SendMessage("setCurrentMoney", money, SendMessageOptions.RequireReceiver);
+	}
+
+	public void setMoney(float amount){
+		money = amount;
+		GameObject.Find ("GUICanvas/Juwels/CurrentMoneyText").SendMessage("setCurrentMoney", money, SendMessageOptions.RequireReceiver);
 	}
 
 	//Soll aufgerufen werden, wenn ein Fein den Zielort erreicht.
