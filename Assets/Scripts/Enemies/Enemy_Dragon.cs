@@ -63,6 +63,7 @@ public class Enemy_Dragon : MonoBehaviour {
 	//Wenn der Gegner stirt
 	public void onDeath(){
 		Destroy (gameObject);
+		GameObject.Find ("PlayerHome").SendMessage("giveMoneyFromKilledEnemy", money, SendMessageOptions.RequireReceiver);
 	}
 
 	//Soll aufgerufen werden, wenn der Gegner seinen eigentlichen Zielort erreicht
