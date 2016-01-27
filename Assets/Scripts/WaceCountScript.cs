@@ -9,19 +9,21 @@ public class WaceCountScript : MonoBehaviour {
 	entsprechend dieses scripts werden die maximale anzahl und die aktuelle zahl der wave aktualisiert
 	die informationen der waves erlangt dieses script durch das generiert level-script
 */
-	Level1 waveScript;
+	SpawnWaves_Level1 waveScript;
 	public GameObject currentWaveText;
 	public GameObject levelObject;
 	private int currentWave;
 	private int maxWave;
 	private int checkWave;
 	Text currentWaveString;
+	private GameObject win;
 	
 	//initialisiere die komponenten der wave-anzeige
 	//dabei werden instanzen der objete erstellt, die auf das level-script verweisen
 	//dies geschiet durch den zugriff auf die getter der generierten level-klasse
 	void Start () {
-		waveScript = levelObject.GetComponent<Level1> ();
+		GameObject go = GameObject.FindWithTag("SpawnScript");
+		waveScript = (SpawnWaves_Level1)go.GetComponent (typeof(SpawnWaves_Level1));
 		currentWave = waveScript.getCurWave();
 		maxWave = waveScript.getWavesAmount();
 		currentWaveString = currentWaveText.GetComponent<Text>();
@@ -32,10 +34,16 @@ public class WaceCountScript : MonoBehaviour {
 	// aktuellen wave übereinstimmt 
 	void Update () {
 		checkWave = waveScript.getCurWave();
-		if(!(checkWave > maxWave)){
-			if(currentWave != checkWave){
+		if (!(checkWave > maxWave)) {
+			if (currentWave != checkWave) {
 				currentWave = checkWave;
 				currentWaveString.text = "" + currentWave + "/" + maxWave;
+			}
+		} else {
+			if ((GameObject.FindWithTag ("FlyingEnemy") == null) && (GameObject.FindWithTag ("GroundEnemy") == null)) {
+				Debug.Log ("you won");
+				win = GameObject.FindWithTag ("Win");
+				//Instantiate (win);
 			}
 		}
 	
