@@ -58,13 +58,12 @@ public class Arrow : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if(Vector3.Distance(transform.position, spawnPosition) > 20f || target == null){
+		if (Vector3.Distance (transform.position, spawnPosition) > 20f || target == null) {
 			Destroy (gameObject);
+		} else {
+			calcDirection ();
 		}
 			
-		calcDirection ();
-
-		//obj.transform.Translate (direction*Time.deltaTime, Space.World);
 		transform.Translate (direction.normalized*speed*Time.deltaTime, Space.World);	
 	}
 }
