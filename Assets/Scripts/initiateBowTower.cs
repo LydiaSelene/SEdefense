@@ -2,7 +2,13 @@
 using System.Collections;
 using UnityEngine.UI;
 
-
+/*
+	Dieses Script verwaltet den Bogen-Turm, der Gegner mit einer hohen Reichweite beschießt
+	Außerdem greift dieses script auf die geldanzeige zu und zieht die kosten für den turm von dem eigenen guthaben ab
+	
+	Klickt der spieler auf den turm-button, wird eine instanz des bogen-turms erzeugt. dieser turm bewegt sich mit der maus, bis ein linksklick betätigt wird.
+	mit einem rechtsklick wird die option abgebrochen
+*/
 public class initiateBowTower : MonoBehaviour {
 
 	public GameObject prefab;
@@ -16,7 +22,7 @@ public class initiateBowTower : MonoBehaviour {
 	public int cost;
 	CurrentMoneyAttributes moneyScript;
 
-	// Use this for initialization
+	//Instanziiert die Geldanzeige
 	void Start () {
 		moneyScript = currentMoneyText.GetComponent<CurrentMoneyAttributes> ();
 		currentMoney = moneyScript.GetCurrentMoney();
@@ -25,22 +31,30 @@ public class initiateBowTower : MonoBehaviour {
 		currentMoneyString.text = " " + currentMoney; 
 	}
 
-	// Update is called once per frame
+// hier wird die maus-aktion des spielers überwacht und eine klick auf den button verwaltet
 	void Update () {
+		//der spieler hat den turm-knopf gedrückt und einen ungesetzten turm, der seiner maus folgt
 		if (hold) {
 			obj.transform.position = Camera.main.ScreenToWorldPoint (new Vector3 (Input.mousePosition.x, Input.mousePosition.y, 1));
 		}
+		//der spieler klickt die linke maustaste auf dem turm button
 		if (Input.GetMouseButtonDown (0)) {
 			currentMoney = moneyScript.GetCurrentMoney();
+			
+			//hier wird abgefragt, ob der spieler sich den turm leisten kann
 			if (hold && currentMoney >= cost) {
 				currentMoney -= cost; 
 				currentMoneyString.text = " " + currentMoney; 
 				hold = false;
 				moneyScript.SetCurrentMoney(currentMoney);
-			} else if(currentMoney < cost){
+			}
+			//der spieler kann sich den turm nicht leisten, somit wird er nicht gesetzt
+			else if(currentMoney < cost){
 				Debug.Log ("Not enough money!");
 			}
-		} else if (Input.GetMouseButtonDown (1)) {
+		}
+	//die rechte maustaste wird betätigt. sollte der spieler gerade einen turm halten, wird dieser gelöscht		
+		else if (Input.GetMouseButtonDown (1)) {
 			if (hold) {
 				Destroy (obj);
 				hold = false;
@@ -48,6 +62,7 @@ public class initiateBowTower : MonoBehaviour {
 		}
 	}
 
+	//diese funktion instantiiert den turm und den bedingungen, dass der spieler den turm-button drückt 
 	public void InstantiateBowTower(){
 		hold = true;
 		mousePosX = Input.mousePosition.x;
