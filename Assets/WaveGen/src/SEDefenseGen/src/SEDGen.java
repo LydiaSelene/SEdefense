@@ -129,7 +129,7 @@ public class SEDGen extends SEDefenseLangBaseListener{
 			out = out + "\tint amount" + i + " = " + waves.get(i).getAmount() + ";\n";
 		}
 		
-		out = out + "\tList<Vector3> waypoints = new List<Vector3>();";
+		out = out + "\tList<Vector3> waypoints = new List<Vector3>();\n";
 		out = out + "\tint wavesamount = " + waves.size() + ";\n";
 		out = out + "\tint playingwave = 0;\n";
 		out = out + "\tint patternint = 0;\n";
