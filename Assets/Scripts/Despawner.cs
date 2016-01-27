@@ -12,8 +12,11 @@ public class Despawner : MonoBehaviour {
 		//Debug.Log("trigger");
 		if (other.tag.Equals ("FlyingEnemy")) {
 			//Debug.Log("despawn");
-			Enemy_Dragon script = other.GetComponent<Enemy_Dragon> ();
-			script.onDespawn ();
+			if (other.name.Contains ("Enemy_Dragon")) {
+				Enemy_Dragon script = other.GetComponent<Enemy_Dragon> ();
+				script.onDespawn ();
+			}
+
 		}
 	}
 

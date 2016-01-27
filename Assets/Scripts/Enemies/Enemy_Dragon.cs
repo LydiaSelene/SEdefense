@@ -68,7 +68,7 @@ public class Enemy_Dragon : MonoBehaviour {
 	//Soll aufgerufen werden, wenn der Gegner seinen eigentlichen Zielort erreicht
 	public void onDespawn(){
 		//TODO: Leben vom Spieler abziehen
-		GameObject.Find("Player").GetComponent<Player_Attributes>().onHit();
+		//GameObject.Find("Player").GetComponent<Player_Attributes>().onHit();
 		Destroy (gameObject);
 	}
 
