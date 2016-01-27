@@ -24,8 +24,8 @@ public class Enemy_Mantis : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		thistransform = transform;
-		health = 44f;
-		movingSpeed = 3.0f;
+		health = 54f;
+		movingSpeed = 2.0f;
 		targetPoint = transform.position;
 		money = 25;
 	}

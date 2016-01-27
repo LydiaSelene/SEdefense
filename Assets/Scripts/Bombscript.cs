@@ -20,7 +20,7 @@ public class Bombscript : MonoBehaviour {
         killtimer = 0;
         explosion = gameObject.GetComponent<ParticleSystem>();
         explosion.Stop();
-        damage = 4.0f;
+        damage = 10.0f;
         spawnPosition = transform.position;
         kill = false;
         explosionradius = 5.0f;
