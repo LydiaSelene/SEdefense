@@ -32,9 +32,11 @@ public class WaceCountScript : MonoBehaviour {
 	// aktuellen wave übereinstimmt 
 	void Update () {
 		checkWave = waveScript.getCurWave();
-		if(currentWave != checkWave){
-			currentWave = checkWave;
-			currentWaveString.text = "" + currentWave + "/" + maxWave;
+		if(!(checkWave > maxWave)){
+			if(currentWave != checkWave){
+				currentWave = checkWave;
+				currentWaveString.text = "" + currentWave + "/" + maxWave;
+			}
 		}
 	
 	}
