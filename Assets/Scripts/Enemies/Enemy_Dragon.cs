@@ -68,15 +68,20 @@ public class Enemy_Dragon : MonoBehaviour {
 			setNextWaypoint ();
 		} else {
 			movingDirection = targetPoint - thistransform.position;
+
+			Debug.Log ("movingDirection.x "+movingDirection.x);
 			if(movingDirection.x < 0 && thistransform.localScale.x > 0){
 				Vector3 sc = thistransform.localScale;
 				sc.x *= (-1);
 				thistransform.localScale = sc;
+				Debug.Log ("sc.xNeg: "+sc.x);
 			}else if(movingDirection.x > 0 && thistransform.localScale.x < 0){
 				Vector3 sc = thistransform.localScale;
 				sc.x *= (-1);
 				thistransform.localScale = sc;
+				Debug.Log ("sc.xPos: "+sc.x);
 			}
+
 			thistransform.Translate (movingDirection.normalized*movingSpeed*Time.deltaTime, Space.World);
 		}
 			
