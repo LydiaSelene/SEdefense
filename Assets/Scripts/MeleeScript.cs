@@ -26,6 +26,7 @@ public class MeleeScript : MonoBehaviour {
         actualIntervallTime = 0.0f;
         radius = 10f;
         atkAnim = gameObject.GetComponent<ParticleSystem>();
+        atkAnim.Stop();
         dmg = 10.0f;
     }
 
