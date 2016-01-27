@@ -4,34 +4,41 @@ using System.Collections.Generic;
 
 public class Enemy_Dragon : MonoBehaviour {
 
+	//Das Transformobjekt, nur lokal wegen Performance
 	Transform thistransform;
+	//Das Leben des Gegners
 	float health;
+	//Die Geschwindigkeit, mit der sich der Gegner bewegt
 	float movingSpeed;
+	//Die aktuelle Zielposition des Gegners
 	Vector3 targetPoint;
+	//Der aktuelle Bewegungsvektor vom Gegner zum Zielpunkt
 	Vector3 movingDirection;
-	//List<Vector3> waypoints;
+	//Alle Wegpunkte, die der Gegner abgehen soll
 	List<Vector3> waypoints;
+	//Die WegpunktNummer für den nächsten Wegpunkt
 	int wayPointNumber;
+	//Geld, das der Gegner beim Tod gibt
+	int money;
 
 	// Use this for initialization
 	void Start () {
 		thistransform = transform;
-		health = 20;
+		health = 20f;
 		movingSpeed = 10.0f;
 		targetPoint = transform.position;
-
-
+		money = 50;
 	}
 
+	//Der Gegner erhält alle Wegpunkte, die er abgehen soll.
 	public void setWaypoints(List<Vector3> list){
 		waypoints = list;
 		wayPointNumber = 0;
 		targetPoint = transform.position;
 		movingDirection = Vector3.zero;
-
-
 	}
 
+	//Setzt die nächste Position, zu der sich der Gegner bewegt.
 	void setNextWaypoint(){
 		//Debug.Log ("wayPointNumber " + wayPointNumber);
 		if (wayPointNumber < waypoints.Count) {
@@ -45,6 +52,7 @@ public class Enemy_Dragon : MonoBehaviour {
 		}
 	}
 
+	//Der Gegner erleidet Schaden
 	public void dealDamage(float amount){
 		health -= amount;
 		if(health <= 0){
@@ -52,13 +60,29 @@ public class Enemy_Dragon : MonoBehaviour {
 		}
 	}
 
+	//Wenn der Gegner stirt
 	public void onDeath(){
 		Destroy (gameObject);
 	}
 
+	//Soll aufgerufen werden, wenn der Gegner seinen eigentlichen Zielort erreicht
 	public void onDespawn(){
 		//TODO: Leben vom Spieler abziehen
+		GameObject.Find("Player").GetComponent<Player_Attributes>().onHit();
 		Destroy (gameObject);
+	}
+
+	//dreht bei bewegung in negative X-Richtung das Sprite um
+	void checkMovingDirectionX(){
+		if(movingDirection.x <= 0 && thistransform.localScale.x > 0){
+			Vector3 sc = thistransform.localScale;
+			sc.x *= (-1);
+			thistransform.localScale = sc;
+		}else if(movingDirection.x >= 0 && thistransform.localScale.x < 0){
+			Vector3 sc = thistransform.localScale;
+			sc.x *= (-1);
+			thistransform.localScale = sc;
+		}
 	}
 	
 	// Update is called once per frame
@@ -68,19 +92,11 @@ public class Enemy_Dragon : MonoBehaviour {
 			setNextWaypoint ();
 		} else {
 			movingDirection = targetPoint - thistransform.position;
-			if(movingDirection.x < 0 && thistransform.localScale.x > 0){
-				Vector3 sc = thistransform.localScale;
-				sc.x *= (-1);
-				thistransform.localScale = sc;
-			}else if(movingDirection.x > 0 && thistransform.localScale.x < 0){
-				Vector3 sc = thistransform.localScale;
-				sc.x *= (-1);
-				thistransform.localScale = sc;
-			}
+			//Debug.Log ("movingDirection.x "+movingDirection.x);
+			checkMovingDirectionX ();
+
 			thistransform.Translate (movingDirection.normalized*movingSpeed*Time.deltaTime, Space.World);
 		}
-			
-
 	}
 
 
@@ -90,6 +106,10 @@ public class Enemy_Dragon : MonoBehaviour {
 
 	public Vector3 getMovingDirection(){
 		return movingDirection;
+	}
+
+	public int getMoney(){
+		return money;
 	}
 
 }
