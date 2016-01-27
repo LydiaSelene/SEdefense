@@ -21,13 +21,16 @@ public class Arrow : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D other) {
-		if (other.gameObject.tag == "FlyingEnemy"){
-			Destroy (gameObject);
+		if (other.gameObject.tag.Equals("FlyingEnemy") ){
 
 			other.gameObject.SendMessage ("dealDamage", damage, SendMessageOptions.RequireReceiver);
-			//coll.gameObject.SendMessage("ApplyDamage", 10);
-		}
 
+			//Pfeil zerstören
+			Destroy (gameObject);
+
+		}else if(other.gameObject.tag.Equals("GroundEnemy") ){
+
+		}
 	}
 
 	public void setTarget(Collider2D targetEnemy){
@@ -38,11 +41,17 @@ public class Arrow : MonoBehaviour {
 	void calcDirection(){
 		direction = target.transform.position - transform.position;
 
-		//vorhalten
+		//vorhalten bei bewegten Zielen
 		Vector3 calculatedTargetPoint;
-		Enemy_Dragon es = target.gameObject.GetComponent<Enemy_Dragon> ();
-		float targetSpeed = es.getMovingSpeed ();
-		Vector3 targetDirection = es.getMovingDirection ();
+
+		float targetSpeed =  0;
+		Vector3 targetDirection = Vector3.zero;
+		if (target.name.Contains ("Enemy_Dragon")) {
+			Enemy_Dragon es = target.gameObject.GetComponent<Enemy_Dragon> ();
+			targetSpeed = es.getMovingSpeed ();
+			targetDirection = es.getMovingDirection ();
+		}
+			
 		calculatedTargetPoint = targetDirection.normalized * (targetSpeed * (direction.magnitude / speed));
 		direction = direction + calculatedTargetPoint;
 
@@ -58,12 +67,12 @@ public class Arrow : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if (Vector3.Distance (transform.position, spawnPosition) > 20f || target == null) {
-			Destroy (gameObject);
-		} else {
-			calcDirection ();
-		}
-			
-		transform.Translate (direction.normalized*speed*Time.deltaTime, Space.World);	
+			if (Vector3.Distance (transform.position, spawnPosition) > 20f || target == null) {
+				Destroy (gameObject);
+			} else {
+				calcDirection ();
+			}
+
+			transform.Translate (direction.normalized*speed*Time.deltaTime, Space.World);	
 	}
 }
