@@ -19,11 +19,17 @@ public class Enemy_Dragon : MonoBehaviour {
 		health = 20;
 		movingSpeed = 10.0f;
 		targetPoint = transform.position;
+
+
 	}
 
 	public void setWaypoints(List<Vector3> list){
 		waypoints = list;
 		wayPointNumber = 0;
+		targetPoint = transform.position;
+		movingDirection = Vector3.zero;
+
+
 	}
 
 	void setNextWaypoint(){
@@ -58,11 +64,23 @@ public class Enemy_Dragon : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if(Vector3.Distance(thistransform.position, targetPoint) < 0.15f){
+		if (Vector3.Distance (thistransform.position, targetPoint) < 0.15f) {
 			setNextWaypoint ();
+		} else {
+			movingDirection = targetPoint - thistransform.position;
+			if(movingDirection.x < 0 && thistransform.localScale.x > 0){
+				Vector3 sc = thistransform.localScale;
+				sc.x *= (-1);
+				thistransform.localScale = sc;
+			}else if(movingDirection.x > 0 && thistransform.localScale.x < 0){
+				Vector3 sc = thistransform.localScale;
+				sc.x *= (-1);
+				thistransform.localScale = sc;
+			}
+			thistransform.Translate (movingDirection.normalized*movingSpeed*Time.deltaTime, Space.World);
 		}
-		movingDirection = targetPoint - thistransform.position;
-		thistransform.Translate (movingDirection.normalized*movingSpeed*Time.deltaTime, Space.World);
+			
+
 	}
 
 
