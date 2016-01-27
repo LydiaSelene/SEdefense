@@ -7,13 +7,13 @@ public class CameraMover : MonoBehaviour {
 	private bool isPanning;
 	private Vector3 mouseOrigin;
 	private Vector3 mousePos;
-	private float leftBorder = -7.0f;
-	private float rightBorder = 41.0f;
-	private float upperBorder = - 10.9f;
-	private float lowerBorder = 43.5f;
+	private float leftBorder;
+	private float rightBorder;
+	private float upperBorder;
+	private float lowerBorder;
 	private float vertBorder;
 	private float horBorder;
-	private float mapX = 100.0f;
+	private float mapX = 135.0f;
 	private float mapY = 100.0f;
 	private Vector3 movement;
 
