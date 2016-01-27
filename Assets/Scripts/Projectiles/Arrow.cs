@@ -32,7 +32,10 @@ public class Arrow : MonoBehaviour {
 
 	public void setTarget(Collider2D targetEnemy){
 		target = targetEnemy;
+		calcDirection ();
+	}
 
+	void calcDirection(){
 		direction = target.transform.position - transform.position;
 
 		//vorhalten
@@ -41,9 +44,7 @@ public class Arrow : MonoBehaviour {
 		float targetSpeed = es.getMovingSpeed ();
 		Vector3 targetDirection = es.getMovingDirection ();
 		calculatedTargetPoint = targetDirection.normalized * (targetSpeed * (direction.magnitude / speed));
-
 		direction = direction + calculatedTargetPoint;
-
 
 		//rotation entsprechend richtungsvektor
 		float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
@@ -51,14 +52,17 @@ public class Arrow : MonoBehaviour {
 		angle += 90f;
 		Quaternion q = Quaternion.AngleAxis(angle, Vector3.forward);
 		transform.rotation = q;
+
 	}
 
 	// Update is called once per frame
 	void Update () {
 
-		if(Vector3.Distance(transform.position, spawnPosition) > 20f){
+		if(Vector3.Distance(transform.position, spawnPosition) > 20f || target == null){
 			Destroy (gameObject);
 		}
+			
+		calcDirection ();
 
 		//obj.transform.Translate (direction*Time.deltaTime, Space.World);
 		transform.Translate (direction.normalized*speed*Time.deltaTime, Space.World);	
