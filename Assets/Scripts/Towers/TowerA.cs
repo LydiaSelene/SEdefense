@@ -40,7 +40,7 @@ public class TowerA : MonoBehaviour {
 		Collider2D[] colliders = Physics2D.OverlapCircleAll (transform.position, radius);
 		//Gegner unter den Collidern suchen
 		foreach (Collider2D c in colliders) {
-			if (c.tag.Equals ("FlyingEnemy")) {
+			if (c.tag.Equals ("FlyingEnemy") || c.tag.Equals ("GroundEnemy") ) {
 				//auf den ersten Gegner feuern
 				targetEnemy = c;
 				hasTarget = true;
