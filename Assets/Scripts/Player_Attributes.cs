@@ -5,6 +5,7 @@ public class Player_Attributes : MonoBehaviour {
 
 	float health;
 	float money;
+	GameObject lose;
 
 	// Use this for initialization
 	void Start () {
@@ -21,6 +22,7 @@ public class Player_Attributes : MonoBehaviour {
 		if(health <= 0){
 			//TODO
 			Debug.Log("You Loose!");
+			lose = GameObject.FindGameObjectWithTag ("Lose");
 		}
 	}
 
