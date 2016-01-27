@@ -222,7 +222,7 @@ public class SEDGen extends SEDefenseLangBaseListener{
 	    File outfile = null;
 	    int returnVal = outputchooser.showOpenDialog(null);
 	    if(returnVal == JFileChooser.APPROVE_OPTION) {
-	    	outfile = new File(outputchooser.getSelectedFile().getAbsolutePath() + "/Level"+curLvl+".cs");
+	    	outfile = new File(outputchooser.getSelectedFile().getAbsolutePath() + "/SpawnWaves_Level"+curLvl+".cs");
 	    }else{
 	    	System.exit(0);
 	    }
