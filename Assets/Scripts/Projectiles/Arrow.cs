@@ -16,7 +16,7 @@ public class Arrow : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		damage = 8f;
+		damage = 6f;
 		spawnPosition = transform.position;
 	}
 

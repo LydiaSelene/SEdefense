@@ -16,8 +16,8 @@ public class Enemy_Dragon : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		thistransform = transform;
-		health = 10;
-		movingSpeed = 7.0f;
+		health = 20;
+		movingSpeed = 10.0f;
 		targetPoint = transform.position;
 	}
 
