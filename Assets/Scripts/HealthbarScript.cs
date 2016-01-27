@@ -11,8 +11,9 @@ public class HealthbarScript : MonoBehaviour {
 	public float length;
 	private double healthPercentage;
 	private float actualWidth;
+	float maxHealth;
 
-	
+
 	public GameObject healthbarImage;
 	private GameObject transformedHealthbar;
 	private RectTransform rt;
@@ -20,7 +21,8 @@ public class HealthbarScript : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		health = 100.0f;
+		Debug.Log ("start");
+		//health = 100.0f;
 		length = 500.0f;
 		healthPercentage = 100.00;
 		
@@ -33,8 +35,17 @@ public class HealthbarScript : MonoBehaviour {
 	void Update () {
 
 	}
-	
+
+	public void initializeMaxHealth(float health){
+		Debug.Log ("init");
+		maxHealth = health;
+		this.health = maxHealth;
+		setHealth (maxHealth);
+
+	}
+
 	public void setHealth(float health){
-		rt.sizeDelta = new Vector2(health * 5.0f, 40f);
+		
+		rt.sizeDelta = new Vector2( health * (length/maxHealth), 40f);
 	}
 }
