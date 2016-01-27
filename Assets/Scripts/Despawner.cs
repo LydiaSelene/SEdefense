@@ -10,12 +10,10 @@ public class Despawner : MonoBehaviour {
 		
 	void OnTriggerEnter2D(Collider2D other) {
 		//Debug.Log("trigger");
-		if (other.tag.Equals ("FlyingEnemy")) {
+		if (other.tag.Equals ("FlyingEnemy") || other.tag.Equals ("groundEnemy") ) {
 			//Debug.Log("despawn");
-			if (other.name.Contains ("Enemy_Dragon")) {
-				Enemy_Dragon script = other.GetComponent<Enemy_Dragon> ();
-				script.onDespawn ();
-			}
+			other.SendMessage ("onDespawn");
+			GetComponent<Player_Attributes> ().onHit();
 
 		}
 	}
