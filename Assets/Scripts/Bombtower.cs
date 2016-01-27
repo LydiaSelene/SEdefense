@@ -27,9 +27,9 @@ public class Bombtower : MonoBehaviour
     {
         thistransform = gameObject.transform;
 
-        fireIntervall = 1.0f;
+        fireIntervall = 3.0f;
         actualIntervallTime = 0.0f;
-        radius = 18f;
+        radius = 14f;
         //radius = GetComponent<CircleCollider2D>().radius;
         hasTarget = false;
 
@@ -41,7 +41,7 @@ public class Bombtower : MonoBehaviour
         //Gegner unter den Collidern suchen
         foreach (Collider2D c in colliders)
         {
-            if (c.tag.Equals("FlyingEnemy"))
+			if (c.tag.Equals("FlyingEnemy")|| c.tag.Equals("GroundEnemy"))
             {
                 //auf den ersten Gegner feuern
                 targetEnemy = c;

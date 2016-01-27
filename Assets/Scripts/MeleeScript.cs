@@ -24,10 +24,10 @@ public class MeleeScript : MonoBehaviour {
 
         fireIntervall = 0.6f;
         actualIntervallTime = 0.0f;
-        radius = 10f;
+        radius = 7f;
         atkAnim = gameObject.GetComponent<ParticleSystem>();
         atkAnim.Stop();
-        dmg = 10.0f;
+        dmg = 9.0f;
     }
 
 
@@ -46,7 +46,7 @@ public class MeleeScript : MonoBehaviour {
             //Gegner unter den Collidern suchen
             foreach (Collider2D c in colliders)
             {
-                if (c.tag.Equals("FlyingEnemy") || c.tag.Equals("GroundEnemy"))
+                if (c.tag.Equals("GroundEnemy"))
                 {
                     atkAnim.Play();
                     c.gameObject.SendMessage("dealDamage", dmg, SendMessageOptions.RequireReceiver);
