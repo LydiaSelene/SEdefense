@@ -4,11 +4,14 @@ using UnityEngine.UI;
 
 public class CurrentMoneyAttributes : MonoBehaviour {
 
-	public int currentMoney;
+	public float currentMoney;
+	Text currentMoneyString;
 
 	// Use this for initialization
 	void Start () {
-		currentMoney = 1000;
+		//currentMoney = 1000;
+		//currentMoneyString = GetComponent<Text> ();
+		//currentMoneyString.text = " " + currentMoney; 
 	}
 	
 	// Update is called once per frame
@@ -16,11 +19,18 @@ public class CurrentMoneyAttributes : MonoBehaviour {
 	
 	}
 
-	public int GetCurrentMoney(){
-		return currentMoney;
+	public void initializeMoney(float money){
+		currentMoney = money;
+		currentMoneyString = GetComponent<Text> ();
+		currentMoneyString.text = " " + currentMoney; 
 	}
 
-	public void SetCurrentMoney(int refreshedAmount){
+	public int GetCurrentMoney(){
+		return (int) currentMoney;
+	}
+
+	public void setCurrentMoney(float refreshedAmount){
 		currentMoney = refreshedAmount;
+		currentMoneyString.text = " " + currentMoney; 
 	}
 }

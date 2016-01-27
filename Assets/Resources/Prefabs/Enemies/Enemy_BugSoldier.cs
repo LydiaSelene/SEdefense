@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Enemy_Dragon : MonoBehaviour {
+public class Enemy_BugSoldier : MonoBehaviour {
 
 	//Das Transformobjekt, nur lokal wegen Performance
 	Transform thistransform;
@@ -24,10 +24,10 @@ public class Enemy_Dragon : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		thistransform = transform;
-		health = 33f;
-		movingSpeed = 10.0f;
+		health = 12f;
+		movingSpeed = 4.0f;
 		targetPoint = transform.position;
-		money = 50;
+		money = 5;
 	}
 
 	//Der Gegner erhält alle Wegpunkte, die er abgehen soll.
@@ -84,7 +84,7 @@ public class Enemy_Dragon : MonoBehaviour {
 			thistransform.localScale = sc;
 		}
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 
