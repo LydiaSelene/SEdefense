@@ -103,7 +103,7 @@ public class SEDGen extends SEDefenseLangBaseListener{
 		out = out + "using System.Collections.Generic;\n";
 		out = out+"using System.Collections;\n\n";
 		//Start Class
-		out = out+"public class Level" + curLvl + " : MonoBehaviour{\n";
+		out = out+"public class SpawnWaves_Level" + curLvl + " : MonoBehaviour{\n";
 		ArrayList<String> usedEnemies = new ArrayList<String>();
 		//Fill used enemies
 		for (Wave wave : waves) {
