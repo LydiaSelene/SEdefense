@@ -12,10 +12,12 @@ public class Bombscript : MonoBehaviour {
     float damage;
     bool kill;
     float explosionradius;
+    float killtimer;
 
 	// Use this for initialization
 	void Start () {
         speed = 20.0f;
+        killtimer = 0;
         explosion = gameObject.GetComponent<ParticleSystem>();
         explosion.Stop();
         damage = 4.0f;
@@ -31,17 +33,17 @@ public class Bombscript : MonoBehaviour {
 
             if (other.gameObject.tag.Equals("FlyingEnemy") || other.gameObject.tag.Equals("GroundEnemy"))
             {
-                explosion.Play();
-                kill = true;
+                Debug.Log("BOOM");
                 Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, explosionradius);
-
                 foreach (Collider2D c in colliders)
                 {
                     if (c.tag.Equals("FlyingEnemy")||c.tag.Equals("GroundEnemy"))
-                    {
+                   { 
                         c.gameObject.SendMessage("dealDamage", damage, SendMessageOptions.RequireReceiver);
                     }
                 }
+                explosion.Play();
+                kill = true;
             }
             
         }
@@ -71,25 +73,26 @@ public class Bombscript : MonoBehaviour {
 
         calculatedTargetPoint = targetDirection.normalized * (targetSpeed * (direction.magnitude / speed));
         direction = direction + calculatedTargetPoint;
-
-        //rotation entsprechend richtungsvektor
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        //wegen der spritegrafik
-        angle += 90f;
-        Quaternion q = Quaternion.AngleAxis(angle, Vector3.forward);
-        transform.rotation = q;
-
     }
 
 	// Update is called once per frame
 	void Update () {
-        if (kill && !explosion.isPlaying)
+        if (kill)
         {
+            if (killtimer > 0.2)
+            {
                 Destroy(gameObject);
+            }
+            else
+            {
+                killtimer += Time.deltaTime;
+                explosion.Play();
+            }
         }
         if (Vector3.Distance(transform.position, spawnPosition) > 20f || target == null)
         {
-            Destroy(gameObject);
+            kill = true;
+            killtimer = 0.2f;
         }
         else
         {
@@ -97,6 +100,5 @@ public class Bombscript : MonoBehaviour {
         }
 
         transform.Translate(direction.normalized * speed * Time.deltaTime, Space.World);	
-	
 	}
 }
