@@ -1,0 +1,8 @@
+﻿Level 1:
+Wave 1:
+Enemies: "Enemy_Dragon", "Enemy_FrozenWolf", "Enemy_Goblin1" Amount: 15
+Pattern: "Enemy_Dragon" Spawn(15.0,3.0) "Enemy_Dragon" Spawn(15.0,4.0) "Enemy_FrozenWolf" Spawn(14.0,3.0) "Enemy_FrozenWolf" Spawn(14.0,4.0) "Enemy_Goblin1" Spawn(13.0,5.0) Delay: 2.0
+
+Wave 2:
+Enemies: "Enemy_Cookie1", "Enemy_Mantis", "Enemy_Santa" Amount: 10
+Pattern: "Enemy_Mantis" Spawn(10.0,5.0) "Enemy_Cookie1" Spawn(11.0,5.0) "Enemy_Santa" Spawn(9.0,5.0) Delay: 3.0
