@@ -10,7 +10,7 @@ public class Despawner : MonoBehaviour {
 		
 	void OnTriggerEnter2D(Collider2D other) {
 		//Debug.Log("trigger");
-		if (other.tag.Equals ("FlyingEnemy") || other.tag.Equals ("groundEnemy") ) {
+		if (other.tag.Equals ("FlyingEnemy") || other.tag.Equals ("GroundEnemy") ) {
 			//Debug.Log("despawn");
 			other.SendMessage ("onDespawn");
 			GetComponent<Player_Attributes> ().onHit();
