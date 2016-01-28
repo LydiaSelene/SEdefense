@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEditor;
 using System.Collections.Generic;
 using System.Collections;
 
@@ -165,7 +164,7 @@ public class SpawnWaves_Level2 : MonoBehaviour{
 			case 1:
 				delay2 = delay2 - (Time.deltaTime % 60);
 				if(delay2 <= 0){
-					GameObject m = Instantiate(Enemy_Dragon, new Vector3(23.7f,0.0f), Quaternion.identity) as GameObject;
+					GameObject m = Instantiate(Enemy_Dragon, new Vector3(9.0f,32.0f), Quaternion.identity) as GameObject;
 					m.SendMessage ("setWaypoints", waypoints, SendMessageOptions.RequireReceiver );
 					delay2 = 1.0f;
 					patternint++;
