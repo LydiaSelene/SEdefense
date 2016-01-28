@@ -99,7 +99,6 @@ public class SEDGen extends SEDefenseLangBaseListener{
 	public void exitLevel(SEDefenseLangParser.LevelContext ctx){
 		String out = "";
 		out = out+"using UnityEngine;\n";
-		out = out+"using UnityEditor;\n";
 		out = out + "using System.Collections.Generic;\n";
 		out = out+"using System.Collections;\n\n";
 		//Start Class
