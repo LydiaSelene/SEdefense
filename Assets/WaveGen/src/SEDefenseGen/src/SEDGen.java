@@ -232,6 +232,7 @@ public class SEDGen extends SEDefenseLangBaseListener{
 			FileWriter fout = new FileWriter(outfile);
 			fout.write(out);
 			fout.close();
+			waves.clear();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
