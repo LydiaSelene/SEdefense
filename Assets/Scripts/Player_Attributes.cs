@@ -25,7 +25,7 @@ public class Player_Attributes : MonoBehaviour {
 			//TODO
 			Debug.Log("You Loose!");
 			lose =  Resources.Load ("Prefabs/Lose", typeof(GameObject)) as GameObject;
-			Instantiate (lose, Camera.main.ScreenToViewportPoint(new Vector3(0,0,5)), Quaternion.identity);
+			Instantiate (lose, Camera.main.ScreenToViewportPoint(new Vector3(0,0,0)), Quaternion.identity);
 			loseBool = true;
 			Time.timeScale = 0.0f;
 		}
